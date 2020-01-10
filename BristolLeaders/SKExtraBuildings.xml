@@ -6,6 +6,7 @@
 			<Type>DAVEHAPPINESSDUMMY</Type>
 			<BuildingClass>DUMMYBUILDINGS</BuildingClass>
 			<Cost>100000</Cost>
+			<Defense>5</Defense>
 			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
 			<Help>Happiness for dave only</Help>
 			<Description>Dummy</Description>
@@ -25,7 +26,7 @@
 				<Type>FRANCISDUMMY</Type>
 				<BuildingClass>FRANCISBUILDINGS</BuildingClass>
 				<Cost>100000</Cost>
-				<Defense>1</Defense>
+				<Defense>4</Defense>
 				<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
 				<Help>For Francis only</Help>
 				<Description>Dummy</Description>
@@ -43,6 +44,7 @@
 			<Type>SAMUELDUMMY</Type>
 			<BuildingClass>SAMUELBUILDINGS</BuildingClass>
 			<Cost>100000</Cost>
+			<Defense>5</Defense>
 			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
 			<Help>For SAMUEL only</Help>
 			<Description>Dummy</Description>
@@ -60,6 +62,7 @@
 				<Type>STEFANDUMMY</Type>
 				<BuildingClass>STEFANBUILDINGS</BuildingClass>
 				<Cost>100000</Cost>
+				<Defense>5</Defense>
 				<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
 				<Help>10% science but -1 happiness per city</Help>
 				<Description>Dummy</Description>
@@ -77,6 +80,7 @@
 			<Type>CATDUMMY</Type>
 			<BuildingClass>CATBUILDINGS</BuildingClass>
 			<Cost>100000</Cost>
+			<Defense>2</Defense>
 			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
 			<Help>Production for Cat Only</Help>
 			<Description>Dummy</Description>
@@ -94,6 +98,7 @@
 			<Type>ROBOTDUMMY</Type>
 			<BuildingClass>ROBOTBUILDINGS</BuildingClass>
 			<Cost>100000</Cost>
+			<Defense>5</Defense>
 			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
 			<Help>Production for Cat Only</Help>
 			<Description>Dummy</Description>
@@ -112,13 +117,13 @@
 			<Type>CALEBDUMMY</Type>
 			<BuildingClass>CALEBBUILDINGS</BuildingClass>
 			<Cost>100000</Cost>
-			<Defense>3</Defense>
+			<Defense>4</Defense>
 			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
 			<Help>Production for Caleb Only</Help>
 			<Description>Dummy</Description>
 			<ArtDefineTag>NONE</ArtDefineTag>
 			<MinAreaSize>-1</MinAreaSize>
-			<GlobalGreatPeopleRateModifier>50</GlobalGreatPeopleRateModifier>
+			<GlobalGreatPeopleRateModifier>35</GlobalGreatPeopleRateModifier>
 			<AllowsRangeStrike>true</AllowsRangeStrike>
 			<NeverCapture>true</NeverCapture>
 			<HurryCostModifier>-1</HurryCostModifier>
@@ -130,6 +135,7 @@
 			<Type>DANDUMMY</Type>
 			<BuildingClass>DANBUILDINGS</BuildingClass>
 			<Cost>100000</Cost>
+			<Defense>3</Defense>
 			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
 			<Help>Production for DAN Only</Help>
 			<Description>Dummy</Description>
@@ -207,7 +213,7 @@
 			<Row>
 				<BuildingType>DAVEHAPPINESSDUMMY</BuildingType>
 				<YieldType>YIELD_GOLD</YieldType>
-				<Yield>-15</Yield>
+				<Yield>-10</Yield>
 			</Row>
 			<Row>
 				<BuildingType>DAVEHAPPINESSDUMMY</BuildingType>
@@ -217,6 +223,11 @@
 			<Row>
 				<BuildingType>FRANCISDUMMY</BuildingType>
 				<YieldType>YIELD_PRODUCTION</YieldType>
+				<Yield>-10</Yield>
+			</Row>
+			<Row>
+				<BuildingType>FRANCISDUMMY</BuildingType>
+				<YieldType>YIELD_FOOD</YieldType>
 				<Yield>-5</Yield>
 			</Row>
 			<Row>
@@ -230,6 +241,11 @@
 				<Yield>15</Yield>
 			</Row>
 			<Row>
+				<BuildingType>CATDUMMY</BuildingType>
+				<YieldType>YIELD_PRODUCTION</YieldType>
+				<Yield>-5</Yield>
+			</Row>
+			<Row>
 				<BuildingType>STEFANDUMMY</BuildingType>
 				<YieldType>YIELD_SCIENCE</YieldType>
 				<Yield>10</Yield>
@@ -237,7 +253,7 @@
 			<Row>
 				<BuildingType>FRANCISDUMMY</BuildingType>
 				<YieldType>YIELD_GOLD</YieldType>
-				<Yield>20</Yield>
+				<Yield>15</Yield>
 			</Row>
 			<Row>
 				<BuildingType>SAMUELDUMMY</BuildingType>
@@ -262,6 +278,11 @@
 				<BuildingType>SAMUELDUMMY</BuildingType>
 				<YieldType>YIELD_FAITH</YieldType>
 				<Yield>2</Yield>
+			</Row>
+			<Row>
+				<BuildingType>CATDUMMY</BuildingType>
+				<YieldType>YIELD_GOLD</YieldType>
+				<Yield>-2</Yield>
 			</Row>
 		
 		</Building_YieldChanges>

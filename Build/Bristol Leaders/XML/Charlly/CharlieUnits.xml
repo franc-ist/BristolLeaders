@@ -8,10 +8,9 @@
       <Strategy>TXT_KEY_UNIT_SK_CAT_STRATEGY</Strategy>
       <Help>TXT_KEY_UNIT_HELP_SK_CAT_PICTISH_WARRIOR</Help>
       <Requirements></Requirements>
-      <Combat>10</Combat>
+      <Combat>12</Combat>
       <RangedCombat>0</RangedCombat>
-      <Cost>70</Cost>
-      <FaithCost>112</FaithCost>
+      <Cost>80</Cost>
       <RequiresFaithPurchaseEnabled>0</RequiresFaithPurchaseEnabled>
       <Moves>2</Moves>
       <Immobile>0</Immobile>

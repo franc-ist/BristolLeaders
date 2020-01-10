@@ -10,7 +10,7 @@
       <Help>Same as Opera House but also gives 1 world diplomatic vote and plus an extra Culture with no maintance</Help>
       <ThemingBonusHelp></ThemingBonusHelp>
       <Quote></Quote>
-      <GoldMaintenance>0</GoldMaintenance>
+      <GoldMaintenance>2</GoldMaintenance>
       <MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
       <TeamShare>0</TeamShare>
       <Water>0</Water>
@@ -184,7 +184,12 @@
 	<Row>
 		<BuildingType>BUILDING_SK_FRANCIS</BuildingType>
 		<YieldType>YIELD_PRODUCTION</YieldType>
-		<Yield>1</Yield>
+		<Yield>2</Yield>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_SK_FRANCIS</BuildingType>
+		<YieldType>YIELD_FOOD</YieldType>
+		<Yield>2</Yield>
 	</Row>
 </Building_GlobalYieldModifiers>
   <!-- Building_GlobalYieldModifiers -->

@@ -42,6 +42,14 @@
 		<Yield>43</Yield>
 	</Row>
 	</Building_YieldModifiers>
+
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_SK_STEFAN</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>70</Flavor>
+		</Row>
+	</Building_Flavors>
   <!-- Building_AreaYieldModifiers -->
   <!-- Building_BuildingClassHappiness -->
   <!-- Building_BuildingClassYieldChanges -->

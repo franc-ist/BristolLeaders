@@ -5,7 +5,7 @@
       <Type>BUILDING_SK_SAMUEL</Type>
 	  <BuildingClass>BUILDINGCLASS_COLOSSEUM</BuildingClass>
 	  <Cost>75</Cost>
-	  <GoldMaintenance>4</GoldMaintenance>
+	  <GoldMaintenance>3</GoldMaintenance>
 	  <PrereqTech>TECH_CONSTRUCTION</PrereqTech>
 	  <Help>Trust me you do not want to see it.It gets plus 2 happines a science and a culture and a gold compared to a normal one but does have an extra 3 maintance</Help>
 	  <Description>Sams happy place</Description>
@@ -35,18 +35,29 @@
     <Row>
       <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
       <FlavorType>FLAVOR_CULTURE</FlavorType>
-      <Flavor>10</Flavor>
-    </Row>
-    <Row>
-      <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
-      <FlavorType>FLAVOR_HAPPINESS</FlavorType>
       <Flavor>50</Flavor>
     </Row>
     <Row>
       <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
-      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
-      <Flavor>2</Flavor>
+      <FlavorType>FLAVOR_HAPPINESS</FlavorType>
+      <Flavor>100</Flavor>
     </Row>
+	  <Row>
+		  <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
+		  <FlavorType>FLAVOR_GOLD</FlavorType>
+		  <Flavor>10</Flavor>
+	  </Row>
+    <Row>
+      <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
+      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+		  <Row>
+			  <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
+			  <FlavorType>FLAVOR_SCIENCE</FlavorType>
+			  <Flavor>20</Flavor>
+		  </Row>
+
   </Building_Flavors>
   <!-- Building_GlobalYieldModifiers -->
   <!-- Building_HurryModifiers -->

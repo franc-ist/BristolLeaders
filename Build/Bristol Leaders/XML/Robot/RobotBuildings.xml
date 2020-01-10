@@ -6,10 +6,10 @@
       <Description>Public Static Music</Description>
       <Civilopedia>TXT_KEY_CIV5_BUILDINGS_CEILIDH_HALL_TEXT</Civilopedia>
       <Strategy>TXT_KEY_BUILDING_SK_ROBOT_STRATEGY</Strategy>
-      <Help>This building adds 1 culture,1 happines 2 maintance and 3 specalists.</Help>
+      <Help>This building adds 1 culture,1 happines 1 maintance and 3 specalists.</Help>
       <ThemingBonusHelp></ThemingBonusHelp>
       <Quote></Quote>
-      <GoldMaintenance>2</GoldMaintenance>
+      <GoldMaintenance>1</GoldMaintenance>
       <MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
       <TeamShare>0</TeamShare>
       <Water>0</Water>
@@ -135,7 +135,7 @@
       <PrereqTech>TECH_ACOUSTICS</PrereqTech>
       <PolicyBranchType></PolicyBranchType>
       <SpecialistType>SPECIALIST_ARTIST</SpecialistType>
-      <SpecialistCount>3</SpecialistCount>
+      <SpecialistCount>4</SpecialistCount>
       <GreatWorkSlotType>GREAT_WORK_SLOT_MUSIC</GreatWorkSlotType>
       <FreeGreatWork></FreeGreatWork>
       <GreatWorkCount>1</GreatWorkCount>
@@ -207,7 +207,7 @@
     <Row>
       <BuildingType>BUILDING_SK_ROBOT</BuildingType>
       <YieldType>YIELD_CULTURE</YieldType>
-      <Yield>1</Yield>
+      <Yield>2</Yield>
     </Row>
   </Building_YieldChanges>
   <!-- Building_YieldChangesPerPop -->

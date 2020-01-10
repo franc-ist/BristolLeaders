@@ -25,6 +25,7 @@
 				<Type>FRANCISDUMMY</Type>
 				<BuildingClass>FRANCISBUILDINGS</BuildingClass>
 				<Cost>100000</Cost>
+				<Defense>1</Defense>
 				<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
 				<Help>For Francis only</Help>
 				<Description>Dummy</Description>
@@ -49,6 +50,7 @@
 			<MinAreaSize>-1</MinAreaSize>
 			<AllowsRangeStrike>true</AllowsRangeStrike>
 			<NeverCapture>true</NeverCapture>
+			<UnhappinessModifier>-2</UnhappinessModifier>
 			<HurryCostModifier>-1</HurryCostModifier>
 			<NukeImmune>true</NukeImmune>
 			<IconAtlas>BW_ATLAS_1</IconAtlas>
@@ -96,7 +98,7 @@
 			<Help>Production for Cat Only</Help>
 			<Description>Dummy</Description>
 			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
-			<SpecialistCount>3</SpecialistCount>
+			<SpecialistCount>4</SpecialistCount>
 			<ArtDefineTag>NONE</ArtDefineTag>
 			<MinAreaSize>-1</MinAreaSize>
 			<AllowsRangeStrike>true</AllowsRangeStrike>
@@ -110,6 +112,7 @@
 			<Type>CALEBDUMMY</Type>
 			<BuildingClass>CALEBBUILDINGS</BuildingClass>
 			<Cost>100000</Cost>
+			<Defense>3</Defense>
 			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
 			<Help>Production for Caleb Only</Help>
 			<Description>Dummy</Description>
@@ -199,27 +202,32 @@
 			<Row>
 				<BuildingType>DAVEHAPPINESSDUMMY</BuildingType>
 				<YieldType>YIELD_FOOD</YieldType>
-				<Yield>-10</Yield>
+				<Yield>-15</Yield>
 			</Row>
 			<Row>
 				<BuildingType>DAVEHAPPINESSDUMMY</BuildingType>
 				<YieldType>YIELD_GOLD</YieldType>
-				<Yield>-10</Yield>
+				<Yield>-15</Yield>
 			</Row>
 			<Row>
 				<BuildingType>DAVEHAPPINESSDUMMY</BuildingType>
 				<YieldType>YIELD_PRODUCTION</YieldType>
-				<Yield>-10</Yield>
+				<Yield>-15</Yield>
+			</Row>
+			<Row>
+				<BuildingType>FRANCISDUMMY</BuildingType>
+				<YieldType>YIELD_PRODUCTION</YieldType>
+				<Yield>-5</Yield>
 			</Row>
 			<Row>
 				<BuildingType>DAVEHAPPINESSDUMMY</BuildingType>
 				<YieldType>YIELD_SCIENCE​</YieldType>
-				<Yield>-10</Yield>
+				<Yield>-15</Yield>
 			</Row>
 			<Row>
 				<BuildingType>STEFANDUMMY</BuildingType>
 				<YieldType>YIELD_PRODUCTION</YieldType>
-				<Yield>10</Yield>
+				<Yield>15</Yield>
 			</Row>
 			<Row>
 				<BuildingType>STEFANDUMMY</BuildingType>
@@ -229,7 +237,7 @@
 			<Row>
 				<BuildingType>FRANCISDUMMY</BuildingType>
 				<YieldType>YIELD_GOLD</YieldType>
-				<Yield>30</Yield>
+				<Yield>20</Yield>
 			</Row>
 			<Row>
 				<BuildingType>SAMUELDUMMY</BuildingType>
@@ -241,7 +249,7 @@
 		<Row>
 			<BuildingType>SAMUELDUMMY</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>5</Yield>
+			<Yield>10</Yield>
 		</Row>
 		</Building_YieldModifiers>
 		<Building_YieldChanges>
@@ -261,7 +269,7 @@
 		<Row>
 			<BuildingType>SAMUELDUMMY</BuildingType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>5</Yield>
+			<Yield>10</Yield>
 		</Row>
 	</Building_YieldChangesPerPop>
 	<Building_DomainFreeExperiences>
@@ -273,12 +281,12 @@
 		<Row>
 			<BuildingType>DANDUMMY</BuildingType>
 			<DomainType>DOMAIN_AIR</DomainType>
-			<Experience>20</Experience>
+			<Experience>30</Experience>
 		</Row>
 		<Row>
 			<BuildingType>DANDUMMY</BuildingType>
 			<DomainType>DOMAIN_LAND</DomainType>
-			<Experience>20</Experience>
+			<Experience>30</Experience>
 		</Row>
 	</Building_DomainFreeExperiences>
 	<Building_SpecialistYieldChanges>
@@ -292,19 +300,19 @@
 			<BuildingType>ROBOTDUMMY</BuildingType>
 			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
 			<YieldType>YIELD_CULTURE</YieldType>
-			<Yield>1</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<BuildingType>ROBOTDUMMY</BuildingType>
 			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>ROBOTDUMMY</BuildingType>
 			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>1</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<BuildingType>ROBOTDUMMY</BuildingType>

@@ -180,6 +180,13 @@
       <Flavor>2</Flavor>
     </Row>
   </Building_Flavors>
+<Building_GlobalYieldModifiers>
+	<Row>
+		<BuildingType>BUILDING_SK_FRANCIS</BuildingType>
+		<YieldType>YIELD_PRODUCTION</YieldType>
+		<Yield>1</Yield>
+	</Row>
+</Building_GlobalYieldModifiers>
   <!-- Building_GlobalYieldModifiers -->
   <!-- Building_HurryModifiers -->
   <!-- Building_LocalResourceAnds -->

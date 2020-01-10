@@ -6,10 +6,10 @@
       <Description>Caleb's Orchestra</Description>
       <Civilopedia>This is Caleb's orchestra</Civilopedia>
       <Strategy>Build this always</Strategy>
-      <Help>This building adds 2 great musician points, 2 happiness, 3 culture and doesn't require the ampitheater. Needs 3 maintance and slightly more production.</Help>
+      <Help>This building adds 2 great musician points, 2 happiness, 3 culture and doesn't require the ampitheater. Needs 2 maintance and slightly more production.</Help>
       <ThemingBonusHelp></ThemingBonusHelp>
       <Quote></Quote>
-      <GoldMaintenance>3</GoldMaintenance>
+      <GoldMaintenance>2</GoldMaintenance>
       <MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
       <TeamShare>0</TeamShare>
       <Water>0</Water>

@@ -6,7 +6,7 @@
 		  <BuildingClass>BUILDINGCLASS_LIGHTHOUSE</BuildingClass>
 		  <FreeStartEra>ERA_RENAISSANCE</FreeStartEra>
 		  <Cost>80</Cost>
-		  <GoldMaintenance>2</GoldMaintenance>
+		  <GoldMaintenance>1</GoldMaintenance>
 		  <PrereqTech>TECH_SAILING</PrereqTech>
 		  <Help>Build this to get +1 food and gold from coast tiles.+1 food and + 1 gold but 2 maintance.Also gives +10xp to every naval unit but your special one as I can`t fix that.</Help>
 		  <Description>Dans Canoe Club</Description>

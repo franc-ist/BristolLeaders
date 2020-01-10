@@ -298,7 +298,7 @@
   <Colors>
     <Row>
       <Type>COLOR_PLAYER_SK_SAMUEL_BACKGROUND</Type>
-      <Red>0.0</Red>
+      <Red>0.5</Red>
       <Green>1.0</Green>
       <Blue>1.0</Blue>
       <Alpha>1.0</Alpha>

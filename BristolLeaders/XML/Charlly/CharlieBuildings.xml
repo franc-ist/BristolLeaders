@@ -9,7 +9,7 @@
 		<Help>This adds 10% military production boost and gives 30 xp instead of 15 xp to units.Has no maintance but requires extra prodiction</Help>
 		<BuildingClass>BUILDINGCLASS_BARRACKS</BuildingClass>
 		<Cost>90</Cost>
-		<GoldMaintenance>0</GoldMaintenance>
+		<GoldMaintenance>1</GoldMaintenance>
 		<MilitaryProductionModifier>10</MilitaryProductionModifier>
 		<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
 		<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
@@ -72,7 +72,7 @@
 		-<Row>
 			<BuildingType>BUILDING_SK_CAT</BuildingType>
 			<DomainType>DOMAIN_LAND</DomainType>
-			<Experience>30</Experience>
+			<Experience>35</Experience>
 		</Row>
 		</Building_DomainFreeExperiences>
 </GameData>

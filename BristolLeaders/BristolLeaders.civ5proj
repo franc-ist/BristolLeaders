@@ -5,9 +5,9 @@
     <ProjectGuid>{d7995a0d-e469-4d69-b606-44accd655e77}</ProjectGuid>
     <Name>Bristol Leaders</Name>
     <Guid>8658c295-99ad-41b4-9c98-d9ec6259216b</Guid>
-    <ModVersion>7</ModVersion>
+    <ModVersion>8</ModVersion>
     <Stability>Alpha</Stability>
-    <Teaser>Adds 8 civilizations based off our friend group in Bristol.</Teaser>
+    <Teaser>Adds 8 civilizations based off our friend group in Bristol.Github version.</Teaser>
     <Description>Adds 8 civilizations based off our friend group in Bristol. 
 
 Some known bugs - Some Pictures Dont work. Some of art is weird. Stefan starts with a extra warrior as well please delete. Ai plays werid.

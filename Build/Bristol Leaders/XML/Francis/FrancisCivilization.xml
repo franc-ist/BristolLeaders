@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_SK_FRANCIS</Type>
+      <Description>TXT_KEY_CIV_SK_FRANCIS_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_SK_FRANCIS</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_SK_FRANCIS_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_SK_FRANCIS_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_SK_FRANCIS</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_ROME</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+	  <PortraitIndex>4</PortraitIndex>
+	  <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
+	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
+      <MapImage>FrancisScene.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_FRANCIS_TEXT</DawnOfManQuote>
+      <DawnOfManImage>FrancisScene.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_SK_FRANCIS</DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_OPERA_HOUSE</BuildingClassType>
+      <BuildingType>BUILDING_SK_FRANCIS</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_FRANCIS_35</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+		  <BuildingClassType>FRANCISBUILDINGS</BuildingClassType>
+	  </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+		  <UnitClassType>UNITCLASS_SCOUT</UnitClassType>
+		  <UnitAIType>UNITAI_RECON</UnitAIType>
+		  <Count>1</Count>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+		  <UnitClassType>UNITCLASS_WARRIOR</UnitClassType>
+		  <UnitAIType>UNITAI_ATTACK</UnitAIType>
+		  <Count>1</Count>
+	  </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <LeaderheadType>LEADER_SK_FRANCIS</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_FRANCIS_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_FRANCIS_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_FRANCIS_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_FRANCIS_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_FRANCIS_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_FRANCIS_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_FRANCIS_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_FRANCIS_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_FRANCIS_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_FRANCIS_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <UnitClassType>UNITCLASS_SCOUT</UnitClassType>
+      <UnitType>UNIT_SK_FRANCIS</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+  <!--Civilization_Start_Along_River-->
+  <Civilization_Start_Region_Priority>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
+      <RegionType>REGION_PLAINS</RegionType>
+    </Row>
+  </Civilization_Start_Region_Priority>
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_SK_FRANCIS</Type>
+      <PrimaryColor>COLOR_PLAYER_SK_FRANCIS_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_SK_FRANCIS_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_SK_FRANCIS_ICON</Type>
+      <Red>1.0</Red>
+      <Green>1.0</Green>
+      <Blue>1.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_SK_FRANCIS_BACKGROUND</Type>
+      <Red>0.04</Red>
+      <Green>0.31</Green>
+      <Blue>0.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_SK_FRANCIS_DESC">
+      <Text>Chaos</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_FACTOID_HEADING">
+      <Text>Factoids</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_FACTOID_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_HEADING_10">
+      <Text>The SK_FRANCISic Language</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_HEADING_11">
+      <Text>Modern Ancestry</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_HEADING_2">
+      <Text>Terrain and Climate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_HEADING_3">
+      <Text>SK_FRANCISic Origins</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_HEADING_4">
+      <Text>SK_FRANCIS of Britain</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_HEADING_5">
+      <Text>The SK_FRANCISiberians</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_HEADING_6">
+      <Text>The Gauls</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_HEADING_7">
+      <Text>The Roman Conquest</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_HEADING_8">
+      <Text>Influence of SK_FRANCISic Culture</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_HEADING_9">
+      <Text>SK_FRANCISic Religion</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_TEXT_1">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_TEXT_10">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_TEXT_11">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_TEXT_2">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_TEXT_3">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_TEXT_4">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_TEXT_5">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_TEXT_6">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_TEXT_7">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_TEXT_8">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_TEXT_9">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_TITLE">
+      <Text>Chaos Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_SK_FRANCIS_SHORT_DESC">
+      <Text>The Fronk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_SK_FRANCIS_ADJECTIVE">
+      <Text>Fronks</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_SK_FRANCIS_TEXT">
+      <Text>Oh Great Francis Taylor .Your skills at negoititations are second too none and your are praised as a great leader by other civilisations.When you vote in the world congress the world will surly vote with you.Diplomacy will carry you to victory but be careful for there are still those that would backstab you ...like Sam :)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_0">
+      <Text>Chaos</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_1">
+      <Text>Crabs are people</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_2">
+      <Text>The new empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_3">
+      <Text>Begins</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_4">
+      <Text>The Sam Leader</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_5">
+      <Text>Join us</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_6">
+      <Text>How many Cities</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_7">
+      <Text>No too Many</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_8">
+      <Text>Aberystwyth</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_9">
+      <Text>Penzance</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_10">
+      <Text>Rennes</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_11">
+      <Text>Ramsey</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_12">
+      <Text>Inverness</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_13">
+      <Text>Limerick</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_14">
+      <Text>Swansea</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_15">
+      <Text>St Ives</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_16">
+      <Text>Brest</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_17">
+      <Text>Peel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_18">
+      <Text>Aberdeen</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_19">
+      <Text>Belfast</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_20">
+      <Text>Caernarfon</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_21">
+      <Text>Newquay</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_22">
+      <Text>Saint-Nazaire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_23">
+      <Text>Castletown</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_24">
+      <Text>Stirling</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_25">
+      <Text>Galway</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_26">
+      <Text>Conwy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_27">
+      <Text>St Austell</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_28">
+      <Text>Saint-Malo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_29">
+      <Text>Onchan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_30">
+      <Text>Dundee</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_31">
+      <Text>Londonderry</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_32">
+      <Text>Llanfairpwllgwyngyll</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_33">
+      <Text>Falmouth</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_34">
+      <Text>Lorient</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_35">
+      <Text>St. John's</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_FRANCIS_0">
+      <Text>Francis</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_FRANCIS_1">
+      <Text>Will</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_FRANCIS_2">
+      <Text>General Kenobi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_FRANCIS_3">
+		<Text>Hello there</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_FRANCIS_4">
+      <Text>So many Spies</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_FRANCIS_5">
+      <Text>Please Stop</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_FRANCIS_6">
+      <Text>Mr. Quinn</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_FRANCIS_7">
+      <Text>Éadaoin</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_FRANCIS_8">
+      <Text>Alwyn</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_FRANCIS_9">
+      <Text>Col Ceathar</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

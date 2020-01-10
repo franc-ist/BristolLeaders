@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Buildings>
+    <Row>
+      <Type>BUILDING_SK_SAMUEL</Type>
+	  <BuildingClass>BUILDINGCLASS_COLOSSEUM</BuildingClass>
+	  <Cost>75</Cost>
+	  <GoldMaintenance>4</GoldMaintenance>
+	  <PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+	  <Help>Trust me you do not want to see it.It gets plus 2 happines a science and a culture and a gold compared to a normal one but does have an extra 3 maintance</Help>
+	  <Description>Sams happy place</Description>
+	  <Civilopedia>TXT_KEY_CIV5_BUILDINGS_COLISEUM_TEXT</Civilopedia>
+	  <Strategy>Use to get your cities happy and get extra science and culture</Strategy>
+	  <ArtDefineTag>COLESSEUM</ArtDefineTag>
+	  <MinAreaSize>-1</MinAreaSize>
+	  <ConquestProb>100</ConquestProb>
+	  <Happiness>4</Happiness>
+	  <HurryCostModifier>-1</HurryCostModifier>
+	  <DisplayPosition>2</DisplayPosition>
+	  <ArtInfoCulturalVariation>true</ArtInfoCulturalVariation>
+	  <IconAtlas>BW_ATLAS_1</IconAtlas>
+	  <PortraitIndex>23</PortraitIndex>
+    </Row>
+  </Buildings>
+
+  <!-- Building_AreaYieldModifiers -->
+  <!-- Building_BuildingClassHappiness -->
+  <!-- Building_BuildingClassYieldChanges -->
+  <!-- Building_FreeUnits -->
+  <!-- Building_DomainFreeExperiences -->
+  <!-- Building_DomainFreeExperiencePerGreatWork -->
+  <!-- Building_DomainProductionModifiers -->
+  <!-- Building_FreeSpecialistCounts -->
+  <Building_Flavors>
+    <Row>
+      <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
+      <FlavorType>FLAVOR_CULTURE</FlavorType>
+      <Flavor>10</Flavor>
+    </Row>
+    <Row>
+      <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
+      <FlavorType>FLAVOR_HAPPINESS</FlavorType>
+      <Flavor>50</Flavor>
+    </Row>
+    <Row>
+      <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
+      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+      <Flavor>2</Flavor>
+    </Row>
+  </Building_Flavors>
+  <!-- Building_GlobalYieldModifiers -->
+  <!-- Building_HurryModifiers -->
+  <!-- Building_LocalResourceAnds -->
+  <!-- Building_LocalResourceOrs -->
+  <!-- Building_LockedBuildingClasses -->
+  <!-- Building_PrereqBuildingClasses -->
+  <!-- Building_ResourceQuantity -->
+  <!-- Building_ResourceQuantityRequirements -->
+  <!-- Building_ResourceYieldModifiers -->
+  <!-- Building_ResourceCultureChanges -->
+  <!-- Building_ResourceFaithChanges -->
+  <!-- Building_RiverPlotYieldChanges -->
+  <!-- Building_SeaPlotYieldChanges -->
+  <!-- Building_LakePlotYieldChanges -->
+  <!-- Building_SeaResourceYieldChanges -->
+  <!-- Building_ResourceYieldChanges -->
+  <!-- Building_FeatureYieldChanges -->
+  <!-- Building_TerrainYieldChanges -->
+  <!-- Building_SpecialistYieldChanges -->
+  <!-- Building_UnitCombatFreeExperiences -->
+  <!-- Building_UnitCombatProductionModifiers -->
+  <!-- Building_TechAndPrereqs -->
+  <Building_YieldChanges>
+    <Row>
+      <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
+      <YieldType>YIELD_CULTURE</YieldType>
+      <Yield>1</Yield>
+    </Row>
+	<Row>
+		<BuildingType>BUILDING_SK_SAMUEL</BuildingType>
+		<YieldType>YIELD_SCIENCE</YieldType>
+		<Yield>1</Yield>
+	</Row>
+	  <Row>
+		  <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
+		  <YieldType>YIELD_GOLD</YieldType>
+		  <Yield>1</Yield>
+	  </Row>
+  </Building_YieldChanges>
+  <!-- Building_YieldChangesPerPop -->
+  <!-- Building_YieldChangesPerReligion -->
+  <!-- Building_TechEnhancedYieldChanges -->
+  <!-- Building_YieldModifiers -->
+  <!-- Building_ThemingBonuses -->
+
+</GameData>

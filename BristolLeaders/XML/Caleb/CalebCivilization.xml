@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_SK_CALEB</Type>
+      <Description>TXT_KEY_CIV_SK_CALEB_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_SK_CALEB</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_SK_CALEB_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_SK_CALEB_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_SK_CALEB</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_ROME</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex> 
+      <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
+      <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
+      <MapImage>CalebScene.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_CALEB_TEXT</DawnOfManQuote>
+      <DawnOfManImage>CalebScene.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_SK_CALEB</DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_OPERA_HOUSE</BuildingClassType>
+      <BuildingType>BUILDING_SK_CALEB</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_SK_CALEB_35</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+		  <BuildingClassType>CALEBBUILDINGS</BuildingClassType>
+	  </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <LeaderheadType>LEADER_SK_CALEB</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_CALEB_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_CALEB_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_CALEB_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_CALEB_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_CALEB_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_CALEB_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_CALEB_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_CALEB_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_CALEB_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_SK_CALEB_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_SK_CALEB</CivilizationType>
+      <UnitClassType>UNITCLASS_WARRIOR</UnitClassType>
+      <UnitType>UNIT_SK_CALEB</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+  <!-- Civilization_Start_Along_River -->
+  <!-- Civilization_Start_Region_Priority -->
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_SK_CALEB</Type>
+      <PrimaryColor>COLOR_PLAYER_SK_CALEB_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_SK_CALEB_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_SK_CALEB_ICON</Type>
+      <Red>1.0</Red>
+      <Green>0.0</Green>
+      <Blue>1.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_SK_CALEB_BACKGROUND</Type>
+      <Red>0.91</Red>
+      <Green>0.94</Green>
+      <Blue>0.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_SK_CALEB_DESC">
+      <Text>The CALEB Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_FACTOID_HEADING">
+      <Text>Factoids</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_FACTOID_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_HEADING_10">
+      <Text>The SK_CALEBic Language</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_HEADING_11">
+      <Text>Modern Ancestry</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_HEADING_2">
+      <Text>Terrain and Climate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_HEADING_3">
+      <Text>SK_CALEBic Origins</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_HEADING_4">
+      <Text>SK_CALEB of Britain</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_HEADING_5">
+      <Text>The SK_CALEBiberians</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_HEADING_6">
+      <Text>The Gauls</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_HEADING_7">
+      <Text>The Roman Conquest</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_HEADING_8">
+      <Text>Influence of SK_CALEBic Culture</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_HEADING_9">
+      <Text>SK_CALEBic Religion</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_TEXT_1">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_TEXT_10">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_TEXT_11">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_TEXT_2">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_TEXT_3">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_TEXT_4">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_TEXT_5">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_TEXT_6">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_TEXT_7">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_TEXT_8">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_TEXT_9">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_CALEB_TITLE">
+      <Text>Caleb Evans</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_SK_CALEB_SHORT_DESC">
+      <Text>The Great Caleb Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_SK_CALEB_ADJECTIVE">
+      <Text>Calebs</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_SK_CALEB_TEXT">
+      <Text>Listen,Listen, here approaches Caleb Evans the greatest musician. Use your music to attract more great people and let you civilization be the greatest the world has ever known...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_0">
+      <Text>Calebia</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_1">
+      <Text>Bujo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_2">
+      <Text>Salt City</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_3">
+      <Text>Hartwell</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_4">
+      <Text>Trumpet Time</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_5">
+      <Text>Join us</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_6">
+      <Text>How many Cities</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_7">
+      <Text>No too Many</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_8">
+      <Text>Aberystwyth</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_9">
+      <Text>Penzance</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_10">
+      <Text>Rennes</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_11">
+      <Text>Ramsey</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_12">
+      <Text>Inverness</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_13">
+      <Text>Limerick</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_14">
+      <Text>Swansea</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_15">
+      <Text>St Ives</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_16">
+      <Text>Brest</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_17">
+      <Text>Peel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_18">
+      <Text>Aberdeen</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_19">
+      <Text>Belfast</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_20">
+      <Text>Caernarfon</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_21">
+      <Text>Newquay</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_22">
+      <Text>Saint-Nazaire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_23">
+      <Text>Castletown</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_24">
+      <Text>Stirling</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_25">
+      <Text>Galway</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_26">
+      <Text>Conwy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_27">
+      <Text>St Austell</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_28">
+      <Text>Saint-Malo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_29">
+      <Text>Onchan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_30">
+      <Text>Dundee</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_31">
+      <Text>Londonderry</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_32">
+      <Text>Llanfairpwllgwyngyll</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_33">
+      <Text>Falmouth</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_34">
+      <Text>Lorient</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_35">
+      <Text>St. John's</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_CALEB_0">
+      <Text>CALEB</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_CALEB_1">
+      <Text>Ethan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_CALEB_2">
+      <Text>Bujo Boi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_CALEB_3">
+		<Text>Bach Again</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_CALEB_4">
+      <Text>Musician</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_CALEB_5">
+      <Text>Hartwell</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_CALEB_6">
+      <Text>Mr. Quinn</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_CALEB_7">
+      <Text>Éadaoin</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_CALEB_8">
+      <Text>Alwyn</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_SK_CALEB_9">
+      <Text>Col Ceathar</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

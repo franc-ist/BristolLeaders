@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Buildings>
+    <Row>
+      <Type>BUILDING_SK_CAT</Type>
+      <Description>Cat Annoyance Training</Description>
+      <Civilopedia>TXT_KEY_CIV5_BUILDINGS_CEILIDH_HALL_TEXT</Civilopedia>
+      <Strategy>Build this to help your conquest</Strategy>
+		<Help>This adds 10% military production boost and gives 30 xp instead of 15 xp to units.Has no maintance but requires extra prodiction</Help>
+		<BuildingClass>BUILDINGCLASS_BARRACKS</BuildingClass>
+		<Cost>90</Cost>
+		<GoldMaintenance>0</GoldMaintenance>
+		<MilitaryProductionModifier>10</MilitaryProductionModifier>
+		<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+		<ArtDefineTag>ART_DEF_BUILDING_BARRACKS</ArtDefineTag>
+		<MinAreaSize>-1</MinAreaSize>
+		<HurryCostModifier>40</HurryCostModifier>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<NeverCapture>true</NeverCapture>
+		<PortraitIndex>5</PortraitIndex>
+    </Row>
+  </Buildings>
+
+  <!-- Building_AreaYieldModifiers -->
+  <!-- Building_BuildingClassHappiness -->
+  <!-- Building_BuildingClassYieldChanges -->
+  <!-- Building_FreeUnits -->
+  <!-- Building_DomainFreeExperiences -->
+  <!-- Building_DomainFreeExperiencePerGreatWork -->
+  <!-- Building_DomainProductionModifiers -->
+  <!-- Building_FreeSpecialistCounts -->
+  <Building_Flavors>
+    <Row>
+      <BuildingType>BUILDING_SK_CAT</BuildingType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>100</Flavor>
+    </Row>
+    <Row>
+      <BuildingType>BUILDING_SK_CAT</BuildingType>
+      <FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+      <Flavor>60</Flavor>
+    </Row>
+  </Building_Flavors>
+  <!-- Building_GlobalYieldModifiers -->
+  <!-- Building_HurryModifiers -->
+  <!-- Building_LocalResourceAnds -->
+  <!-- Building_LocalResourceOrs -->
+  <!-- Building_LockedBuildingClasses -->
+  <!-- Building_PrereqBuildingClasses -->
+  <!-- Building_ResourceQuantity -->
+  <!-- Building_ResourceQuantityRequirements -->
+  <!-- Building_ResourceYieldModifiers -->
+  <!-- Building_ResourceCultureChanges -->
+  <!-- Building_ResourceFaithChanges -->
+  <!-- Building_RiverPlotYieldChanges -->
+  <!-- Building_SeaPlotYieldChanges -->
+  <!-- Building_LakePlotYieldChanges -->
+  <!-- Building_SeaResourceYieldChanges -->
+  <!-- Building_ResourceYieldChanges -->
+  <!-- Building_FeatureYieldChanges -->
+  <!-- Building_TerrainYieldChanges -->
+  <!-- Building_SpecialistYieldChanges -->
+  <!-- Building_UnitCombatFreeExperiences -->
+  <!-- Building_UnitCombatProductionModifiers -->
+  <!-- Building_TechAndPrereqs -->
+  <!-- Building_YieldChangesPerPop -->
+  <!-- Building_YieldChangesPerReligion -->
+  <!-- Building_TechEnhancedYieldChanges -->
+  <!-- Building_YieldModifiers -->
+  <!-- Building_ThemingBonuses -->
+	-<Building_DomainFreeExperiences>
+		-<Row>
+			<BuildingType>BUILDING_SK_CAT</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Experience>30</Experience>
+		</Row>
+		</Building_DomainFreeExperiences>
+</GameData>

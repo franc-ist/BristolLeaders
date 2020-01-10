@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+		<Row>
+			<Class>UNITCLASS_TRIREME</Class>
+			<Type>UNIT_SK_DAN</Type>
+			<Combat>12</Combat>
+			<RangedCombat>0</RangedCombat>
+			<Cost>40</Cost>
+			<Moves>5</Moves>
+			<Range>0</Range>
+			<CombatClass>UNITCOMBAT_NAVAL</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK_SEA</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_SK_DAN</Description>
+			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_TRIREME_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_SK_DAN_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_SK_DAN</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<Mechanized>true</Mechanized>
+			<AdvancedStartCost>30</AdvancedStartCost>
+			<MinAreaSize>1</MinAreaSize>
+			<XPValueAttack>5</XPValueAttack>
+			<XPValueDefense>5</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_TRIREME</UnitArtInfo>
+			<UnitFlagIconOffset>24</UnitFlagIconOffset>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<PortraitIndex>24</PortraitIndex>
+			<MoveRate>WOODEN_BOAT</MoveRate>
+		</Row>
+  </Units>
+
+  <Unit_AITypes>
+
+	  -<Row>
+		  <UnitType>UNIT_SK_DAN</UnitType>
+		  <UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+	  </Row>
+	  -<Row>
+		  <UnitType>UNIT_SK_DAN</UnitType>
+		  <UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+	  </Row>
+	  -<Row>
+		  <UnitType>UNIT_SK_DAN</UnitType>
+		  <UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+	  </Row>
+	  -<Row>
+		  <UnitType>UNIT_SK_DAN</UnitType>
+		  <UnitAIType>UNITAI_EXPLORE_SEA</UnitAIType>
+	  </Row>
+  </Unit_AITypes>
+  <!-- Unit_Buildings -->
+  <!-- Unit_BuildingClassRequireds -->
+  <!-- Unit_ProductionModifierBuildings -->
+  <!-- Unit_Builds -->
+  <Unit_ClassUpgrades>
+    <Row>
+			<UnitType>UNIT_SK_DAN</UnitType>
+			<UnitClassType>UNITCLASS_FRIGATE</UnitClassType>
+    </Row>
+  </Unit_ClassUpgrades>
+  <Unit_FreePromotions>
+	  <Row>
+		  <UnitType>UNIT_SK_DAN</UnitType>
+		  <PromotionType>PROMOTION_COASTAL_RAIDER_1</PromotionType>
+	  </Row>
+	  <Row>
+		  <UnitType>UNIT_SK_DAN</UnitType>
+		  <PromotionType>PROMOTION_COASTAL_RAIDER_2</PromotionType>
+	  </Row>
+	  <Row>
+		  <UnitType>UNIT_SK_DAN</UnitType>
+		  <PromotionType>PROMOTION_MOBILITY</PromotionType>
+	  </Row>
+  </Unit_FreePromotions>
+  <Unit_Flavors>
+	  <Row>
+		  <UnitType>UNIT_SK_DAN</UnitType>
+		  <FlavorType>FLAVOR_OFFENSE</FlavorType>
+		  <Flavor>2</Flavor>
+	  </Row>
+	  <Row>
+		  <UnitType>UNIT_SK_DAN</UnitType>
+		  <FlavorType>FLAVOR_DEFENSE</FlavorType>
+		  <Flavor>1</Flavor>
+	  </Row>
+	  <Row>
+		  <UnitType>UNIT_SK_DAN</UnitType>
+		  <FlavorType>FLAVOR_NAVAL</FlavorType>
+		  <Flavor>4</Flavor>
+	  </Row>
+	  <Row>
+		  <UnitType>UNIT_SK_DAN</UnitType>
+		  <FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+		  <Flavor>2</Flavor>
+	  </Row>
+  </Unit_Flavors>
+  <!-- Unit_GreatPersons -->
+  <!-- Unit_ResourceQuantityRequirements -->
+  <!-- Unit_UniqueNames -->
+  <!-- Unit_NotAITypes -->
+  <!-- Unit_ProductionTraits -->
+  <!-- Unit_TechTypes -->
+  <!-- UnitPromotions_CivilianUnitType -->
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_SK_DAN</UnitType>
+      <SelectionSound>AS2D_SELECT_SWORDSMAN</SelectionSound>
+      <FirstSelectionSound>AS2D_BIRTH_SWORDSMAN</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_SK_DAN">
+      <Text>Dans Big Yellow Canoe</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SK_DAN_PICTISH_WARRIOR_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_SK_DAN_STRATEGY">
+      <Text>Replaces the normal trireme.Has slightly reduced production cost has 2 more movement.Can cross ocean and is a lot stronger.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_SK_DAN_PICTISH_WARRIOR">
+      <Text>Replaces the normal trireme.Has slightly reduced production cost has 2 more movement.Can cross ocean and is a lot stronger.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

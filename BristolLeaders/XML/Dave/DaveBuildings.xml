@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Buildings>
+    <Row>
+		<Type>BUILDING_SK_DAVE</Type>
+		<BuildingClass>BUILDINGCLASS_GRANARY</BuildingClass>
+		<Cost>50</Cost>
+		<PrereqTech>TECH_POTTERY</PrereqTech>
+		<Help>Gives 3 food and a pop increase to dave</Help>
+		<Description>Daves dog farm</Description>
+		<ArtDefineTag>NONE</ArtDefineTag>
+		<MinAreaSize>-1</MinAreaSize>
+		<AllowsRangeStrike>true</AllowsRangeStrike>
+		<NeverCapture>true</NeverCapture>
+		<HurryCostModifier>0</HurryCostModifier>
+		<NukeImmune>true</NukeImmune>
+		<GlobalPopulationChange>1</GlobalPopulationChange>
+		<IconAtlas>BW_ATLAS_1</IconAtlas>
+		<PortraitIndex>5</PortraitIndex>
+    </Row>
+  </Buildings>
+
+  <!-- Building_AreaYieldModifiers -->
+  <!-- Building_BuildingClassHappiness -->
+  <!-- Building_BuildingClassYieldChanges -->
+	<!-- Building_ClassesNeededInCity-->
+	<!--Building_ClassesNeededInCity-->
+  <!-- Building_FreeUnits -->
+  <!-- Building_DomainFreeExperiences -->
+  <!-- Building_DomainFreeExperiencePerGreatWork -->
+  <!-- Building_DomainProductionModifiers -->
+  <!-- Building_FreeSpecialistCounts -->
+  <Building_Flavors>
+    <Row>
+      <BuildingType>BUILDING_SK_DAVE</BuildingType>
+      <FlavorType>FLAVOR_FOOD</FlavorType>
+      <Flavor>10</Flavor>
+    </Row>
+  </Building_Flavors>
+  <!-- Building_GlobalYieldModifiers -->
+  <!-- Building_HurryModifiers -->
+  <!-- Building_LocalResourceAnds -->
+  <!-- Building_LocalResourceOrs -->
+  <!-- Building_LockedBuildingClasses -->
+  <!-- Building_PrereqBuildingClasses -->
+  <!-- Building_ResourceQuantity -->
+  <!-- Building_ResourceQuantityRequirements -->
+  <!-- Building_ResourceYieldModifiers -->
+  <!-- Building_ResourceCultureChanges -->
+  <!-- Building_ResourceFaithChanges -->
+  <!-- Building_RiverPlotYieldChanges -->
+  <!-- Building_SeaPlotYieldChanges -->
+  <!-- Building_LakePlotYieldChanges -->
+  <!-- Building_SeaResourceYieldChanges -->
+  <!-- Building_ResourceYieldChanges -->
+  <!-- Building_FeatureYieldChanges -->
+  <!-- Building_TerrainYieldChanges -->
+  <!-- Building_SpecialistYieldChanges -->
+  <!-- Building_UnitCombatFreeExperiences -->
+  <!-- Building_UnitCombatProductionModifiers -->
+  <!-- Building_TechAndPrereqs -->
+  <Building_YieldChanges>
+    <Row>
+      <BuildingType>BUILDING_SK_DAVE</BuildingType>
+      <YieldType>YIELD_FOOD</YieldType>
+      <Yield>3</Yield>
+    </Row>
+  </Building_YieldChanges>
+  <!-- Building_YieldChangesPerPop -->
+  <!-- Building_YieldChangesPerReligion -->
+  <!-- Building_TechEnhancedYieldChanges -->
+  <!-- Building_YieldModifiers -->
+  <!-- Building_ThemingBonuses -->
+</GameData>

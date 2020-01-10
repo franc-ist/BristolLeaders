@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Buildings>
+    <Row>
+		<!--embassy for fronk will give plus 1 votes max built in 5 cities -->
+      <Type>BUILDING_SK_FRANCIS</Type>
+      <Description>Chaos Room</Description>
+      <Civilopedia>TXT_KEY_CIV5_BUILDINGS_CEILIDH_HALL_TEXT</Civilopedia>
+      <Strategy>Use to help world congress</Strategy>
+      <Help>Same as Opera House but also gives 1 world diplomatic vote and plus an extra Culture with no maintance</Help>
+      <ThemingBonusHelp></ThemingBonusHelp>
+      <Quote></Quote>
+      <GoldMaintenance>0</GoldMaintenance>
+      <MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+      <TeamShare>0</TeamShare>
+      <Water>0</Water>
+      <River>0</River>
+      <FreshWater>0</FreshWater>
+      <Mountain>0</Mountain>
+      <NearbyMountainRequired>0</NearbyMountainRequired>
+      <Hill>0</Hill>
+      <Flat>0</Flat>
+      <FoundsReligion>0</FoundsReligion>
+      <IsReligious>0</IsReligious>
+      <BorderObstacle>0</BorderObstacle>
+      <PlayerBorderObstacle>0</PlayerBorderObstacle>
+      <Capital>0</Capital>
+      <GoldenAge>0</GoldenAge>
+      <MapCentering>0</MapCentering>
+      <NeverCapture>0</NeverCapture>
+      <NukeImmune>0</NukeImmune>
+      <AllowsWaterRoutes>0</AllowsWaterRoutes>
+      <ExtraLuxuries>0</ExtraLuxuries>
+      <DiplomaticVoting>0</DiplomaticVoting>
+      <AffectSpiesNow>0</AffectSpiesNow>
+      <NullifyInfluenceModifier>0</NullifyInfluenceModifier>
+      <Cost>400</Cost>
+      <FaithCost>0</FaithCost>
+      <LeagueCost>0</LeagueCost>
+      <UnlockedByBelief>0</UnlockedByBelief>
+      <UnlockedByLeague>0</UnlockedByLeague>
+      <HolyCity>0</HolyCity>
+      <NumCityCostMod>0</NumCityCostMod>
+      <HurryCostModifier>-1</HurryCostModifier>
+      <MinAreaSize>-1</MinAreaSize>
+      <ConquestProb>100</ConquestProb>
+      <CitiesPrereq>0</CitiesPrereq>
+      <LevelPrereq>0</LevelPrereq>
+      <CultureRateModifier>0</CultureRateModifier>
+      <GlobalCultureRateModifier>0</GlobalCultureRateModifier>
+      <GreatPeopleRateModifier>0</GreatPeopleRateModifier>
+      <GlobalGreatPeopleRateModifier>0</GlobalGreatPeopleRateModifier>
+      <GreatGeneralRateModifier>0</GreatGeneralRateModifier>
+      <GreatPersonExpendGold>0</GreatPersonExpendGold>
+      <GoldenAgeModifier>0</GoldenAgeModifier>
+      <UnitUpgradeCostMod>0</UnitUpgradeCostMod>
+      <Experience>0</Experience>
+      <GlobalExperience>0</GlobalExperience>
+      <FoodKept>0</FoodKept>
+      <Airlift>0</Airlift>
+      <AirModifier>0</AirModifier>
+      <NukeModifier>0</NukeModifier>
+      <NukeExplosionRand>0</NukeExplosionRand>
+      <HealRateChange>0</HealRateChange>
+      <Happiness>3</Happiness>
+      <UnmoddedHappiness>0</UnmoddedHappiness>
+      <UnhappinessModifier>0</UnhappinessModifier>
+      <HappinessPerCity>0</HappinessPerCity>
+      <HappinessPerXPolicies>0</HappinessPerXPolicies>
+      <CityCountUnhappinessMod>0</CityCountUnhappinessMod>
+      <NoOccupiedUnhappiness>0</NoOccupiedUnhappiness>
+      <WorkerSpeedModifier>0</WorkerSpeedModifier>
+      <MilitaryProductionModifier>0</MilitaryProductionModifier>
+      <SpaceProductionModifier>0</SpaceProductionModifier>
+      <GlobalSpaceProductionModifier>0</GlobalSpaceProductionModifier>
+      <BuildingProductionModifier>0</BuildingProductionModifier>
+      <WonderProductionModifier>0</WonderProductionModifier>
+      <CityConnectionTradeRouteModifier>0</CityConnectionTradeRouteModifier>
+      <CapturePlunderModifier>0</CapturePlunderModifier>
+      <PolicyCostModifier>0</PolicyCostModifier>
+      <PlotCultureCostModifier>0</PlotCultureCostModifier>
+      <GlobalPlotCultureCostModifier>0</GlobalPlotCultureCostModifier>
+      <PlotBuyCostModifier>0</PlotBuyCostModifier>
+      <GlobalPlotBuyCostModifier>0</GlobalPlotBuyCostModifier>
+      <GlobalPopulationChange>0</GlobalPopulationChange>
+      <TechShare>0</TechShare>
+      <FreeTechs>0</FreeTechs>
+      <FreePolicies>0</FreePolicies>
+      <FreeGreatPeople>0</FreeGreatPeople>
+      <MedianTechPercentChange>0</MedianTechPercentChange>
+      <Gold>0</Gold>
+      <AllowsRangeStrike>0</AllowsRangeStrike>
+      <Espionage>0</Espionage>
+      <AllowsFoodTradeRoutes>0</AllowsFoodTradeRoutes>
+      <AllowsProductionTradeRoutes>0</AllowsProductionTradeRoutes>
+      <Defense>0</Defense>
+      <ExtraCityHitPoints>0</ExtraCityHitPoints>
+      <GlobalDefenseMod>0</GlobalDefenseMod>
+      <MinorFriendshipChange>0</MinorFriendshipChange>
+      <VictoryPoints>0</VictoryPoints>
+      <ExtraMissionarySpreads>0</ExtraMissionarySpreads>
+      <ReligiousPressureModifier>0</ReligiousPressureModifier>
+      <EspionageModifier>0</EspionageModifier>
+      <GlobalEspionageModifier>0</GlobalEspionageModifier>
+      <ExtraSpies>0</ExtraSpies>
+      <SpyRankChange>0</SpyRankChange>
+      <InstantSpyRankChange>0</InstantSpyRankChange>
+      <TradeRouteRecipientBonus>0</TradeRouteRecipientBonus>
+      <TradeRouteTargetBonus>0</TradeRouteTargetBonus>
+      <NumTradeRouteBonus>0</NumTradeRouteBonus>
+      <LandmarksTourismPercent>0</LandmarksTourismPercent>
+      <InstantMilitaryIncrease>0</InstantMilitaryIncrease>
+      <GreatWorksTourismModifier>0</GreatWorksTourismModifier>
+      <XBuiltTriggersIdeologyChoice>0</XBuiltTriggersIdeologyChoice>
+      <TradeRouteSeaDistanceModifier>0</TradeRouteSeaDistanceModifier>
+      <TradeRouteSeaGoldBonus>0</TradeRouteSeaGoldBonus>
+      <TradeRouteLandDistanceModifier>0</TradeRouteLandDistanceModifier>
+      <TradeRouteLandGoldBonus>0</TradeRouteLandGoldBonus>
+      <GreatScientistBeakerModifier>0</GreatScientistBeakerModifier>
+      <BuildingClass>BUILDINGCLASS_OPERA_HOUSE</BuildingClass>
+      <ArtDefineTag>OPERA_HOUSE</ArtDefineTag>
+      <NearbyTerrainRequired></NearbyTerrainRequired>
+      <ProhibitedCityTerrain></ProhibitedCityTerrain>
+      <VictoryPrereq></VictoryPrereq>
+      <FreeStartEra></FreeStartEra>
+      <MaxStartEra></MaxStartEra>
+      <ObsoleteTech></ObsoleteTech>
+      <EnhancedYieldTech></EnhancedYieldTech>
+      <TechEnhancedTourism>0</TechEnhancedTourism>
+      <FreeBuilding></FreeBuilding>
+      <FreeBuildingThisCity></FreeBuildingThisCity>
+      <FreePromotion></FreePromotion>
+      <TrainedFreePromotion></TrainedFreePromotion>
+      <FreePromotionRemoved></FreePromotionRemoved>
+      <ReplacementBuildingClass></ReplacementBuildingClass>
+      <PrereqTech>TECH_ACOUSTICS</PrereqTech>
+      <PolicyBranchType></PolicyBranchType>
+      <SpecialistType></SpecialistType>
+      <SpecialistCount>0</SpecialistCount>
+      <GreatWorkSlotType>GREAT_WORK_SLOT_MUSIC</GreatWorkSlotType>
+      <FreeGreatWork></FreeGreatWork>
+      <GreatWorkCount>1</GreatWorkCount>
+      <SpecialistExtraCulture>0</SpecialistExtraCulture>
+      <GreatPeopleRateChange>0</GreatPeopleRateChange>
+      <ExtraLeagueVotes>1</ExtraLeagueVotes>
+      <CityWall>0</CityWall>
+	  <IconAtlas>BW_ATLAS_1</IconAtlas>
+	  <PortraitIndex>5</PortraitIndex>
+    </Row>
+  </Buildings>
+
+  <!-- Building_AreaYieldModifiers -->
+  <!-- Building_BuildingClassHappiness -->
+  <!-- Building_BuildingClassYieldChanges -->
+  <Building_ClassesNeededInCity>
+    <Row>
+      <BuildingType>BUILDING_SK_FRANCIS</BuildingType>
+      <BuildingClassType>BUILDINGCLASS_AMPHITHEATER</BuildingClassType>
+    </Row>
+  </Building_ClassesNeededInCity>
+  <!-- Building_FreeUnits -->
+  <!-- Building_DomainFreeExperiences -->
+  <!-- Building_DomainFreeExperiencePerGreatWork -->
+  <!-- Building_DomainProductionModifiers -->
+  <!-- Building_FreeSpecialistCounts -->
+  <Building_Flavors>
+    <Row>
+      <BuildingType>BUILDING_SK_FRANCIS</BuildingType>
+      <FlavorType>FLAVOR_CULTURE</FlavorType>
+      <Flavor>90</Flavor>
+    </Row>
+    <Row>
+      <BuildingType>BUILDING_SK_FRANCIS</BuildingType>
+      <FlavorType>FLAVOR_HAPPINESS</FlavorType>
+      <Flavor>50</Flavor>
+    </Row>
+    <Row>
+      <BuildingType>BUILDING_SK_FRANCIS</BuildingType>
+      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+      <Flavor>2</Flavor>
+    </Row>
+  </Building_Flavors>
+  <!-- Building_GlobalYieldModifiers -->
+  <!-- Building_HurryModifiers -->
+  <!-- Building_LocalResourceAnds -->
+  <!-- Building_LocalResourceOrs -->
+  <!-- Building_LockedBuildingClasses -->
+  <!-- Building_PrereqBuildingClasses -->
+  <!-- Building_ResourceQuantity -->
+  <!-- Building_ResourceQuantityRequirements -->
+  <!-- Building_ResourceYieldModifiers -->
+  <!-- Building_ResourceCultureChanges -->
+  <!-- Building_ResourceFaithChanges -->
+  <!-- Building_RiverPlotYieldChanges -->
+  <!-- Building_SeaPlotYieldChanges -->
+  <!-- Building_LakePlotYieldChanges -->
+  <!-- Building_SeaResourceYieldChanges -->
+  <!-- Building_ResourceYieldChanges -->
+  <!-- Building_FeatureYieldChanges -->
+  <!-- Building_TerrainYieldChanges -->
+  <!-- Building_SpecialistYieldChanges -->
+  <!-- Building_UnitCombatFreeExperiences -->
+  <!-- Building_UnitCombatProductionModifiers -->
+  <!-- Building_TechAndPrereqs -->
+  <Building_YieldChanges>
+    <Row>
+      <BuildingType>BUILDING_SK_FRANCIS</BuildingType>
+      <YieldType>YIELD_CULTURE</YieldType>
+      <Yield>2</Yield>
+    </Row>
+  </Building_YieldChanges>
+  <!-- Building_YieldChangesPerPop -->
+  <!-- Building_YieldChangesPerReligion -->
+  <!-- Building_TechEnhancedYieldChanges -->
+  <!-- Building_YieldModifiers -->
+  <!-- Building_ThemingBonuses -->
+
+ 
+</GameData>

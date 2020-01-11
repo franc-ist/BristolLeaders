@@ -5,7 +5,7 @@
     <ProjectGuid>{d7995a0d-e469-4d69-b606-44accd655e77}</ProjectGuid>
     <Name>Bristol Leaders</Name>
     <Guid>8658c295-99ad-41b4-9c98-d9ec6259216b</Guid>
-    <ModVersion>11.3</ModVersion>
+    <ModVersion>12</ModVersion>
     <Stability>Alpha</Stability>
     <Teaser>Adds 8 civilizations based off our friend group in Bristol. Removes all others.</Teaser>
     <Description>Adds 8 civilizations based off our friend group in Bristol. 

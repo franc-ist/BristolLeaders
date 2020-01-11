@@ -10,9 +10,9 @@
       <VictoryCompetitiveness>6</VictoryCompetitiveness>
       <WonderCompetitiveness>4</WonderCompetitiveness>
       <MinorCivCompetitiveness>5</MinorCivCompetitiveness>
-      <Boldness>6</Boldness>
-      <DiploBalance>4</DiploBalance>
-      <WarmongerHate>4</WarmongerHate>
+      <Boldness>5</Boldness>
+      <DiploBalance>6</DiploBalance>
+      <WarmongerHate>3</WarmongerHate>
       <WorkAgainstWillingness>0</WorkAgainstWillingness>
       <WorkWithWillingness>0</WorkWithWillingness>
       <DenounceWillingness>6</DenounceWillingness>
@@ -20,8 +20,8 @@
       <Loyalty>6</Loyalty>
       <Neediness>5</Neediness>
       <Forgiveness>3</Forgiveness>
-      <Chattiness>5</Chattiness>
-      <Meanness>7</Meanness>
+      <Chattiness>6</Chattiness>
+      <Meanness>4</Meanness>
       <PortraitIndex>13</PortraitIndex>
       <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
     </Row>
@@ -31,7 +31,7 @@
     <Row>
       <LeaderType>LEADER_SK_ROBOT</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
-      <Bias>6</Bias>
+      <Bias>4</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_ROBOT</LeaderType>
@@ -95,22 +95,22 @@
     <Row>
       <LeaderType>LEADER_SK_ROBOT</LeaderType>
       <FlavorType>FLAVOR_OFFENSE</FlavorType>
-      <Flavor>7</Flavor>
+      <Flavor>6</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_ROBOT</LeaderType>
       <FlavorType>FLAVOR_DEFENSE</FlavorType>
-      <Flavor>6</Flavor>
+      <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_ROBOT</LeaderType>
       <FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
-      <Flavor>6</Flavor>
+      <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_ROBOT</LeaderType>
       <FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
-      <Flavor>6</Flavor>
+      <Flavor>5</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_ROBOT</LeaderType>

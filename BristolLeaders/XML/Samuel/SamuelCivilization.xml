@@ -20,7 +20,7 @@
 	  <PortraitIndex>6</PortraitIndex>
 	  <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
-      <MapImage>SamuelsScene.dds</MapImage>
+      <MapImage>sam-mapimage.dds</MapImage>
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_SAMUEL_TEXT</DawnOfManQuote>
       <DawnOfManImage>SamuelsScene.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_SK_SAMUEL</DawnOfManAudio>
@@ -391,31 +391,31 @@
       <Text>Samuel</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_DAWN_SK_SAMUEL_TEXT">
-      <Text>Oh Great Samuel Birch you shall surely beat all openents.Your people love you and shout your name in the streets out of fear.Continue rulling with your iron fist and with your combination of religion and science you shall never be stopped.Although you should be careful not too choke on your aspirations</Text>
+      <Text>Oh mighty Samuel Birch the Pious, you shall surely beat all your opponents with your love of religion. Your people love you and shout your name in the streets out of fear alone. Continue ruling with your iron fist and with your combination of religion and science you shall never be stopped. Although, you should be careful not to choke on your aspirations, for your downfall could lie anywhere.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_SAMUEL_0">
-      <Text>The Samuel Empire</Text>
+      <Text>Taunton</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_SAMUEL_1">
-      <Text>Crabs are people</Text>
+      <Text>Bridgwater</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_SAMUEL_2">
-      <Text>The new british empire</Text>
+      <Text>The New British Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_SAMUEL_3">
-      <Text>Begins</Text>
+      <Text>Cider City</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_SAMUEL_4">
-      <Text>Leader Sam</Text>
+      <Text>Bacon</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_SAMUEL_5">
-      <Text>You Will join us</Text>
+      <Text>Cow titty milk</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_SAMUEL_6">
-      <Text>How many cities</Text>
+      <Text>Sam won't get this far</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_SAMUEL_7">
-      <Text>No too Many</Text>
+      <Text>Kill Stefan</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_SAMUEL_8">
       <Text>Aberystwyth</Text>

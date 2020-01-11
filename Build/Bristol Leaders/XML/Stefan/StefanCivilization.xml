@@ -20,7 +20,7 @@
 	  <PortraitIndex>7</PortraitIndex>
 	  <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
-      <MapImage>StefanScene.dds</MapImage>
+      <MapImage>stefan-mapimage.dds</MapImage>
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_STEFAN_TEXT</DawnOfManQuote>
       <DawnOfManImage>StefanScene.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_SK_STEFAN</DawnOfManAudio>
@@ -396,7 +396,7 @@
       <Text>Stefans</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_DAWN_SK_STEFAN_TEXT">
-      <Text>Rise Stefan Keeley for your knowledge of computers will be the worlds downfall.With your powerful new helicopter the world is the limit but be careful not to awake the sinsister force that could destroy all...</Text>
+      <Text>Rise Stefan Keeley for your knowledge of computers will be the worlds downfall. With your powerful new helicopter the world is the limit but be careful not to awake the sinsister force that could destroy all...</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_STEFAN_0">
       <Text>The Keeley Empire</Text>

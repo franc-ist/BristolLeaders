@@ -20,7 +20,7 @@
       <PortraitIndex>0</PortraitIndex> 
       <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
       <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
-      <MapImage>CalebScene.dds</MapImage>
+      <MapImage>caleb-mapimage.dds</MapImage>
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_CALEB_TEXT</DawnOfManQuote>
       <DawnOfManImage>CalebScene.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_SK_CALEB</DawnOfManAudio>
@@ -383,10 +383,10 @@
       <Text>The Great Caleb Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV_SK_CALEB_ADJECTIVE">
-      <Text>Calebs</Text>
+      <Text>Caleb's</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_DAWN_SK_CALEB_TEXT">
-      <Text>Listen,Listen, here approaches Caleb Evans the greatest musician. Use your music to attract more great people and let you civilization be the greatest the world has ever known...</Text>
+      <Text>Listen, listen, here approaches Lord Caleb Evans, the greatest musician the world has ever known. Use your music to attract more great people and let your civilization rise to artistic fame.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_0">
       <Text>Calebia</Text>
@@ -404,28 +404,28 @@
       <Text>Trumpet Time</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_5">
-      <Text>Join us</Text>
+      <Text>Newcastle Emlyn</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_6">
-      <Text>How many Cities</Text>
+      <Text>Gyfun Emlyn</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_7">
-      <Text>No too Many</Text>
+      <Text>Ack App Ella</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_8">
       <Text>Aberystwyth</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_9">
-      <Text>Penzance</Text>
+      <Text>Bridgend</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_10">
-      <Text>Rennes</Text>
+      <Text>Cardiff</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_11">
-      <Text>Ramsey</Text>
+      <Text>Newport</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_12">
-      <Text>Inverness</Text>
+      <Text>Bangor</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_13">
       <Text>Limerick</Text>

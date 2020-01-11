@@ -20,7 +20,7 @@
 	  <PortraitIndex>4</PortraitIndex>
 	  <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
-      <MapImage>FrancisScene.dds</MapImage>
+      <MapImage>francis-mapimage.dds</MapImage>
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_FRANCIS_TEXT</DawnOfManQuote>
       <DawnOfManImage>FrancisScene.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_SK_FRANCIS</DawnOfManAudio>
@@ -403,31 +403,31 @@
       <Text>Fronks</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_DAWN_SK_FRANCIS_TEXT">
-      <Text>Oh Great Francis Taylor .Your skills at negoititations are second too none and your are praised as a great leader by other civilisations.When you vote in the world congress the world will surly vote with you.Diplomacy will carry you to victory but be careful for there are still those that would backstab you ...like Sam :)</Text>
+      <Text>Oh great Emperor Francis Taylor of the Chaos Empire, Your negotiation skills are second to none. Praised by your people as the greatest leader ever known, other civilisations look up to your wise words and leadership. When you vote in the world congress, you are so captivating that the world will surely vote with you. Diplomacy will carry you to victory, but be careful, for there are still those that would backstab you... like Sam :)</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_0">
       <Text>Chaos</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_1">
-      <Text>Crabs are people</Text>
+      <Text>Best Society</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_2">
-      <Text>The new empire</Text>
+      <Text>Chaotic City</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_3">
-      <Text>Begins</Text>
+      <Text>El Presidente</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_4">
-      <Text>The Sam Leader</Text>
+      <Text>Trashford</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_5">
-      <Text>Join us</Text>
+      <Text>Com Itee</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_6">
-      <Text>How many Cities</Text>
+      <Text>Physicia</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_7">
-      <Text>No too Many</Text>
+      <Text>Kaos</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_FRANCIS_8">
       <Text>Aberystwyth</Text>

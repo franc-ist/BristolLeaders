@@ -20,7 +20,7 @@
 	  <PortraitIndex>1</PortraitIndex>
 	  <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
-      <MapImage>CharlieScene.dds</MapImage>
+      <MapImage>charlie-mapimage.dds</MapImage>
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_CAT_TEXT</DawnOfManQuote>
       <DawnOfManImage>CharlieScene.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_SK_CAT</DawnOfManAudio>
@@ -391,40 +391,40 @@
       <Text>cat</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_DAWN_SK_CAT_TEXT">
-      <Text>Meow.Meow.Meow Meow Meow.Meow Meow , Meow Meow.Meow...</Text>
+      <Text>Meow. Meow. Meow Meow Meow. Meow Meow, Meow Meow. Meow.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CAT_0">
       <Text>The CAT Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CAT_1">
-      <Text>Crabs are people</Text>
+      <Text>Meow</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CAT_2">
-      <Text>The new empire</Text>
+      <Text>Meow meow</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CAT_3">
-      <Text>Begins</Text>
+      <Text>Cats > dogs</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CAT_4">
-      <Text>The Sam Leader</Text>
+      <Text>Purr</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CAT_5">
-      <Text>Join us</Text>
+      <Text>Purrfect</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CAT_6">
-      <Text>How many Cities</Text>
+      <Text>Mew Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CAT_7">
-      <Text>No too Many</Text>
+      <Text>Catnip</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CAT_8">
-      <Text>Aberystwyth</Text>
+      <Text>Mew</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CAT_9">
-      <Text>Penzance</Text>
+      <Text>Furball</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CAT_10">
-      <Text>Rennes</Text>
+      <Text>Fishy</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CAT_11">
       <Text>Ramsey</Text>

@@ -5,12 +5,12 @@
     <ProjectGuid>{d7995a0d-e469-4d69-b606-44accd655e77}</ProjectGuid>
     <Name>Bristol Leaders</Name>
     <Guid>8658c295-99ad-41b4-9c98-d9ec6259216b</Guid>
-    <ModVersion>8</ModVersion>
+    <ModVersion>11.3</ModVersion>
     <Stability>Alpha</Stability>
-    <Teaser>Adds 8 civilizations based off our friend group in Bristol.Github version.</Teaser>
+    <Teaser>Adds 8 civilizations based off our friend group in Bristol. Removes all others.</Teaser>
     <Description>Adds 8 civilizations based off our friend group in Bristol. 
 
-Some known bugs - Some Pictures Dont work. Some of art is weird. Stefan starts with a extra warrior as well please delete. Ai plays werid.
+Some known bugs - Some Pictures don't work. Some of art is weird. Stefan starts with a extra warrior as well please delete. Ai plays werid.
 
 Francis is meant to be geared to diplomatic victory.
 Stefan is meant to be geared towards science.
@@ -31,8 +31,21 @@ Robot is geared towards any.</Description>
     <SupportsMac>true</SupportsMac>
     <AssemblyName>BristolLeaders</AssemblyName>
     <RootNamespace>BristolLeaders</RootNamespace>
-    <ModReferences />
+    <ModReferences>
+      <Association>
+        <Type>Mod</Type>
+        <Name>YnAEMP DLL Leader fix for BNW</Name>
+        <Id>6fb5c1a0-fbe2-4063-bfc1-82d736684c9c</Id>
+        <MinVersion>2</MinVersion>
+        <MaxVersion>2</MaxVersion>
+      </Association>
+    </ModReferences>
     <ModActions>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/GameInfo/DeleteAllCivs.xml</FileName>
+      </Action>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
@@ -57,6 +70,11 @@ Robot is geared towards any.</Description>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
         <FileName>XML/Caleb/CalebLeader.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Caleb/CalebScene.xml</FileName>
       </Action>
       <Action>
         <Set>OnModActivated</Set>
@@ -86,6 +104,16 @@ Robot is geared towards any.</Description>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
+        <FileName>XML/Francis/FrancisLeader.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Francis/FrancisScene.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
         <FileName>XML/Francis/FrancisTrait.xml</FileName>
       </Action>
       <Action>
@@ -111,6 +139,16 @@ Robot is geared towards any.</Description>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
+        <FileName>XML/Dave/DaveLeader.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Dave/DaveScene.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
         <FileName>XML/Dave/DaveTrait.xml</FileName>
       </Action>
       <Action>
@@ -127,6 +165,16 @@ Robot is geared towards any.</Description>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
         <FileName>XML/Dan/DanCivilization.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Dan/DanLeader.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Dan/DanScene.xml</FileName>
       </Action>
       <Action>
         <Set>OnModActivated</Set>
@@ -161,6 +209,11 @@ Robot is geared towards any.</Description>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
+        <FileName>XML/Charlly/CharlieScene.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
         <FileName>XML/Charlly/CharlieTrait.xml</FileName>
       </Action>
       <Action>
@@ -182,6 +235,16 @@ Robot is geared towards any.</Description>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
         <FileName>XML/Robot/RobotDiplomacyResponses.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Robot/RobotLeader.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Robot/RobotScene.xml</FileName>
       </Action>
       <Action>
         <Set>OnModActivated</Set>
@@ -211,6 +274,16 @@ Robot is geared towards any.</Description>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
+        <FileName>XML/Samuel/SamuelLeader.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Samuel/SamuelsScene.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
         <FileName>XML/Samuel/SamuelTrait.xml</FileName>
       </Action>
       <Action>
@@ -236,82 +309,22 @@ Robot is geared towards any.</Description>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
+        <FileName>XML/Stefan/StefanLeader.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Stefan/StefanScene.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
         <FileName>XML/Stefan/StefanTrait.xml</FileName>
       </Action>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
         <FileName>XML/Stefan/StefanUnits.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Dan/DanLeader.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Dave/DaveLeader.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Francis/FrancisLeader.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Robot/RobotLeader.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Samuel/SamuelLeader.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Stefan/StefanLeader.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Caleb/CalebScene.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Charlly/CharlieScene.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Dan/DanScene.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Dave/DaveScene.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Francis/FrancisScene.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Robot/RobotScene.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Samuel/SamuelsScene.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Stefan/StefanScene.xml</FileName>
       </Action>
     </ModActions>
     <ModProperties />
@@ -369,6 +382,10 @@ Robot is geared towards any.</Description>
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
+    <Content Include="XML\Caleb\caleb-mapimage.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
     <Content Include="XML\Caleb\CalebBuildings.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
@@ -387,7 +404,7 @@ Robot is geared towards any.</Description>
     </Content>
     <Content Include="XML\Caleb\CalebScene.xml">
       <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Caleb\CalebTrait.xml">
       <SubType>Lua</SubType>
@@ -396,6 +413,10 @@ Robot is geared towards any.</Description>
     <Content Include="XML\Caleb\CalebUnits.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Charlly\charlie-mapimage.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Charlly\CharlieBuildings.xml">
       <SubType>Lua</SubType>
@@ -419,7 +440,7 @@ Robot is geared towards any.</Description>
     </Content>
     <Content Include="XML\Charlly\CharlieScene.xml">
       <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Charlly\CharlieTrait.xml">
       <SubType>Lua</SubType>
@@ -428,6 +449,10 @@ Robot is geared towards any.</Description>
     <Content Include="XML\Charlly\CharlieUnits.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Dan\dan-mapimage.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Dan\DanBuildings.xml">
       <SubType>Lua</SubType>
@@ -447,7 +472,7 @@ Robot is geared towards any.</Description>
     </Content>
     <Content Include="XML\Dan\DanScene.xml">
       <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Dan\DanTrait.xml">
       <SubType>Lua</SubType>
@@ -456,6 +481,10 @@ Robot is geared towards any.</Description>
     <Content Include="XML\Dan\DanUnits.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Dave\dave-mapimage.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Dave\DaveBuildings.xml">
       <SubType>Lua</SubType>
@@ -479,7 +508,7 @@ Robot is geared towards any.</Description>
     </Content>
     <Content Include="XML\Dave\DaveScene.xml">
       <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Dave\DaveTrait.xml">
       <SubType>Lua</SubType>
@@ -488,6 +517,10 @@ Robot is geared towards any.</Description>
     <Content Include="XML\Dave\DaveUnits.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Francis\francis-mapimage.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Francis\FrancisBuildings.xml">
       <SubType>Lua</SubType>
@@ -511,7 +544,7 @@ Robot is geared towards any.</Description>
     </Content>
     <Content Include="XML\Francis\FrancisScene.xml">
       <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Francis\FrancisTrait.xml">
       <SubType>Lua</SubType>
@@ -524,6 +557,14 @@ Robot is geared towards any.</Description>
     <Content Include="XML\GameInfo\CIV5IconTextureAtlases.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\GameInfo\DeleteAllCivs.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Robot\robot-mapimage.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Robot\RobotBuildings.xml">
       <SubType>Lua</SubType>
@@ -547,7 +588,7 @@ Robot is geared towards any.</Description>
     </Content>
     <Content Include="XML\Robot\RobotScene.xml">
       <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Robot\RobotTrait.xml">
       <SubType>Lua</SubType>
@@ -556,6 +597,10 @@ Robot is geared towards any.</Description>
     <Content Include="XML\Robot\RobotUnits.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Samuel\sam-mapimage.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Samuel\SamuelBuildings.xml">
       <SubType>Lua</SubType>
@@ -579,7 +624,7 @@ Robot is geared towards any.</Description>
     </Content>
     <Content Include="XML\Samuel\SamuelsScene.xml">
       <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Samuel\SamuelTrait.xml">
       <SubType>Lua</SubType>
@@ -588,6 +633,10 @@ Robot is geared towards any.</Description>
     <Content Include="XML\Samuel\SamuelUnits.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Stefan\stefan-mapimage.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Stefan\StefanBuildings.xml">
       <SubType>Lua</SubType>
@@ -611,7 +660,7 @@ Robot is geared towards any.</Description>
     </Content>
     <Content Include="XML\Stefan\StefanScene.xml">
       <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Stefan\StefanTrait.xml">
       <SubType>Lua</SubType>

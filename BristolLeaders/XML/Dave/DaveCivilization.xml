@@ -20,7 +20,7 @@
 	  <PortraitIndex>3</PortraitIndex>
 	  <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
-      <MapImage>DaveScene.dds</MapImage>
+      <MapImage>dave-mapimage.dds</MapImage>
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_DAVE_TEXT</DawnOfManQuote>
       <DawnOfManImage>DaveScene.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_SK_DAVE</DawnOfManAudio>
@@ -409,49 +409,49 @@
       <Text>Bark Woof</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_5">
-      <Text>Join us</Text>
+      <Text>Fetch</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_6">
-      <Text>How many Cities</Text>
+      <Text>Woofing</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_7">
-      <Text>Noo too Many</Text>
+      <Text>Flop Time</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_8">
-      <Text>City Units</Text>
+      <Text>Dave's Den</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_9">
       <Text>Wow</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_10">
-      <Text>Rennes</Text>
+      <Text>Much Doge</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_11">
-      <Text>Ramsey</Text>
+      <Text>Many Cities</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_12">
-      <Text>Inverness</Text>
+      <Text>Such Wow</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_13">
-      <Text>Limerick</Text>
+      <Text>Tenby</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_14">
-      <Text>Swansea</Text>
+      <Text>Fluffy Newfie</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_15">
-      <Text>St Ives</Text>
+      <Text>Newfoundland</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_16">
-      <Text>Brest</Text>
+      <Text>St John's</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_17">
-      <Text>Peel</Text>
+      <Text>Corner Brook</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_18">
-      <Text>Aberdeen</Text>
+      <Text>Mount Pearl</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_19">
-      <Text>Belfast</Text>
+      <Text>Gander</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAVE_20">
       <Text>Caernarfon</Text>

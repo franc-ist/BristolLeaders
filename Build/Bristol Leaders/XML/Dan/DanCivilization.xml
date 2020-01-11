@@ -19,7 +19,7 @@
 	  <PortraitIndex>2</PortraitIndex>
 	  <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
-      <MapImage>DanScene.dds</MapImage>
+      <MapImage>dan-mapimage.dds</MapImage>
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_DAN_TEXT</DawnOfManQuote>
       <DawnOfManImage>DanScene.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_SK_DAN</DawnOfManAudio>
@@ -392,46 +392,46 @@
       <Text>The Naval Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV_SK_DAN_ADJECTIVE">
-      <Text>dan</Text>
+      <Text>Dan's</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_DAWN_SK_DAN_TEXT">
-      <Text>Smile in victory Dan as you know with your mighty military the battle is already won. Your naval supremecy is complete and all with cities on water shall crumble.</Text>
+      <Text>Smile in victory, oh great Admiral Daniel Binks, as you know with your mighty military the battle is already won. Your naval supremecy is complete and all with cities on water shall crumble under the might of your kayaks!</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_0">
       <Text>The Dan Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_1">
-      <Text>Crabs are people</Text>
+      <Text>Canoe Club</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_2">
-      <Text>The new empire</Text>
+      <Text>White Water</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_3">
-      <Text>Begins</Text>
+      <Text>Rapidos</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_4">
-      <Text>The Sam Leader</Text>
+      <Text>Kanu</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_5">
-      <Text>Join us</Text>
+      <Text>Qarib</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_6">
-      <Text>How many Cities</Text>
+      <Text>Wasser</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_7">
-      <Text>No too Many</Text>
+      <Text>Agua</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_8">
-      <Text>Aberystwyth</Text>
+      <Text>Voda</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_9">
-      <Text>Penzance</Text>
+      <Text>K'ayak</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_10">
-      <Text>Rennes</Text>
+      <Text>Irklas</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_11">
-      <Text>Ramsey</Text>
+      <Text>Paddli</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_DAN_12">
       <Text>Inverness</Text>

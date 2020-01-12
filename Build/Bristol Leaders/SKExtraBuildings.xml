@@ -242,6 +242,11 @@
 				<Yield>10</Yield>
 			</Row>
 			<Row>
+				<BuildingType>STEFANDUMMY</BuildingType>
+				<YieldType>YIELD_FOOD</YieldType>
+				<Yield>0</Yield>
+			</Row>
+			<Row>
 				<BuildingType>CATDUMMY</BuildingType>
 				<YieldType>YIELD_PRODUCTION</YieldType>
 				<Yield>-1</Yield>

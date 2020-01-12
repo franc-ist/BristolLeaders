@@ -39,7 +39,7 @@
 	<Row>
 		<BuildingType>BUILDING_SK_STEFAN</BuildingType>
 		<YieldType>YIELD_SCIENCE</YieldType>
-		<Yield>43</Yield>
+		<Yield>38</Yield>
 	</Row>
 	</Building_YieldModifiers>
 

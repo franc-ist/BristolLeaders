@@ -277,7 +277,7 @@
   <Civilization_Start_Region_Priority>
     <Row>
       <CivilizationType>CIVILIZATION_SK_STEFAN</CivilizationType>
-      <RegionType>REGION_FOREST</RegionType>
+      <RegionType>REGION_HILLS</RegionType>
     </Row>
   </Civilization_Start_Region_Priority>
   <!-- Civilization_Start_Region_Avoid -->

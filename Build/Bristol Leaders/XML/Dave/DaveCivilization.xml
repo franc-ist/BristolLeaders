@@ -269,12 +269,6 @@
   </Civilization_UnitClassOverrides>
   <!-- Civilization_Start_Along_Ocean -->
   <!-- Civilization_Start_Along_River -->
-  <Civilization_Start_Region_Priority>
-    <Row>
-      <CivilizationType>CIVILIZATION_SK_DAVE</CivilizationType>
-      <RegionType>REGION_FOREST</RegionType>
-    </Row>
-  </Civilization_Start_Region_Priority>
   <!-- Civilization_Start_Region_Avoid -->
   <!-- Civilization_Start_Place_First_Along_Ocean -->
 

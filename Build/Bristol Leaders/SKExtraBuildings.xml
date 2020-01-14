@@ -7,6 +7,7 @@
 			<BuildingClass>DUMMYBUILDINGS</BuildingClass>
 			<Cost>100000</Cost>
 			<Defense>4</Defense>
+			<MilitaryProductionModifier>5</MilitaryProductionModifier>
 			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
 			<Help>Happiness for dave only</Help>
 			<Description>Dummy</Description>
@@ -44,6 +45,7 @@
 		<Row>
 			<Type>SAMUELDUMMY</Type>
 			<BuildingClass>SAMUELBUILDINGS</BuildingClass>
+			<MilitaryProductionModifier>5</MilitaryProductionModifier>
 			<Cost>100000</Cost>
 			<Defense>4</Defense>
 			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
@@ -61,6 +63,7 @@
 		</Row>
 			<Row>
 				<Type>STEFANDUMMY</Type>
+				<MilitaryProductionModifier>5</MilitaryProductionModifier>
 				<BuildingClass>STEFANBUILDINGS</BuildingClass>
 				<Cost>100000</Cost>
 				<Defense>4</Defense>
@@ -97,6 +100,7 @@
 		</Row>
 		<Row>
 			<Type>ROBOTDUMMY</Type>
+			<MilitaryProductionModifier>5</MilitaryProductionModifier>
 			<BuildingClass>ROBOTBUILDINGS</BuildingClass>
 			<Cost>100000</Cost>
 			<Defense>4</Defense>
@@ -116,6 +120,7 @@
 		</Row>
 		<Row>
 			<Type>CALEBDUMMY</Type>
+			<MilitaryProductionModifier>5</MilitaryProductionModifier>
 			<BuildingClass>CALEBBUILDINGS</BuildingClass>
 			<Cost>100000</Cost>
 			<Defense>4</Defense>
@@ -134,6 +139,7 @@
 		</Row>
 		<Row>
 			<Type>DANDUMMY</Type>
+			<MilitaryProductionModifier>5</MilitaryProductionModifier>
 			<BuildingClass>DANBUILDINGS</BuildingClass>
 			<Cost>100000</Cost>
 			<Defense>2</Defense>
@@ -244,7 +250,7 @@
 			<Row>
 				<BuildingType>STEFANDUMMY</BuildingType>
 				<YieldType>YIELD_FOOD</YieldType>
-				<Yield>0</Yield>
+				<Yield>1</Yield>
 			</Row>
 			<Row>
 				<BuildingType>CATDUMMY</BuildingType>
@@ -278,6 +284,11 @@
 			<YieldType>YIELD_GOLD</YieldType>
 			<Yield>10</Yield>
 		</Row>
+		<Row>
+			<BuildingType>SAMUELDUMMY</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>100</Yield>
+		</Row>
 		</Building_YieldModifiers>
 		<Building_YieldChanges>
 			<Row>
@@ -288,7 +299,7 @@
 			<Row>
 				<BuildingType>SAMUELDUMMY</BuildingType>
 				<YieldType>YIELD_FAITH</YieldType>
-				<Yield>2</Yield>
+				<Yield>3</Yield>
 			</Row>
 			<Row>
 				<BuildingType>CATDUMMY</BuildingType>
@@ -301,7 +312,7 @@
 		<Row>
 			<BuildingType>SAMUELDUMMY</BuildingType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>10</Yield>
+			<Yield>5</Yield>
 		</Row>
 	</Building_YieldChangesPerPop>
 	<Building_DomainFreeExperiences>

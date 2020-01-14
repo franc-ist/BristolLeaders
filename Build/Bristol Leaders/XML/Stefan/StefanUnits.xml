@@ -5,7 +5,7 @@
 		  <Class>UNITCLASS_SCOUT</Class>
 		  <Type>UNIT_SK_STEFAN</Type>
 		  <Combat>10</Combat>
-		  <Cost>25</Cost>
+		  <Cost>20</Cost>
 		  <Moves>2</Moves>
 		  <CombatClass>UNITCOMBAT_MELEE</CombatClass>
 		  <Domain>DOMAIN_LAND</Domain>

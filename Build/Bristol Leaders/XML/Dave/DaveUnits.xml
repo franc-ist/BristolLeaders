@@ -8,11 +8,9 @@
       <Strategy>TXT_KEY_UNIT_SK_DAVE_STRATEGY</Strategy>
       <Help>TXT_KEY_UNIT_HELP_SK_DAVE_PICTISH_WARRIOR</Help>
       <Requirements></Requirements>
-      <Combat>10</Combat>
+      <Combat>12</Combat>
       <RangedCombat>0</RangedCombat>
       <Cost>20</Cost>
-      <FaithCost>60</FaithCost>
-      <RequiresFaithPurchaseEnabled>0</RequiresFaithPurchaseEnabled>
       <Moves>5</Moves>
       <Immobile>0</Immobile>
       <Range>0</Range>

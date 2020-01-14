@@ -10,7 +10,7 @@
       <Requirements></Requirements>
       <Combat>10</Combat>
       <RangedCombat>0</RangedCombat>
-      <Cost>50</Cost>
+      <Cost>40</Cost>
       <Moves>2</Moves>
       <Immobile>0</Immobile>
       <Range>0</Range>

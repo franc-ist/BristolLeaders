@@ -10,7 +10,7 @@
       <Requirements></Requirements>
       <Combat>12</Combat>
       <RangedCombat>0</RangedCombat>
-      <Cost>80</Cost>
+      <Cost>60</Cost>
       <RequiresFaithPurchaseEnabled>0</RequiresFaithPurchaseEnabled>
       <Moves>2</Moves>
       <Immobile>0</Immobile>

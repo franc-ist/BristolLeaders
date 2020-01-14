@@ -6,7 +6,7 @@
 			<Type>UNIT_SK_DAN</Type>
 			<Combat>12</Combat>
 			<RangedCombat>0</RangedCombat>
-			<Cost>40</Cost>
+			<Cost>30</Cost>
 			<Moves>5</Moves>
 			<Range>0</Range>
 			<CombatClass>UNITCOMBAT_NAVAL</CombatClass>

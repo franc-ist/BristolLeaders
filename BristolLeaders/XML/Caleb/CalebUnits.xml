@@ -6,16 +6,15 @@
       <Description>Calebs Musician</Description>
       <Civilopedia>TXT_KEY_CIV5_SK_CALEB_PICTISH_WARRIOR_TEXT</Civilopedia>
       <Strategy>Please do not abuse and win before atomic era using these</Strategy>
-      <Help>Weaker then a normal warrior they can spread tourism.Please do not abuse and win before atomic era using these</Help>
+      <Help>Can enter other players teretories without open borders(I Hope)</Help>
       <Requirements></Requirements>
-      <Combat>5</Combat>
+      <Combat>10</Combat>
       <RangedCombat>0</RangedCombat>
-      <Cost>60</Cost>
-      <RequiresFaithPurchaseEnabled>0</RequiresFaithPurchaseEnabled>
+      <Cost>40</Cost>
       <Moves>2</Moves>
       <Immobile>0</Immobile>
       <Range>0</Range>
-      <BaseSightRange>2</BaseSightRange>
+      <BaseSightRange>3</BaseSightRange>
       <Class>UNITCLASS_WARRIOR</Class>
       <Special></Special>
       <Capture></Capture>
@@ -25,7 +24,7 @@
       <DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
       <Food>0</Food>
       <NoBadGoodies>0</NoBadGoodies>
-      <RivalTerritory>0</RivalTerritory>
+      <RivalTerritory>1</RivalTerritory>
       <MilitarySupport>1</MilitarySupport>
       <MilitaryProduction>0</MilitaryProduction>
       <Pillage>1</Pillage>
@@ -35,7 +34,7 @@
       <CultureBombRadius>0</CultureBombRadius>
       <GoldenAgeTurns>0</GoldenAgeTurns>
       <FreePolicies>0</FreePolicies>
-      <OneShotTourism>1</OneShotTourism>
+      <OneShotTourism>0</OneShotTourism>
       <OneShotTourismPercentOthers>0</OneShotTourismPercentOthers>
       <IgnoreBuildingDefense>0</IgnoreBuildingDefense>
       <PrereqResources>0</PrereqResources>

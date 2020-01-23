@@ -326,6 +326,16 @@ Robot is geared towards any.</Description>
         <Type>UpdateDatabase</Type>
         <FileName>XML/Stefan/StefanUnits.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>QuickModEditor.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>IncreasedMovement.xml</FileName>
+      </Action>
     </ModActions>
     <ModProperties />
   </PropertyGroup>
@@ -377,6 +387,14 @@ Robot is geared towards any.</Description>
     <Content Include="Art\CivSymbolsColorLegends80.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="IncreasedMovement.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="QuickModEditor.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="SKExtraBuildings.xml">
       <SubType>Lua</SubType>

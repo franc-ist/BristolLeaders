@@ -8,15 +8,14 @@
       <Strategy>TXT_KEY_UNIT_SK_SAMUEL_STRATEGY</Strategy>
       <Help>TXT_KEY_UNIT_HELP_SK_SAMUEL_PICTISH_WARRIOR</Help>
       <Requirements></Requirements>
-      <Combat>1</Combat>
+      <Combat>12</Combat>
       <RangedCombat>0</RangedCombat>
-      <Cost>56</Cost>
-      <FaithCost>112</FaithCost>
-      <RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+      <Cost>40</Cost>
+      <FaithCost>40</FaithCost>
       <Moves>1</Moves>
       <Immobile>0</Immobile>
       <Range>0</Range>
-      <BaseSightRange>2</BaseSightRange>
+      <BaseSightRange>6</BaseSightRange>
       <Class>UNITCLASS_SCOUT</Class>
       <Special></Special>
       <Capture></Capture>
@@ -79,7 +78,7 @@
       <XPValueDefense>3</XPValueDefense>
       <SpecialCargo></SpecialCargo>
       <DomainCargo></DomainCargo>
-      <Conscription>2</Conscription>
+      <Conscription>1</Conscription>
       <ExtraMaintenanceCost>0</ExtraMaintenanceCost>
       <NoMaintenance>0</NoMaintenance>
       <Unhappiness>0</Unhappiness>
@@ -136,10 +135,6 @@
 		<Row>
 			<UnitType>UNIT_SK_SAMUEL</UnitType>
 			<PromotionType>PROMOTION_NO_DEFENSIVE_BONUSES</PromotionType>
-		</Row>
-		<Row>
-			<UnitType>UNIT_SK_SAMUEL</UnitType>
-			<PromotionType>PROMOTION_NO_CAPTURE</PromotionType>
 		</Row>
 	</Unit_FreePromotions>
   <Unit_Flavors>

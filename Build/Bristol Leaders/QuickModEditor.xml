@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<GameSpeeds>
+        <Row>
+			<Type>GAMESPEED_SUPERQUICK</Type>
+			<Description>TXT_KEY_GAMESPEED_SUPERQUICK</Description>
+			<Help>TXT_KEY_GAMESPEED_SUPERQUICK_HELP</Help>
+			<DealDuration>20</DealDuration>
+			<GrowthPercent>50</GrowthPercent>
+			<TrainPercent>50</TrainPercent>
+			<ConstructPercent>50</ConstructPercent>
+			<CreatePercent>50</CreatePercent>
+			<ResearchPercent>50</ResearchPercent>
+			<GoldPercent>50</GoldPercent>
+			<GoldGiftMod>125</GoldGiftMod>
+			<BuildPercent>50</BuildPercent>
+			<ImprovementPercent>50</ImprovementPercent>
+			<GreatPeoplePercent>55</GreatPeoplePercent>
+			<CulturePercent>55</CulturePercent>
+			<FaithPercent>60</FaithPercent>
+			<BarbPercent>50</BarbPercent>
+			<FeatureProductionPercent>50</FeatureProductionPercent>
+			<UnitDiscoverPercent>50</UnitDiscoverPercent>
+			<UnitHurryPercent>50</UnitHurryPercent>
+			<UnitTradePercent>75</UnitTradePercent>
+			<GoldenAgePercent>80</GoldenAgePercent>
+			<HurryPercent>100</HurryPercent>
+			<InflationPercent>50</InflationPercent>
+			<InflationOffset>-20</InflationOffset>
+			<ReligiousPressureAdjacentCity>105</ReligiousPressureAdjacentCity>
+			<VictoryDelayPercent>50</VictoryDelayPercent>
+			<MinorCivElectionFreqMod>60</MinorCivElectionFreqMod>
+			<OpinionDurationPercent>50</OpinionDurationPercent>
+			<SpyRatePercent>80</SpyRatePercent>
+			<PeaceDealDuration>8</PeaceDealDuration>
+			<RelationshipDuration>80</RelationshipDuration>
+			<LeaguePercent>60</LeaguePercent>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+    </GameSpeeds>
+	<GameSpeed_Turns>
+		-<Row>
+			<GameSpeedType>GAMESPEED_SUPERQUICK</GameSpeedType>
+			<MonthIncrement>1440</MonthIncrement>
+			<TurnsPerIncrement>25</TurnsPerIncrement>
+
+		</Row>
+
+
+		-<Row>
+
+			<GameSpeedType>GAMESPEED_SUPERQUICK</GameSpeedType>
+
+			<MonthIncrement>900</MonthIncrement>
+
+			<TurnsPerIncrement>20</TurnsPerIncrement>
+
+		</Row>
+
+
+		-<Row>
+
+			<GameSpeedType>GAMESPEED_SUPERQUICK</GameSpeedType>
+
+			<MonthIncrement>720</MonthIncrement>
+
+			<TurnsPerIncrement>10</TurnsPerIncrement>
+
+		</Row>
+
+
+		-<Row>
+
+			<GameSpeedType>GAMESPEED_SUPERQUICK</GameSpeedType>
+
+			<MonthIncrement>360</MonthIncrement>
+
+			<TurnsPerIncrement>15</TurnsPerIncrement>
+
+		</Row>
+
+
+		-<Row>
+
+			<GameSpeedType>GAMESPEED_SUPERQUICK</GameSpeedType>
+
+			<MonthIncrement>180</MonthIncrement>
+
+			<TurnsPerIncrement>20</TurnsPerIncrement>
+
+		</Row>
+
+
+		-<Row>
+
+			<GameSpeedType>GAMESPEED_SUPERQUICK</GameSpeedType>
+
+			<MonthIncrement>24</MonthIncrement>
+
+			<TurnsPerIncrement>15</TurnsPerIncrement>
+
+		</Row>
+
+
+		-<Row>
+
+			<GameSpeedType>GAMESPEED_SUPERQUICK</GameSpeedType>
+
+			<MonthIncrement>12</MonthIncrement>
+
+			<TurnsPerIncrement>30</TurnsPerIncrement>
+
+		</Row>
+		
+		
+		
+		
+		
+		
+		
+	</GameSpeed_Turns>
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_GAMESPEED_SUPERQUICK">
+
+			<Text>Super Quick</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_GAMESPEED_SUPERQUICK_HELP">
+
+			<Text>Gameplay is two times faster than Standard Speed and 1.5 as fast as Quick Speed.Hopefully:)</Text>
+
+		</Row>
+
+	</Language_en_US>
+
+</GameData>

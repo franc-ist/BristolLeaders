@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8658c295-99ad-41b4-9c98-d9ec6259216b" version="12">
+  <Properties>
+    <Name>Bristol Leaders</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds 8 civilizations based off our friend group in Bristol. Removes all others.</Teaser>
+    <Description>Adds 8 civilizations based off our friend group in Bristol. 
+
+Some known bugs - Some Pictures don't work. Some of art is weird. Stefan starts with a extra warrior as well please delete. Ai plays werid.
+
+Francis is meant to be geared to diplomatic victory.
+Stefan is meant to be geared towards science.
+Sam is meant to be geared towards any.
+Dan is geared towards domination and naval.
+Caleb is Geared towards Culture.
+Dave is a good happy boy.
+Charlie is a mean boy and is geared towards domination.
+Robot is geared towards any.</Description>
+    <Authors>Francis Taylor, Stefan Keeley</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="6fb5c1a0-fbe2-4063-bfc1-82d736684c9c" minversion="2" maxversion="2" title="YnAEMP DLL Leader fix for BNW" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3B98BD0A0EDDC8638C4C888AE76C7DCD" import="1">Art/CivSymbolsColorLegends128.dds</File>
+    <File md5="CEE81E604EAF49624B6D83D9AC920C9B" import="1">Art/CivSymbolsColorLegends256.dds</File>
+    <File md5="D5A24936307E2C557EFE6D5BED1D5674" import="1">Art/CivSymbolsColorLegends32.dds</File>
+    <File md5="186B996E140C5E8254666D12EB833116" import="1">Art/CivSymbolsColorLegends45.dds</File>
+    <File md5="AD6ECD02452171705692B28AE6C32EA8" import="1">Art/CivSymbolsColorLegends64.dds</File>
+    <File md5="6421DB5B69CC30D72D2E4FEEED782F70" import="1">Art/CivSymbolsColorLegends80.dds</File>
+    <File md5="06340F506EA752B377AED62E8717B0BC" import="0">IncreasedMovement.xml</File>
+    <File md5="8D615C7FB3ACB7DA37F61A306D82F3DB" import="0">QuickModEditor.xml</File>
+    <File md5="4B252273C66AF93AD0174329DC808453" import="0">SKExtraBuildings.xml</File>
+    <File md5="F78F77E4A8023745CAEDF0E7235183BA" import="1">XML/Caleb/caleb-mapimage.dds</File>
+    <File md5="70C71D68B648F7E0D33F99C7804A735E" import="0">XML/Caleb/CalebBuildings.xml</File>
+    <File md5="4B312990DC6A4E8F5A6C08A9690ADC08" import="0">XML/Caleb/CalebCivilization.xml</File>
+    <File md5="28F81E68E9200BC465F16DC2DB2BD91D" import="0">XML/Caleb/CalebLeader.xml</File>
+    <File md5="9E630DEC05B0DE78602ECDE93E24EC20" import="1">XML/Caleb/CalebScene.dds</File>
+    <File md5="B66CAD2C432A4EBD22E468CF8661E7BD" import="1">XML/Caleb/CalebScene.xml</File>
+    <File md5="B02A52BA14794A7B5730C6026E39D936" import="0">XML/Caleb/CalebTrait.xml</File>
+    <File md5="36C03D4AA2696383C07F67C44B3F8360" import="0">XML/Caleb/CalebUnits.xml</File>
+    <File md5="4D56B613864CC5C9F332C9F2C997C8B5" import="1">XML/Charlly/charlie-mapimage.dds</File>
+    <File md5="1CE35D17980117EB8DA91677C0BB91B2" import="0">XML/Charlly/CharlieBuildings.xml</File>
+    <File md5="2A13D7C6971DD863DA68A85B74526DEF" import="0">XML/Charlly/CharlieCivilization.xml</File>
+    <File md5="87D69560A6B59835530A03EBBF6F699D" import="0">XML/Charlly/CharlieDiplomacyResponses.xml</File>
+    <File md5="EEEC08FC98C7CEA4C26121A60B0F7274" import="0">XML/Charlly/CharlieLeader.xml</File>
+    <File md5="F1985FE0470533FE5C93D980F760FE83" import="1">XML/Charlly/CharlieScene.dds</File>
+    <File md5="A1A22B7761075B52ACC50578DD030CA6" import="1">XML/Charlly/CharlieScene.xml</File>
+    <File md5="647D3C8B58F8FD2844B2EC77F60F2A4E" import="0">XML/Charlly/CharlieTrait.xml</File>
+    <File md5="298D76F3904FF2AC59863F5D3EF235A3" import="0">XML/Charlly/CharlieUnits.xml</File>
+    <File md5="892670385A75E913F4A9D2311CBD1276" import="1">XML/Dan/dan-mapimage.dds</File>
+    <File md5="F8E93247D66C01FA0629B08653057AC8" import="0">XML/Dan/DanBuildings.xml</File>
+    <File md5="0BFCDF127518C46BF21647683FE90CE1" import="0">XML/Dan/DanCivilization.xml</File>
+    <File md5="76631D111BCCF745578091E2F6F484C9" import="0">XML/Dan/DanLeader.xml</File>
+    <File md5="F3BC6BCC2DF4E821AE34E2C2E3D88664" import="1">XML/Dan/DanScene.dds</File>
+    <File md5="42668BC1C7CFD3CB140D0D2C50180BCF" import="1">XML/Dan/DanScene.xml</File>
+    <File md5="95C4FDB781026262BAA23F1ACE76323D" import="0">XML/Dan/DanTrait.xml</File>
+    <File md5="5C56A3DA38724AECEEE96BB26476FBD4" import="0">XML/Dan/DanUnits.xml</File>
+    <File md5="575E36E6442B802AFFD79BE4DA613BA8" import="1">XML/Dave/dave-mapimage.dds</File>
+    <File md5="E87A335F04B0A0496F2A5F2D4493458F" import="0">XML/Dave/DaveBuildings.xml</File>
+    <File md5="3B438614CCDC90009A552646CAD3B38C" import="0">XML/Dave/DaveCivilization.xml</File>
+    <File md5="87D69560A6B59835530A03EBBF6F699D" import="0">XML/Dave/DaveDiplomacyResponses.xml</File>
+    <File md5="977CFE2EB785A1467CF1522D0D506D2F" import="0">XML/Dave/DaveLeader.xml</File>
+    <File md5="8679099C813380ABE3B4007B8F956B30" import="1">XML/Dave/DaveScene.dds</File>
+    <File md5="7A3D6920E5B34BD27B034F6B2B2DF1C6" import="1">XML/Dave/DaveScene.xml</File>
+    <File md5="85F04E225D799002763AA8C5E8191745" import="0">XML/Dave/DaveTrait.xml</File>
+    <File md5="CE4C9E02DD0C9AA8AFE8F453DDAB31CA" import="0">XML/Dave/DaveUnits.xml</File>
+    <File md5="9703FEBCA28AE9D05EE946373753CBB5" import="1">XML/Francis/francis-mapimage.dds</File>
+    <File md5="693214687D0952B271CAE219C2AF618D" import="0">XML/Francis/FrancisBuildings.xml</File>
+    <File md5="75FE432F7D63BD4D4FC5055F6A47C107" import="0">XML/Francis/FrancisCivilization.xml</File>
+    <File md5="87D69560A6B59835530A03EBBF6F699D" import="0">XML/Francis/FrancisDiplomacyResponses.xml</File>
+    <File md5="06A99A60420403A63D317C598802782E" import="0">XML/Francis/FrancisLeader.xml</File>
+    <File md5="F53D846F0A1DD6FB68078A10774DC93F" import="1">XML/Francis/FrancisScene.dds</File>
+    <File md5="97958A7B3564CA8F1726297908F30B5C" import="1">XML/Francis/FrancisScene.xml</File>
+    <File md5="3D87A5F27C2ECBC9C4C7973578441B75" import="0">XML/Francis/FrancisTrait.xml</File>
+    <File md5="457CA33A93954AB88B8A61A5F819493B" import="0">XML/Francis/FrancisUnits.xml</File>
+    <File md5="F171E3A68FB3BE6A7F1ACA1767BC7D92" import="0">XML/GameInfo/CIV5IconTextureAtlases.xml</File>
+    <File md5="EEF2B17C2C22A9397957591CE528D522" import="0">XML/GameInfo/DeleteAllCivs.xml</File>
+    <File md5="FE5C3E63E5EFEECF489422914E1A9E0D" import="1">XML/Robot/robot-mapimage.dds</File>
+    <File md5="A2E834B3D1CDD1CC66B5642FEF080227" import="0">XML/Robot/RobotBuildings.xml</File>
+    <File md5="58CE1CA7C30D2EF4922AEFAD039E52B2" import="0">XML/Robot/RobotCivilization.xml</File>
+    <File md5="87D69560A6B59835530A03EBBF6F699D" import="0">XML/Robot/RobotDiplomacyResponses.xml</File>
+    <File md5="93BD5A76CEC03823083404E633CB2807" import="0">XML/Robot/RobotLeader.xml</File>
+    <File md5="168DF51B9B45955F3CED399D00F77006" import="1">XML/Robot/RobotScene.dds</File>
+    <File md5="B76589504C7525B1ABD7765C18C8711F" import="1">XML/Robot/RobotScene.xml</File>
+    <File md5="753ABE423CA5238804E02B3832C9BC70" import="0">XML/Robot/RobotTrait.xml</File>
+    <File md5="C941C1FD4CF2774A9AAF476B8E478828" import="0">XML/Robot/RobotUnits.xml</File>
+    <File md5="C3FE9A09A22AED9F8C17BE4DC05AFB94" import="1">XML/Samuel/sam-mapimage.dds</File>
+    <File md5="C0BB52EB8C2FE7E056F4CEE5DA9D4AF9" import="0">XML/Samuel/SamuelBuildings.xml</File>
+    <File md5="BD8CEFE8A1B36D89FFB223077E5C2685" import="0">XML/Samuel/SamuelCivilization.xml</File>
+    <File md5="87D69560A6B59835530A03EBBF6F699D" import="0">XML/Samuel/SamuelDiplomacyResponses.xml</File>
+    <File md5="63668A26EE979F9DEB8ABBDD7E031D24" import="0">XML/Samuel/SamuelLeader.xml</File>
+    <File md5="1A11A52CC368A9F4966BBBACD4FCEF66" import="1">XML/Samuel/SamuelsScene.dds</File>
+    <File md5="8F0DB389C646171BA9068C20B0F43F2A" import="1">XML/Samuel/SamuelsScene.xml</File>
+    <File md5="BCE2847A23D24099B9731837E3348CF4" import="0">XML/Samuel/SamuelTrait.xml</File>
+    <File md5="4F23468CDAB1DFE4D28D36AEEB21704E" import="0">XML/Samuel/SamuelUnits.xml</File>
+    <File md5="0879A3474FA8C7E29D11E05005BEA3F7" import="1">XML/Stefan/stefan-mapimage.dds</File>
+    <File md5="055C8E46CF202F5C1C884917FC5D1E8A" import="0">XML/Stefan/StefanBuildings.xml</File>
+    <File md5="40BE3B40CC0E1D6D05FC5BAFB3A6C059" import="0">XML/Stefan/StefanCivilization.xml</File>
+    <File md5="87D69560A6B59835530A03EBBF6F699D" import="0">XML/Stefan/StefanDiplomacyResponses.xml</File>
+    <File md5="38F2864E457F855D12B89C4A7B6508BA" import="0">XML/Stefan/StefanLeader.xml</File>
+    <File md5="6B26FBD54F1E231D60BE7944F5855307" import="1">XML/Stefan/StefanScene.dds</File>
+    <File md5="9F2B8CFD3EF532CACEF918E1F7595A01" import="1">XML/Stefan/StefanScene.xml</File>
+    <File md5="C59CB5F4F961F520E6B60A9A3CB998D2" import="0">XML/Stefan/StefanTrait.xml</File>
+    <File md5="DE07FB1608DF88E72E739DFDA468F612" import="0">XML/Stefan/StefanUnits.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/GameInfo/DeleteAllCivs.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>SKExtraBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Caleb/CalebBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Caleb/CalebCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Caleb/CalebLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Caleb/CalebScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Caleb/CalebTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Caleb/CalebUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Francis/FrancisBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Francis/FrancisCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Francis/FrancisDiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Francis/FrancisLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Francis/FrancisScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Francis/FrancisTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Francis/FrancisUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dave/DaveBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dave/DaveCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dave/DaveDiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dave/DaveLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dave/DaveScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dave/DaveTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dave/DaveUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dan/DanBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dan/DanCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dan/DanLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dan/DanScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dan/DanTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dan/DanUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Charlly/CharlieBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Charlly/CharlieCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Charlly/CharlieDiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Charlly/CharlieLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Charlly/CharlieScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Charlly/CharlieTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Charlly/CharlieUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Robot/RobotBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Robot/RobotCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Robot/RobotDiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Robot/RobotLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Robot/RobotScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Robot/RobotTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Robot/RobotUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Samuel/SamuelBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Samuel/SamuelCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Samuel/SamuelDiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Samuel/SamuelLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Samuel/SamuelsScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Samuel/SamuelTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Samuel/SamuelUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Stefan/StefanBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Stefan/StefanCivilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Stefan/StefanDiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Stefan/StefanLeader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Stefan/StefanScene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Stefan/StefanTrait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Stefan/StefanUnits.xml</UpdateDatabase>
+      <UpdateDatabase>QuickModEditor.xml</UpdateDatabase>
+      <UpdateDatabase>IncreasedMovement.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

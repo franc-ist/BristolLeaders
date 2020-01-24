@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/21/2014 6:48:54 PM -->
+<GameData>
+	<Units>
+		<Update>
+			<Where Moves="8"/>
+			<Set Moves="12"/>
+		</Update>
+	</Units>
+	<Units>
+		<Update>
+			<Where Moves="7"/>
+			<Set Moves="10"/>
+		</Update>
+	</Units>
+	<Units>
+		<Update>
+			<Where Moves="6"/>
+			<Set Moves="9"/>
+		</Update>
+	</Units>
+	<Units>
+		<Update>
+			<Where Moves="5"/>
+			<Set Moves="8"/>
+		</Update>
+	</Units>
+	<Units>
+		<Update>
+			<Where Moves="4"/>
+			<Set Moves="6"/>
+		</Update>
+	</Units>
+	<Units>
+		<Update>
+			<Where Moves="3"/>
+			<Set Moves="4"/>
+		</Update>
+	</Units>
+	<Units>
+		<Update>
+			<Where Moves="2"/>
+			<Set Moves="3"/>
+		</Update>
+	</Units>
+</GameData>

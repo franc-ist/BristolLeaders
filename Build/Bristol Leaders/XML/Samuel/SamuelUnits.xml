@@ -8,7 +8,7 @@
       <Strategy>TXT_KEY_UNIT_SK_SAMUEL_STRATEGY</Strategy>
       <Help>TXT_KEY_UNIT_HELP_SK_SAMUEL_PICTISH_WARRIOR</Help>
       <Requirements></Requirements>
-      <Combat>12</Combat>
+      <Combat>11</Combat>
       <RangedCombat>0</RangedCombat>
       <Cost>40</Cost>
       <FaithCost>40</FaithCost>

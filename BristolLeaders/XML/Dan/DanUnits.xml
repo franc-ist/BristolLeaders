@@ -4,7 +4,7 @@
 		<Row>
 			<Class>UNITCLASS_TRIREME</Class>
 			<Type>UNIT_SK_DAN</Type>
-			<Combat>12</Combat>
+			<Combat>14</Combat>
 			<RangedCombat>0</RangedCombat>
 			<Cost>30</Cost>
 			<Moves>5</Moves>

@@ -5,8 +5,8 @@
     <ProjectGuid>{d7995a0d-e469-4d69-b606-44accd655e77}</ProjectGuid>
     <Name>Bristol Leaders</Name>
     <Guid>8658c295-99ad-41b4-9c98-d9ec6259216b</Guid>
-    <ModVersion>13</ModVersion>
-    <Stability>Alpha</Stability>
+    <ModVersion>15</ModVersion>
+    <Stability>Beta</Stability>
     <Teaser>Adds 8 civilizations based off our friend group in Bristol. Removes all others.</Teaser>
     <Description>Adds 8 civilizations based off our friend group in Bristol. 
 
@@ -331,11 +331,6 @@ Robot is geared towards any.</Description>
         <Type>UpdateDatabase</Type>
         <FileName>QuickModEditor.xml</FileName>
       </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>IncreasedMovement.xml</FileName>
-      </Action>
     </ModActions>
     <ModProperties />
   </PropertyGroup>
@@ -387,10 +382,6 @@ Robot is geared towards any.</Description>
     <Content Include="Art\CivSymbolsColorLegends80.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
-    </Content>
-    <Content Include="IncreasedMovement.xml">
-      <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="QuickModEditor.xml">
       <SubType>Lua</SubType>

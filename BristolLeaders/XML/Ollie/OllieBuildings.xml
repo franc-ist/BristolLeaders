@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Buildings>
+	  <Row>
+		  <Type>BUILDING_OT_OLLIE</Type>
+		  <BuildingClass>BUILDINGCLASS_UNIVERSITY</BuildingClass>
+		  <Cost>130</Cost>
+		  <GoldMaintenance>2</GoldMaintenance>
+		  <PrereqTech>TECH_EDUCATION</PrereqTech>
+		  <Help>This Building generates Science on forests as well as jungles and is slightly cheaper then a normal university.Also provides a bonus 10% science</Help>
+		  <Description>Bristol University</Description>
+		  <Civilopedia>This does something</Civilopedia>
+		  <Strategy>Good if you dont chop down forests</Strategy>
+		  <ArtDefineTag>ART_DEF_BUILDING_UNIVERSITY</ArtDefineTag>
+		  <SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
+		  <SpecialistCount>2</SpecialistCount>
+		  <MinAreaSize>-1</MinAreaSize>
+		  <ConquestProb>0</ConquestProb>
+		  <HurryCostModifier>0</HurryCostModifier>
+		  <IconAtlas>BW_ATLAS_1</IconAtlas>
+		  <PortraitIndex>13</PortraitIndex>
+	  </Row>
+  </Buildings>
+	<Building_FeatureYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_OT_OLLIE</BuildingType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_OT_OLLIE</BuildingType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<YieldType>YIELD_SCIENCE​</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_FeatureYieldChanges>
+	<Building_YieldModifiers>
+	<Row>
+		<BuildingType>BUILDING_OT_OLLIE</BuildingType>
+		<YieldType>YIELD_SCIENCE</YieldType>
+		<Yield>38</Yield>
+	</Row>
+	</Building_YieldModifiers>
+
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_OT_OLLIE</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>70</Flavor>
+		</Row>
+	</Building_Flavors>
+  <!-- Building_AreaYieldModifiers -->
+  <!-- Building_BuildingClassHappiness -->
+  <!-- Building_BuildingClassYieldChanges -->
+	<!-- Building_ClassesNeededInCity-->
+	<!--Building_ClassesNeededInCity-->
+  <!-- Building_FreeUnits -->
+  <!-- Building_DomainFreeExperiences -->
+  <!-- Building_DomainFreeExperiencePerGreatWork -->
+  <!-- Building_DomainProductionModifiers -->
+  <!-- Building_FreeSpecialistCounts -->
+  <!-- Building_GlobalYieldModifiers -->
+  <!-- Building_HurryModifiers -->
+  <!-- Building_LocalResourceAnds -->
+  <!-- Building_LocalResourceOrs -->
+  <!-- Building_LockedBuildingClasses -->
+  <!-- Building_PrereqBuildingClasses -->
+  <!-- Building_ResourceQuantity -->
+  <!-- Building_ResourceQuantityRequirements -->
+  <!-- Building_ResourceYieldModifiers -->
+  <!-- Building_ResourceCultureChanges -->
+  <!-- Building_ResourceFaithChanges -->
+  <!-- Building_RiverPlotYieldChanges -->
+  <!-- Building_SeaPlotYieldChanges -->
+  <!-- Building_LakePlotYieldChanges -->
+  <!-- Building_SeaResourceYieldChanges -->
+  <!-- Building_ResourceYieldChanges -->
+  <!-- Building_FeatureYieldChanges -->
+  <!-- Building_TerrainYieldChanges -->
+  <!-- Building_SpecialistYieldChanges -->
+  <!-- Building_UnitCombatFreeExperiences -->
+  <!-- Building_UnitCombatProductionModifiers -->
+  <!-- Building_TechAndPrereqs -->
+  <!-- Building_YieldChangesPerPop -->
+  <!-- Building_YieldChangesPerReligion -->
+  <!-- Building_TechEnhancedYieldChanges -->
+  <!-- Building_YieldModifiers -->
+  <!-- Building_ThemingBonuses -->
+</GameData>

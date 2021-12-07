@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+	  -<Row>
+		  <Class>UNITCLASS_SCOUT</Class>
+		  <Type>UNIT_OT_OLLIE</Type>
+		  <Combat>11</Combat>
+		  <Cost>20</Cost>
+		  <Moves>2</Moves>
+		  <CombatClass>UNITCOMBAT_MELEE</CombatClass>
+		  <Domain>DOMAIN_LAND</Domain>
+		  <DefaultUnitAI>UNITAI_EXPLORE</DefaultUnitAI>
+		  <Description>Tony</Description>
+		  <Civilopedia>Hi</Civilopedia>
+		  <Strategy>Is quite fast with 3 movement and 2 sight also ignores terrain.Also a timetravalling car.</Strategy>
+		  <Help>Is quite fast with 3 movement and 2 sight also ignores terrain.Also a timetravalling car.</Help>
+		  <MilitarySupport>true</MilitarySupport>
+		  <MilitaryProduction>true</MilitaryProduction>
+		  <Pillage>true</Pillage>
+		  <IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+		  <AdvancedStartCost>60</AdvancedStartCost>
+		  <XPValueAttack>3</XPValueAttack>
+		  <XPValueDefense>3</XPValueDefense>
+		  <UnitArtInfo>ART_DEF_UNIT_SCOUT</UnitArtInfo>
+		  <UnitFlagIconOffset>75</UnitFlagIconOffset>
+		  <IconAtlas>UNIT_ATLAS_2</IconAtlas>
+		  <PortraitIndex>28</PortraitIndex>
+		  <MoveRate>WHEELED</MoveRate>
+	  </Row>
+  </Units>
+	<Unit_FreePromotions>
+	<Row>
+		<UnitType>UNIT_OT_OLLIE</UnitType>
+		<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
+	</Row>
+	</Unit_FreePromotions>
+  <Unit_AITypes>
+    <Row>
+      <UnitType>UNIT_OT_OLLIE</UnitType>
+      <UnitAIType>UNITAI_ATTACK</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_OT_OLLIE</UnitType>
+      <UnitAIType>UNITAI_DEFENSE</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_OT_OLLIE</UnitType>
+      <UnitAIType>UNITAI_EXPLORE</UnitAIType>
+    </Row>
+  </Unit_AITypes>
+  <!-- Unit_Buildings -->
+  <!-- Unit_BuildingClassRequireds -->
+  <!-- Unit_ProductionModifierBuildings -->
+  <!-- Unit_Builds -->
+  <Unit_ClassUpgrades>
+    <Row>
+      <UnitType>UNIT_OT_OLLIE</UnitType>
+      <UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+    </Row>
+  </Unit_ClassUpgrades>
+  <Unit_Flavors>
+    <Row>
+      <UnitType>UNIT_OT_OLLIE</UnitType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>2</Flavor>
+    </Row>
+    <Row>
+      <UnitType>UNIT_OT_OLLIE</UnitType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>2</Flavor>
+    </Row>
+  </Unit_Flavors>
+  <!-- Unit_GreatPersons -->
+  <!-- Unit_ResourceQuantityRequirements -->
+  <!-- Unit_UniqueNames -->
+  <!--Unit_YieldFromKills-->
+  <!-- Unit_NotAITypes -->
+  <!-- Unit_ProductionTraits -->
+  <!-- Unit_TechTypes -->
+  <!-- UnitPromotions_CivilianUnitType -->
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_OT_OLLIE</UnitType>
+      <SelectionSound>AS2D_SELECT_SWORDSMAN</SelectionSound>
+      <FirstSelectionSound>AS2D_BIRTH_SWORDSMAN</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_OT_OLLIE">
+      <Text>Tony</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_PICTISH_WARRIOR_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_OT_OLLIE_STRATEGY">
+      <Text>Use to explore</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_OT_OLLIE_PICTISH_WARRIOR">
+      <Text>Is quite fast with 3 movement and 2 sight also ignores terrain.Also a timetravalling car.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

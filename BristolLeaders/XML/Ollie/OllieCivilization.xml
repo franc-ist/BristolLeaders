@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_OT_OLLIE</Type>
+      <Description>TXT_KEY_CIV_OT_OLLIE_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_OT_OLLIE</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_OT_OLLIE_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_OT_OLLIE_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_OT_OLLIE</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_ROME</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+	  <PortraitIndex>7</PortraitIndex>
+	  <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
+	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
+      <MapImage>ollie-mapimage.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_OT_OLLIE_TEXT</DawnOfManQuote>
+      <DawnOfManImage>OllieScene.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_OT_OLLIE</DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+      <BuildingType>BUILDING_OT_OLLIE</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_OT_OLLIE_35</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+		  <BuildingClassType>OLLIEBUILDINGS</BuildingClassType>
+	 </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+	 <Row>
+		  <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+		  <UnitClassType>UNITCLASS_SCOUT</UnitClassType>
+		  <UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		  <Count>1</Count>
+	 </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <LeaderheadType>LEADER_OT_OLLIE</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OT_OLLIE_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OT_OLLIE_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OT_OLLIE_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OT_OLLIE_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OT_OLLIE_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OT_OLLIE_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OT_OLLIE_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OT_OLLIE_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OT_OLLIE_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_OT_OLLIE_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <UnitClassType>UNITCLASS_SCOUT</UnitClassType>
+      <UnitType>UNIT_OT_OLLIE</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+  <!-- Civilization_Start_Along_River -->
+  <Civilization_Start_Region_Priority>
+    <Row>
+      <CivilizationType>CIVILIZATION_OT_OLLIE</CivilizationType>
+      <RegionType>REGION_HILLS</RegionType>
+    </Row>
+  </Civilization_Start_Region_Priority>
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_OT_OLLIE</Type>
+      <PrimaryColor>COLOR_PLAYER_OT_OLLIE_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_OT_OLLIE_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_OT_OLLIE_ICON</Type>
+      <Red>0.0</Red>
+      <Green>0.0</Green>
+      <Blue>0.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_OT_OLLIE_BACKGROUND</Type>
+      <Red>1.0</Red>
+      <Green>1.0</Green>
+      <Blue>1.0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_OT_OLLIE_DESC">
+      <Text>Ollie Keeley</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_FACTOID_HEADING">
+      <Text>Factoids</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_FACTOID_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_HEADING_10">
+      <Text>The OT_OLLIEic Language</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_HEADING_11">
+      <Text>Modern Ancestry</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_HEADING_2">
+      <Text>Terrain and Climate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_HEADING_3">
+      <Text>OT_OLLIEic Origins</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_HEADING_4">
+      <Text>OT_OLLIE of Britain</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_HEADING_5">
+      <Text>The OT_OLLIEiberians</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_HEADING_6">
+      <Text>The Gauls</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_HEADING_7">
+      <Text>The Roman Conquest</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_HEADING_8">
+      <Text>Influence of OT_OLLIEic Culture</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_HEADING_9">
+      <Text>OT_OLLIEic Religion</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TEXT_1">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TEXT_10">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TEXT_11">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TEXT_2">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TEXT_3">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TEXT_4">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TEXT_5">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TEXT_6">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TEXT_7">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TEXT_8">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TEXT_9">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TITLE">
+      <Text>Keeley Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_OT_OLLIE_SHORT_DESC">
+      <Text>Keeley Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_OT_OLLIE_ADJECTIVE">
+      <Text>Ollies</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_OT_OLLIE_TEXT">
+      <Text>Rise Ollie Keeley for your knowledge of computers will be the worlds downfall. With your powerful new helicopter the world is the limit but be careful not to awake the sinsister force that could destroy all...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_0">
+      <Text>The Keeley Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_1">
+      <Text>Crabs are not people</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_2">
+      <Text>Rush Samuel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_3">
+      <Text>Start now</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_4">
+      <Text>The only Leader</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_5">
+      <Text>Join me</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_6">
+      <Text>How many Cities</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_7">
+      <Text>No too Many</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_8">
+      <Text>Aberystwyth</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_9">
+      <Text>Penzance</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_10">
+      <Text>Rennes</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_11">
+      <Text>Ramsey</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_12">
+      <Text>Inverness</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_13">
+      <Text>Limerick</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_14">
+      <Text>Swansea</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_15">
+      <Text>St Ives</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_16">
+      <Text>Brest</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_17">
+      <Text>Peel</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_18">
+      <Text>Aberdeen</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_19">
+      <Text>Belfast</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_20">
+      <Text>Caernarfon</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_21">
+      <Text>Newquay</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_22">
+      <Text>Saint-Nazaire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_23">
+      <Text>Castletown</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_24">
+      <Text>Stirling</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_25">
+      <Text>Galway</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_26">
+      <Text>Conwy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_27">
+      <Text>St Austell</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_28">
+      <Text>Saint-Malo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_29">
+      <Text>Onchan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_30">
+      <Text>Dundee</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_31">
+      <Text>Londonderry</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_32">
+      <Text>Llanfairpwllgwyngyll</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_33">
+      <Text>Falmouth</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_34">
+      <Text>Lorient</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_35">
+      <Text>OLLIE</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_0">
+      <Text>Ollie</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_1">
+      <Text>Ethan</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_2">
+      <Text>General Grevious</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_3">
+		<Text>Hello there</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_4">
+      <Text>So many Spies</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_5">
+      <Text>Please Stop</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_6">
+      <Text>Mr. Quinn</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_7">
+      <Text>Éadaoin</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_8">
+      <Text>Alwyn</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_9">
+      <Text>Col Ceathar</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

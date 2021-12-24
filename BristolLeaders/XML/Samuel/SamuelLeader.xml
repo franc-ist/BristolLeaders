@@ -160,7 +160,7 @@
     <Row>
       <LeaderType>LEADER_SK_SAMUEL</LeaderType>
       <FlavorType>FLAVOR_GROWTH</FlavorType>
-      <Flavor>4</Flavor>
+      <Flavor>6</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_SAMUEL</LeaderType>
@@ -210,12 +210,12 @@
     <Row>
       <LeaderType>LEADER_SK_SAMUEL</LeaderType>
       <FlavorType>FLAVOR_RELIGION</FlavorType>
-      <Flavor>8</Flavor>
+      <Flavor>10</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_SAMUEL</LeaderType>
       <FlavorType>FLAVOR_DIPLOMACY</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>6</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_SAMUEL</LeaderType>

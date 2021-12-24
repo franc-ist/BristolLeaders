@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_ATTACKED_HOSTILE</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_TRADE_NEEDMORE_ANGRY</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_TRADE_NEEDMORE_NEUTRAL</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CALEB">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CALEB_TRADE_NEEDMORE_HAPPY</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_FIRSTGREETING_1">
+			<Text>Can you hear the music?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_FIRSTGREETING_2">
+			<Text>Can you hear the music?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_FIRSTGREETING_3">
+			<Text>Can you hear the music?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_DEFEATED_1">
+			<Text>NO!I'm never gonna give you up. I'm never gonna let you down. I'm never gonna run around and desert you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_GREETING_POLITE_HELLO_1">
+			<Text>Do you want to hear the music too?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_GREETING_NEUTRAL_HELLO_1">
+			<Text>Listen to the music.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_GREETING_HOSTILE_HELLO_1">
+			<Text>NO! You must listen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your war drums are too loud.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your peoples music is drowning out mine. Get away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_REQUEST">
+			<Text>Please I need help to let the music spread.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_LUXURY_TRADE">
+			<Text>I can throw in a song.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_OPEN_BORDERS_EXCHANGE">
+			<Text>Please help the music to spread.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_ATTACKED_BETRAYED">
+			<Text>My music will wipe you from existence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_ATTACKED_EXCITED">
+			<Text>Ah good I can use an excuse to play more music.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_ATTACKED_HOSTILE">
+			<Text>Never Gonna Give You Up.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_DECLAREWAR_1">
+			<Text>Your people need to hear my music.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_TRADE_NEEDMORE_ANGRY">
+			<Text>Don't tell me you're too blind to see.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_TRADE_NEEDMORE_HAPPY">
+			<Text>Never gonna let you down.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CALEB_TRADE_NEEDMORE_NEUTRAL">
+			<Text>Never gonna say goodbye.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>WR_WILL_TRAIT</Type>
+      <Description>TXT_KEY_WR_WILL_TRAIT</Description>
+      <ShortDescription>TXT_KEY_WR_WILL_TRAIT_SHORT</ShortDescription>
+      <LevelExperienceModifier>0</LevelExperienceModifier>
+      <GreatPeopleRateModifier>0</GreatPeopleRateModifier>
+      <GreatScientistRateModifier>0</GreatScientistRateModifier>
+      <GreatGeneralRateModifier>0</GreatGeneralRateModifier>
+      <GreatGeneralExtraBonus>0</GreatGeneralExtraBonus>
+      <GreatPersonGiftInfluence>0</GreatPersonGiftInfluence>
+      <MaxGlobalBuildingProductionModifier>0</MaxGlobalBuildingProductionModifier>
+      <MaxTeamBuildingProductionModifier>0</MaxTeamBuildingProductionModifier>
+      <MaxPlayerBuildingProductionModifier>0</MaxPlayerBuildingProductionModifier>
+      <CityUnhappinessModifier>0</CityUnhappinessModifier>
+      <PopulationUnhappinessModifier>0</PopulationUnhappinessModifier>
+      <CityStateBonusModifier>0</CityStateBonusModifier>
+      <CityStateFriendshipModifier>0</CityStateFriendshipModifier>
+      <CityStateCombatModifier>0</CityStateCombatModifier>
+      <LandBarbarianConversionPercent>0</LandBarbarianConversionPercent>
+      <LandBarbarianConversionExtraUnits>0</LandBarbarianConversionExtraUnits>
+      <SeaBarbarianConversionPercent>0</SeaBarbarianConversionPercent>
+      <LandUnitMaintenanceModifier>0</LandUnitMaintenanceModifier>
+      <NavalUnitMaintenanceModifier>0</NavalUnitMaintenanceModifier>
+      <CapitalBuildingModifier>0</CapitalBuildingModifier>
+      <PlotBuyCostModifier>0</PlotBuyCostModifier>
+      <PlotCultureCostModifier>0</PlotCultureCostModifier>
+      <CultureFromKills>0</CultureFromKills>
+      <CityCultureBonus>0</CityCultureBonus>
+      <CapitalThemingBonusModifier>0</CapitalThemingBonusModifier>
+      <PolicyCostModifier>0</PolicyCostModifier>
+      <CityConnectionTradeRouteChange>0</CityConnectionTradeRouteChange>
+      <WonderProductionModifier>0</WonderProductionModifier>
+      <PlunderModifier>0</PlunderModifier>
+      <ImprovementMaintenanceModifier>0</ImprovementMaintenanceModifier>
+      <GoldenAgeDurationModifier>0</GoldenAgeDurationModifier>
+      <GoldenAgeMoveChange>0</GoldenAgeMoveChange>
+      <GoldenAgeCombatModifier>0</GoldenAgeCombatModifier>
+      <GoldenAgeTourismModifier>0</GoldenAgeTourismModifier>
+      <GoldenAgeGreatArtistRateModifier>0</GoldenAgeGreatArtistRateModifier>
+      <GoldenAgeGreatMusicianRateModifier>0</GoldenAgeGreatMusicianRateModifier>
+      <GoldenAgeGreatWriterRateModifier>0</GoldenAgeGreatWriterRateModifier>
+      <ExtraEmbarkMoves>0</ExtraEmbarkMoves>
+      <NaturalWonderFirstFinderGold>0</NaturalWonderFirstFinderGold>
+      <NaturalWonderSubsequentFinderGold>0</NaturalWonderSubsequentFinderGold>
+      <NaturalWonderYieldModifier>0</NaturalWonderYieldModifier>
+      <NaturalWonderHappinessModifier>0</NaturalWonderHappinessModifier>
+      <NearbyImprovementCombatBonus>0</NearbyImprovementCombatBonus>
+      <NearbyImprovementBonusRange>0</NearbyImprovementBonusRange>
+      <CultureBuildingYieldChange>0</CultureBuildingYieldChange>
+      <CombatBonusVsHigherTech>0</CombatBonusVsHigherTech>
+      <CombatBonusVsLargerCiv>0</CombatBonusVsLargerCiv>
+      <RazeSpeedModifier>0</RazeSpeedModifier>
+      <DOFGreatPersonModifier>0</DOFGreatPersonModifier>
+      <LuxuryHappinessRetention>0</LuxuryHappinessRetention>
+      <ExtraSpies>0</ExtraSpies>
+      <UnresearchedTechBonusFromKills>0</UnresearchedTechBonusFromKills>
+      <ExtraFoundedCityTerritoryClaimRange>0</ExtraFoundedCityTerritoryClaimRange>
+      <FreeSocialPoliciesPerEra>0</FreeSocialPoliciesPerEra>
+      <NumTradeRoutesModifier>0</NumTradeRoutesModifier>
+      <TradeRouteResourceModifier>0</TradeRouteResourceModifier>
+      <UniqueLuxuryCities>0</UniqueLuxuryCities>
+      <UniqueLuxuryQuantity>0</UniqueLuxuryQuantity>
+      <WorkerSpeedModifier>0</WorkerSpeedModifier>
+      <AfraidMinorPerTurnInfluence>0</AfraidMinorPerTurnInfluence>
+      <LandTradeRouteRangeBonus>0</LandTradeRouteRangeBonus>
+      <TradeReligionModifier>0</TradeReligionModifier>
+      <TradeBuildingModifier>0</TradeBuildingModifier>
+      <FightWellDamaged>0</FightWellDamaged>
+      <MoveFriendlyWoodsAsRoad>0</MoveFriendlyWoodsAsRoad>
+      <FasterAlongRiver>0</FasterAlongRiver>
+      <FasterInHills>0</FasterInHills>
+      <EmbarkedAllWater>0</EmbarkedAllWater>
+      <EmbarkedToLandFlatCost>0</EmbarkedToLandFlatCost>
+      <NoHillsImprovementMaintenance>0</NoHillsImprovementMaintenance>
+      <TechBoostFromCapitalScienceBuildings>0</TechBoostFromCapitalScienceBuildings>
+      <StaysAliveZeroCities>0</StaysAliveZeroCities>
+      <FaithFromUnimprovedForest>0</FaithFromUnimprovedForest>
+      <BonusReligiousBelief>0</BonusReligiousBelief>
+      <AbleToAnnexCityStates>0</AbleToAnnexCityStates>
+      <CrossesMountainsAfterGreatGeneral>0</CrossesMountainsAfterGreatGeneral>
+      <MayaCalendarBonuses>0</MayaCalendarBonuses>
+      <NoAnnexing>0</NoAnnexing>
+      <TechFromCityConquer>0</TechFromCityConquer>
+      <UniqueLuxuryRequiresNewArea>0</UniqueLuxuryRequiresNewArea>
+      <RiverTradeRoad>0</RiverTradeRoad>
+      <AngerFreeIntrusionOfCityStates>0</AngerFreeIntrusionOfCityStates>
+      <FreeUnit></FreeUnit>
+      <FreeUnitPrereqTech></FreeUnitPrereqTech>
+      <CombatBonusImprovement></CombatBonusImprovement>
+      <FreeBuilding></FreeBuilding>
+      <FreeBuildingOnConquest></FreeBuildingOnConquest>
+      <ObsoleteTech></ObsoleteTech>
+      <PrereqTech></PrereqTech>
+    </Row>
+  </Traits>
+
+  <!-- Trait_ExtraYieldThresholds -->
+  <!-- Trait_YieldChanges -->
+  <!-- Trait_YieldChangesStrategicResources -->
+  <!-- Trait_YieldChangesNaturalWonder -->
+  <!-- Trait_YieldChangesPerTradePartner -->
+  <!-- Trait_YieldChangesIncomingTradeRoute -->
+  <!-- Trait_YieldModifiers -->
+  <!-- Trait_FreePromotions -->
+  <!-- Trait_FreePromotionUnitCombats -->
+  <!-- Trait_MovesChangeUnitCombats -->
+  <!-- Trait_MaintenanceModifierUnitCombats -->
+  <!-- Trait_Terrains -->
+  <!-- Trait_ResourceQuantityModifiers -->
+  <!-- Trait_FreeResourceFirstXCities -->
+  <!-- Trait_ImprovementYieldChanges -->
+  <!-- Trait_SpecialistYieldChanges -->
+  <!-- Trait_UnimprovedFeatureYieldChanges -->
+  <!-- Trait_NoTrain -->
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_WR_WILL_TRAIT">
+      <Text>Gain vision of the whole map at the start of the game. Gain 1 extra trade route, 1 free tech and 1 free policy. Gain +25% defence. Lose 20% unit strength in forigen lands. Lose 2 culture a turn.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WR_WILL_TRAIT_SHORT">
+      <Text>High Ground</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

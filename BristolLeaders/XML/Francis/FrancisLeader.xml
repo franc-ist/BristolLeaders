@@ -11,16 +11,16 @@
       <WonderCompetitiveness>4</WonderCompetitiveness>
       <MinorCivCompetitiveness>5</MinorCivCompetitiveness>
       <Boldness>6</Boldness>
-      <DiploBalance>4</DiploBalance>
+      <DiploBalance>10</DiploBalance>
       <WarmongerHate>4</WarmongerHate>
       <WorkAgainstWillingness>0</WorkAgainstWillingness>
       <WorkWithWillingness>0</WorkWithWillingness>
       <DenounceWillingness>6</DenounceWillingness>
-      <DoFWillingness>4</DoFWillingness>
-      <Loyalty>6</Loyalty>
+      <DoFWillingness>10</DoFWillingness>
+      <Loyalty>7</Loyalty>
       <Neediness>5</Neediness>
-      <Forgiveness>3</Forgiveness>
-      <Chattiness>5</Chattiness>
+      <Forgiveness>6</Forgiveness>
+      <Chattiness>7</Chattiness>
       <Meanness>7</Meanness>
       <PortraitIndex>12</PortraitIndex>
       <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
@@ -56,7 +56,7 @@
     <Row>
       <LeaderType>LEADER_SK_FRANCIS</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
-      <Bias>4</Bias>
+      <Bias>7</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_FRANCIS</LeaderType>
@@ -95,7 +95,7 @@
     <Row>
       <LeaderType>LEADER_SK_FRANCIS</LeaderType>
       <FlavorType>FLAVOR_OFFENSE</FlavorType>
-      <Flavor>7</Flavor>
+      <Flavor>4</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_FRANCIS</LeaderType>
@@ -105,7 +105,7 @@
     <Row>
       <LeaderType>LEADER_SK_FRANCIS</LeaderType>
       <FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
-      <Flavor>6</Flavor>
+      <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_FRANCIS</LeaderType>
@@ -215,7 +215,7 @@
     <Row>
       <LeaderType>LEADER_SK_FRANCIS</LeaderType>
       <FlavorType>FLAVOR_DIPLOMACY</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>10</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_FRANCIS</LeaderType>

@@ -3,9 +3,9 @@
   <Leaders>
     <Row>
       <Type>LEADER_WR_WILL</Type>
-      <Description>TXT_KEY_LEADER_WR_WILL</Description>
-      <Civilopedia>TXT_KEY_LEADER_WR_WILL_PEDIA</Civilopedia>
-      <CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_WR_WILL</CivilopediaTag>
+      <Description>Emperor Will</Description>
+      <Civilopedia>Will</Civilopedia>
+      <CivilopediaTag>Will</CivilopediaTag>
       <ArtDefineTag>WillScene.xml</ArtDefineTag>
       <VictoryCompetitiveness>5</VictoryCompetitiveness>
       <WonderCompetitiveness>2</WonderCompetitiveness>
@@ -14,14 +14,14 @@
       <DiploBalance>8</DiploBalance>
       <WarmongerHate>6</WarmongerHate>
       <WorkAgainstWillingness>2</WorkAgainstWillingness>
-      <WorkWithWillingness>6</WorkWithWillingness>
+      <WorkWithWillingness>7</WorkWithWillingness>
       <DenounceWillingness>2</DenounceWillingness>
-      <DoFWillingness>5</DoFWillingness>
-      <Loyalty>6</Loyalty>
+      <DoFWillingness>10</DoFWillingness>
+      <Loyalty>8</Loyalty>
       <Neediness>6</Neediness>
-      <Forgiveness>6</Forgiveness>
+      <Forgiveness>8</Forgiveness>
       <Chattiness>6</Chattiness>
-      <Meanness>4</Meanness>
+      <Meanness>2</Meanness>
       <PortraitIndex>15</PortraitIndex>
       <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
     </Row>
@@ -31,32 +31,32 @@
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
-      <Bias>4</Bias>
+      <Bias>3</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
-      <Bias>4</Bias>
+      <Bias>3</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
-      <Bias>4</Bias>
+      <Bias>3</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
-      <Bias>6</Bias>
+      <Bias>4</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
-      <Bias>8</Bias>
+      <Bias>7</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
-      <Bias>6</Bias>
+      <Bias>8</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
@@ -95,7 +95,7 @@
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <FlavorType>FLAVOR_OFFENSE</FlavorType>
-      <Flavor>3</Flavor>
+      <Flavor>2</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
@@ -110,12 +110,12 @@
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
-      <Flavor>4</Flavor>
+      <Flavor>2</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <FlavorType>FLAVOR_RECON</FlavorType>
-      <Flavor>6</Flavor>
+      <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
@@ -155,72 +155,72 @@
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <FlavorType>FLAVOR_EXPANSION</FlavorType>
-      <Flavor>5</Flavor>
-    </Row>
-    <Row>
-      <LeaderType>LEADER_WR_WILL</LeaderType>
-      <FlavorType>FLAVOR_GROWTH</FlavorType>
-      <Flavor>8</Flavor>
-    </Row>
-    <Row>
-      <LeaderType>LEADER_WR_WILL</LeaderType>
-      <FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
       <Flavor>6</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
-      <FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
-      <Flavor>8</Flavor>
+      <FlavorType>FLAVOR_GROWTH</FlavorType>
+      <Flavor>6</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
-      <FlavorType>FLAVOR_PRODUCTION</FlavorType>
-      <Flavor>8</Flavor>
-    </Row>
-    <Row>
-      <LeaderType>LEADER_WR_WILL</LeaderType>
-      <FlavorType>FLAVOR_GOLD</FlavorType>
-      <Flavor>5</Flavor>
-    </Row>
-    <Row>
-      <LeaderType>LEADER_WR_WILL</LeaderType>
-      <FlavorType>FLAVOR_SCIENCE</FlavorType>
-      <Flavor>9</Flavor>
-    </Row>
-    <Row>
-      <LeaderType>LEADER_WR_WILL</LeaderType>
-      <FlavorType>FLAVOR_CULTURE</FlavorType>
-      <Flavor>5</Flavor>
-    </Row>
-    <Row>
-      <LeaderType>LEADER_WR_WILL</LeaderType>
-      <FlavorType>FLAVOR_HAPPINESS</FlavorType>
-      <Flavor>4</Flavor>
-    </Row>
-    <Row>
-      <LeaderType>LEADER_WR_WILL</LeaderType>
-      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
-      <Flavor>5</Flavor>
-    </Row>
-    <Row>
-      <LeaderType>LEADER_WR_WILL</LeaderType>
-      <FlavorType>FLAVOR_WONDER</FlavorType>
+      <FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
       <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
+      <FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_WR_WILL</LeaderType>
+      <FlavorType>FLAVOR_PRODUCTION</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_WR_WILL</LeaderType>
+      <FlavorType>FLAVOR_GOLD</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_WR_WILL</LeaderType>
+      <FlavorType>FLAVOR_SCIENCE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_WR_WILL</LeaderType>
+      <FlavorType>FLAVOR_CULTURE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_WR_WILL</LeaderType>
+      <FlavorType>FLAVOR_HAPPINESS</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_WR_WILL</LeaderType>
+      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_WR_WILL</LeaderType>
+      <FlavorType>FLAVOR_WONDER</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_WR_WILL</LeaderType>
       <FlavorType>FLAVOR_RELIGION</FlavorType>
-      <Flavor>4</Flavor>
+      <Flavor>3</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <FlavorType>FLAVOR_DIPLOMACY</FlavorType>
-		<Flavor>5</Flavor>
+		<Flavor>8</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <FlavorType>FLAVOR_SPACESHIP</FlavorType>
-      <Flavor>8</Flavor>
+      <Flavor>6</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
@@ -292,7 +292,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_LEADER_WR_WILL">
-      <Text>Will Keeley</Text>
+      <Text>Emperor Will</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_WR_WILL_PEDIA">
       <Text><!-- Add Civilopedia text here --></Text>
@@ -307,10 +307,10 @@
       <Text>2000 - AD</Text>
     </Row>
     <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WR_WILL_NAME">
-      <Text>Will Keeley</Text>
+      <Text>Emperor Will</Text>
     </Row>
     <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WR_WILL_SUBTITLE">
-      <Text>Leader of Computers</Text>
+      <Text>Leader of the empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_WR_WILL_TEXT_1">
       <Text><!-- Add Civilopedia text here --></Text>

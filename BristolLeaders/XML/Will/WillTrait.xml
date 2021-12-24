@@ -118,10 +118,10 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_WR_WILL_TRAIT">
-      <Text>Extra unhappiness per city but plus 10% production</Text>
+      <Text>Gain vision of the whole map at the start of the game. Gain 1 extra trade route, 1 free tech and 1 free policy. Gain +25% defence. Lose 20% unit strength in forigen lands. Lose 2 culture a turn.</Text>
     </Row>
     <Row Tag="TXT_KEY_WR_WILL_TRAIT_SHORT">
-      <Text>Logical Thinker</Text>
+      <Text>High Ground</Text>
     </Row>
   </Language_en_US>
 </GameData>

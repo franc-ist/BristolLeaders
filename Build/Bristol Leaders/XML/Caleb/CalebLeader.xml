@@ -8,20 +8,20 @@
       <CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_SK_CALEB</CivilopediaTag>
       <ArtDefineTag>CalebScene.xml</ArtDefineTag>
       <VictoryCompetitiveness>6</VictoryCompetitiveness>
-      <WonderCompetitiveness>4</WonderCompetitiveness>
+      <WonderCompetitiveness>5</WonderCompetitiveness>
       <MinorCivCompetitiveness>5</MinorCivCompetitiveness>
       <Boldness>6</Boldness>
-      <DiploBalance>4</DiploBalance>
+      <DiploBalance>5</DiploBalance>
       <WarmongerHate>4</WarmongerHate>
-      <WorkAgainstWillingness>0</WorkAgainstWillingness>
-      <WorkWithWillingness>0</WorkWithWillingness>
-      <DenounceWillingness>6</DenounceWillingness>
+      <WorkAgainstWillingness>3</WorkAgainstWillingness>
+      <WorkWithWillingness>6</WorkWithWillingness>
+      <DenounceWillingness>5</DenounceWillingness>
       <DoFWillingness>4</DoFWillingness>
-      <Loyalty>6</Loyalty>
+      <Loyalty>7</Loyalty>
       <Neediness>5</Neediness>
-      <Forgiveness>3</Forgiveness>
+      <Forgiveness>4</Forgiveness>
       <Chattiness>5</Chattiness>
-      <Meanness>7</Meanness>
+      <Meanness>4</Meanness>
       <PortraitIndex>8</PortraitIndex>
       <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
     </Row>
@@ -31,17 +31,17 @@
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
-      <Bias>6</Bias>
-    </Row>
-    <Row>
-      <LeaderType>LEADER_SK_CALEB</LeaderType>
-      <MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
       <Bias>5</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+      <Bias>4</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_SK_CALEB</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
-      <Bias>6</Bias>
+      <Bias>4</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
@@ -56,12 +56,12 @@
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
-      <Bias>4</Bias>
+      <Bias>6</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
-      <Bias>6</Bias>
+      <Bias>5</Bias>
     </Row>
   </Leader_MajorCivApproachBiases>
   <Leader_MinorCivApproachBiases>
@@ -73,7 +73,7 @@
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
-      <Bias>6</Bias>
+      <Bias>7</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
@@ -95,7 +95,7 @@
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_OFFENSE</FlavorType>
-      <Flavor>7</Flavor>
+      <Flavor>4</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
@@ -105,7 +105,7 @@
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
-      <Flavor>6</Flavor>
+      <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
@@ -130,7 +130,7 @@
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_NAVAL</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>3</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
@@ -150,7 +150,7 @@
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_AIR</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>3</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
@@ -160,17 +160,17 @@
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_GROWTH</FlavorType>
-      <Flavor>4</Flavor>
-    </Row>
-    <Row>
-      <LeaderType>LEADER_SK_CALEB</LeaderType>
-      <FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
       <Flavor>5</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
+      <FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
-      <Flavor>3</Flavor>
+      <Flavor>4</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
@@ -190,7 +190,7 @@
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_CULTURE</FlavorType>
-      <Flavor>7</Flavor>
+      <Flavor>9</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
@@ -200,17 +200,17 @@
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>10</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_WONDER</FlavorType>
-      <Flavor>4</Flavor>
+      <Flavor>6</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_RELIGION</FlavorType>
-      <Flavor>8</Flavor>
+      <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
@@ -220,52 +220,52 @@
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_SPACESHIP</FlavorType>
-      <Flavor>4</Flavor>
+      <Flavor>3</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>4</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_NUKE</FlavorType>
-      <Flavor>4</Flavor>
+      <Flavor>5</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_USE_NUKE</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_ESPIONAGE</FlavorType>
-      <Flavor>4</Flavor>
+      <Flavor>6</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_ANTIAIR</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>6</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>4</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>8</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
       <FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_CALEB</LeaderType>
@@ -310,7 +310,7 @@
       <Text>Caleb Evans</Text>
     </Row>
     <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SK_CALEB_SUBTITLE">
-      <Text>Leader of the SK_CALEB</Text>
+      <Text>Leader of the Calebs</Text>
     </Row>
     <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SK_CALEB_TEXT_1">
       <Text><!-- Add Civilopedia text here --></Text>

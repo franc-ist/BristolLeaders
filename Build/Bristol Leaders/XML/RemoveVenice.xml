@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/9/2021 3:08:30 PM -->
+<GameData>
+	<Civilizations>
+		<!--
+				<Delete Type="CIVILIZATION_VENICE">
+			<Set AIPlayable="0" Playable="0" />
+			<Where  />
+		</Delete>
+		-->
+		<Delete Type="CIVILIZATION_VENICE"/>
+	</Civilizations>
+</GameData>

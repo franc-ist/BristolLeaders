@@ -8,7 +8,7 @@
 		  <Cost>80</Cost>
 		  <GoldMaintenance>1</GoldMaintenance>
 		  <PrereqTech>TECH_SAILING</PrereqTech>
-		  <Help>Build this to get +1 food and gold from coast tiles.+1 food and + 1 gold but 2 maintance.Also gives +10xp to every naval unit but your special one as I can`t fix that.</Help>
+		  <Help>Build this to get +2 food and + 1 gold and +1 production from coast tiles.+1 food and + 1 gold but 2 maintance. Also gives +10xp to every naval unit but your special one as I can`t fix that.</Help>
 		  <Description>Dans Canoe Club</Description>
 		  <Civilopedia>civ</Civilopedia>
 		  <Strategy>Build this!</Strategy>
@@ -36,22 +36,27 @@
 		  <Row>
 			  <BuildingType>BUILDING_SK_DAN</BuildingType>
 			  <FlavorType>FLAVOR_GROWTH</FlavorType>
-			  <Flavor>10</Flavor>
+			  <Flavor>60</Flavor>
 		  </Row>
 		  <Row>
 			  <BuildingType>BUILDING_SK_DAN</BuildingType>
 			  <FlavorType>FLAVOR_SCIENCE</FlavorType>
-			  <Flavor>5</Flavor>
+			  <Flavor>15</Flavor>
 		  </Row>
 	  <Row>
 		  <BuildingType>BUILDING_SK_DAN</BuildingType>
+		  <FlavorType>FLAVOR_PRODUCTION</FlavorType>
+		  <Flavor>25</Flavor>
+	  </Row>
+	  <Row>
+		  <BuildingType>BUILDING_SK_DAN</BuildingType>
 		  <FlavorType>FLAVOR_GOLD</FlavorType>
-		  <Flavor>10</Flavor>
+		  <Flavor>25</Flavor>
 	  </Row>
 		  <Row>
 			  <BuildingType>BUILDING_SK_DAN</BuildingType>
 			  <FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
-			  <Flavor>20</Flavor>
+			  <Flavor>40</Flavor>
 		  </Row>
   </Building_Flavors>
   <!-- Building_GlobalYieldModifiers -->
@@ -80,6 +85,11 @@
 		<Row>
 			<BuildingType>BUILDING_SK_DAN</BuildingType>
 			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_SK_DAN</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
 			<Yield>1</Yield>
 		</Row>
 		<Row>
@@ -92,7 +102,7 @@
 	  <Row>
 		  <BuildingType>BUILDING_SK_DAN</BuildingType>
 		  <YieldType>YIELD_FOOD</YieldType>
-		  <Yield>2</Yield>
+		  <Yield>1</Yield>
 	  </Row>
 	  <Row>
 		  <BuildingType>BUILDING_SK_DAN</BuildingType>

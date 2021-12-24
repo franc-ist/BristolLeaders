@@ -10,7 +10,7 @@
       <Requirements></Requirements>
       <Combat>11</Combat>
       <RangedCombat>0</RangedCombat>
-      <Cost>60</Cost>
+      <Cost>70</Cost>
       <RequiresFaithPurchaseEnabled>0</RequiresFaithPurchaseEnabled>
       <Moves>2</Moves>
       <Immobile>0</Immobile>
@@ -163,7 +163,7 @@
       <Text><!-- Add Civilopedia text here --></Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_SK_CAT_STRATEGY">
-      <Text>Charlies Cat Warrior is Charlie the cats unique unit.Slightly stronger costs more and gets +50% attack against cities</Text>
+      <Text>Charlies Cat Warrior is Charlie the cats unique unit. Slightly stronger costs more and gets +50% attack against cities</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_SK_CAT_PICTISH_WARRIOR">
       <Text>Only the Charlie may build this unit. It get +50% strength against cities</Text>

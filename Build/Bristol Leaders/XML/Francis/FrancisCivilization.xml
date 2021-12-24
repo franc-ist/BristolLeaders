@@ -24,17 +24,23 @@
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_FRANCIS_TEXT</DawnOfManQuote>
       <DawnOfManImage>FrancisScene.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_SK_FRANCIS</DawnOfManAudio>
-      <SoundtrackTag></SoundtrackTag>
+      <SoundtrackTag>FRANCIS</SoundtrackTag>
     </Row>
   </Civilizations>
-
+	<!--<BuildingClasses>
+		<Update>
+			<where Type = "BUILDINGCLASS_OPERA_HOUSE"/>
+			<Set MaxPlayerInstances = "7"/>
+		</Update>
+	</BuildingClasses>-->
   <Civilization_BuildingClassOverrides>
     <Row>
       <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>
       <BuildingClassType>BUILDINGCLASS_OPERA_HOUSE</BuildingClassType>
-      <BuildingType>BUILDING_SK_FRANCIS</BuildingType>
+		<BuildingType>BUILDING_SK_FRANCIS</BuildingType>
     </Row>
   </Civilization_BuildingClassOverrides>
+
   <Civilization_CityNames>
     <Row>
       <CivilizationType>CIVILIZATION_SK_FRANCIS</CivilizationType>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/8/2021 8:16:36 AM -->
+<GameData>
+	<Technologies>
+		<Row>
+			<Type>TECH_WILLS_VISION</Type>
+			<Cost>10000</Cost>
+			<Description>TXT_KEY_TECH_WILLS_VISION_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_WILLS_VISION_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_WILLS_VISION_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<MapVisible>true</MapVisible>
+			<Trade>true</Trade>
+			<GridX>0</GridX>
+			<GridY>1</GridY>
+			<Quote>TXT_KEY_TECH_WILLS_VISION_QUOTE</Quote>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_2</IconAtlas>
+			<AudioIntro>AS2D_TECH_SATELLITES</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_SATELLITES</AudioIntroHeader>
+		</Row>
+	</Technologies>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_TECH_WILLS_VISION_TITLE">
+			<Text>Wills Vision. The world likes Will so much he can see everything.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WILLS_VISION_DESC">
+			<Text>Wills Vision. The world likes Will so much he can see everything.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WILLS_VISION_HELP">
+			<Text>Wills Vision. The world likes Will so much he can see everything. Acts like satelites</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

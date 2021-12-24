@@ -17,20 +17,20 @@
       <ArtStyleSuffix>_EURO</ArtStyleSuffix>
       <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
       <DerivativeCiv></DerivativeCiv>
-	  <PortraitIndex>7</PortraitIndex>
+	  <PortraitIndex>10</PortraitIndex>
 	  <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
       <MapImage>will-mapimage.dds</MapImage>
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_WR_WILL_TEXT</DawnOfManQuote>
       <DawnOfManImage>WillScene.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_WR_WILL</DawnOfManAudio>
-      <SoundtrackTag></SoundtrackTag>
+      <SoundtrackTag>WILL</SoundtrackTag>
     </Row>
   </Civilizations>
   <Civilization_BuildingClassOverrides>
     <Row>
       <CivilizationType>CIVILIZATION_WR_WILL</CivilizationType>
-      <BuildingClassType>BUILDINGCLASS_UNIVERSITY</BuildingClassType>
+      <BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
       <BuildingType>BUILDING_WR_WILL</BuildingType>
     </Row>
   </Civilization_BuildingClassOverrides>
@@ -196,6 +196,10 @@
       <CivilizationType>CIVILIZATION_WR_WILL</CivilizationType>
       <TechType>TECH_AGRICULTURE</TechType>
     </Row>
+	 <Row>
+		 <CivilizationType>CIVILIZATION_WR_WILL</CivilizationType>
+		 <TechType>TECH_WILLS_VISION</TechType>
+	 </Row>
   </Civilization_FreeTechs>
   <Civilization_FreeUnits>
     <Row>
@@ -295,16 +299,16 @@
     <Row>
       <Type>COLOR_PLAYER_WR_WILL_ICON</Type>
       <Red>0.0</Red>
-      <Green>0.0</Green>
-      <Blue>0.0</Blue>
+      <Green>0.2</Green>
+      <Blue>0.2</Blue>
       <Alpha>1.0</Alpha>
     </Row>
   </Colors>
   <Colors>
     <Row>
       <Type>COLOR_PLAYER_WR_WILL_BACKGROUND</Type>
-      <Red>1.0</Red>
-      <Green>1.0</Green>
+      <Red>0.8</Red>
+      <Green>0.8</Green>
       <Blue>1.0</Blue>
       <Alpha>1.0</Alpha>
     </Row>
@@ -312,7 +316,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_CIV_WR_WILL_DESC">
-      <Text>Will Keeley</Text>
+      <Text>Will</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_WR_WILL_FACTOID_HEADING">
       <Text>Factoids</Text>
@@ -324,7 +328,7 @@
       <Text>History</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_WR_WILL_HEADING_10">
-      <Text>The WR_WILLic Language</Text>
+      <Text>The Will Language</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_WR_WILL_HEADING_11">
       <Text>Modern Ancestry</Text>
@@ -387,34 +391,34 @@
       <Text><!-- Add Civilopedia text here --></Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_WR_WILL_TITLE">
-      <Text>Keeley Empire</Text>
+      <Text>The Grand Galatic Will Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV_WR_WILL_SHORT_DESC">
-      <Text>Keeley Empire</Text>
+      <Text>Will Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV_WR_WILL_ADJECTIVE">
       <Text>Wills</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_DAWN_WR_WILL_TEXT">
-      <Text>Rise Will Keeley for your knowledge of computers will be the worlds downfall. With your powerful new helicopter the world is the limit but be careful not to awake the sinsister force that could destroy all...</Text>
+      <Text>Rise Will for you a freind to all. With a bonus tech, policy, trade route and 6 delegates you are a true wildcard in any game. If they should attack you they will suffer...</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_WR_WILL_0">
-      <Text>The Keeley Empire</Text>
+      <Text>The Grand Galatic Will Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_WR_WILL_1">
-      <Text>Crabs are not people</Text>
+      <Text>Wills outpost</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_WR_WILL_2">
-      <Text>Rush Samuel</Text>
+      <Text>Will Run</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_WR_WILL_3">
-      <Text>Start now</Text>
+      <Text>Run Now</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_WR_WILL_4">
-      <Text>The only Leader</Text>
+      <Text>It's too late</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_WR_WILL_5">
-      <Text>Join me</Text>
+      <Text>Samuel is here</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_WR_WILL_6">
       <Text>How many Cities</Text>
@@ -510,7 +514,7 @@
       <Text>Will</Text>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_WR_WILL_1">
-      <Text>Ethan</Text>
+      <Text>Skywalker</Text>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_WR_WILL_2">
       <Text>General Grevious</Text>

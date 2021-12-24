@@ -24,7 +24,7 @@
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_SAMUEL_TEXT</DawnOfManQuote>
       <DawnOfManImage>SamuelsScene.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_SK_SAMUEL</DawnOfManAudio>
-      <SoundtrackTag></SoundtrackTag>
+      <SoundtrackTag>SAM</SoundtrackTag>
     </Row>
   </Civilizations>
 

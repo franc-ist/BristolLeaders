@@ -7,7 +7,7 @@
 	  <Cost>75</Cost>
 	  <GoldMaintenance>3</GoldMaintenance>
 	  <PrereqTech>TECH_CONSTRUCTION</PrereqTech>
-	  <Help>Trust me you do not want to see it.It gets plus 2 happines a science and a culture and a gold compared to a normal one but does have an extra 3 maintance</Help>
+	  <Help>Trust me you do not want to see it.It gets plus 2 happines a science and 2 culture and a gold compared to a normal one but does have an extra 3 maintance</Help>
 	  <Description>Sams happy place</Description>
 	  <Civilopedia>TXT_KEY_CIV5_BUILDINGS_COLISEUM_TEXT</Civilopedia>
 	  <Strategy>Use to get your cities happy and get extra science and culture</Strategy>
@@ -57,6 +57,11 @@
 			  <FlavorType>FLAVOR_SCIENCE</FlavorType>
 			  <Flavor>20</Flavor>
 		  </Row>
+	  <Row>
+		  <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
+		  <FlavorType>FLAVOR_FAITH</FlavorType>
+		  <Flavor>30</Flavor>
+	  </Row>
 
   </Building_Flavors>
   <!-- Building_GlobalYieldModifiers -->
@@ -85,7 +90,7 @@
     <Row>
       <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
       <YieldType>YIELD_CULTURE</YieldType>
-      <Yield>1</Yield>
+      <Yield>2</Yield>
     </Row>
 	<Row>
 		<BuildingType>BUILDING_SK_SAMUEL</BuildingType>
@@ -96,6 +101,11 @@
 		  <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
 		  <YieldType>YIELD_GOLD</YieldType>
 		  <Yield>1</Yield>
+	  </Row>
+	  <Row>
+		  <BuildingType>BUILDING_SK_SAMUEL</BuildingType>
+		  <YieldType>YIELD_FAITH</YieldType>
+		  <Yield>3</Yield>
 	  </Row>
   </Building_YieldChanges>
   <!-- Building_YieldChangesPerPop -->

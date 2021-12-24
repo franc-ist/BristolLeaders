@@ -3,51 +3,56 @@
   <Buildings>
 	  <Row>
 		  <Type>BUILDING_WR_WILL</Type>
-		  <BuildingClass>BUILDINGCLASS_UNIVERSITY</BuildingClass>
-		  <Cost>130</Cost>
-		  <GoldMaintenance>2</GoldMaintenance>
-		  <PrereqTech>TECH_EDUCATION</PrereqTech>
-		  <Help>This Building generates Science on forests as well as jungles and is slightly cheaper then a normal university.Also provides a bonus 10% science</Help>
-		  <Description>Bristol University</Description>
-		  <Civilopedia>This does something</Civilopedia>
-		  <Strategy>Good if you dont chop down forests</Strategy>
-		  <ArtDefineTag>ART_DEF_BUILDING_UNIVERSITY</ArtDefineTag>
-		  <SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
-		  <SpecialistCount>2</SpecialistCount>
+		  <BuildingClass>BUILDINGCLASS_MARKET</BuildingClass>
+		  <FreeStartEra>ERA_INDUSTRIAL</FreeStartEra>
+		  <Cost>125</Cost>
+		  <PrereqTech>TECH_CURRENCY</PrereqTech>
+		  <Help>Provides 2 culture, 2 gold and +50% gold</Help>
+		  <Description>Forbidden Planet</Description>
+		  <Civilopedia>Provides 2 culture, 2 gold and +50% gold</Civilopedia>
+		  <Strategy>Use to overcome debufs.</Strategy>
+		  <ArtDefineTag>ART_DEF_BUILDING_MARKET</ArtDefineTag>
+		  <SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		  <SpecialistCount>1</SpecialistCount>
 		  <MinAreaSize>-1</MinAreaSize>
-		  <ConquestProb>0</ConquestProb>
-		  <HurryCostModifier>0</HurryCostModifier>
+		  <ConquestProb>5</ConquestProb>
+		  <TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+		  <TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+		  <HurryCostModifier>25</HurryCostModifier>
 		  <IconAtlas>BW_ATLAS_1</IconAtlas>
-		  <PortraitIndex>13</PortraitIndex>
+		  <PortraitIndex>16</PortraitIndex>
 	  </Row>
   </Buildings>
-	<Building_FeatureYieldChanges>
-		<Row>
-			<BuildingType>BUILDING_WR_WILL</BuildingType>
-			<FeatureType>FEATURE_JUNGLE</FeatureType>
-			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>2</Yield>
-		</Row>
-		<Row>
-			<BuildingType>BUILDING_WR_WILL</BuildingType>
-			<FeatureType>FEATURE_FOREST</FeatureType>
-			<YieldType>YIELD_SCIENCE​</YieldType>
-			<Yield>2</Yield>
-		</Row>
-	</Building_FeatureYieldChanges>
-	<Building_YieldModifiers>
+	<Building_YieldChanges>
 	<Row>
 		<BuildingType>BUILDING_WR_WILL</BuildingType>
-		<YieldType>YIELD_SCIENCE</YieldType>
-		<Yield>38</Yield>
+		<YieldType>YIELD_CULTURE</YieldType>
+		<Yield>2</Yield>
 	</Row>
-	</Building_YieldModifiers>
+	<Row>
+		<BuildingType>BUILDING_WR_WILL</BuildingType>
+		<YieldType>YIELD_GOLD</YieldType>
+		<Yield>2</Yield>
+	</Row>
+	</Building_YieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_WR_WILL</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>50</Yield>
+		</Row>
+		</Building_YieldModifiers>
 
 	<Building_Flavors>
 		<Row>
-			<BuildingType>BUILDING_WR_WILL</BuildingType>
-			<FlavorType>FLAVOR_SCIENCE</FlavorType>
-			<Flavor>70</Flavor>
+			<BuildingType>BUILDING_MARKET</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MARKET</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>50</Flavor>
 		</Row>
 	</Building_Flavors>
   <!-- Building_AreaYieldModifiers -->

@@ -1,3 +1,306 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_ATTACKED_HOSTILE</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRADE_NEEDMORE_ANGRY</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRADE_NEEDMORE_NEUTRAL</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRADE_NEEDMORE_HAPPY</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_AGREE_SHORT</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_AGREE_SHORT%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_ATTACKED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_ATTACKED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_DEMANDTRIBUTE_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_DEMANDTRIBUTE_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_DISAGREE_SHORT</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_DISAGREE_SHORT%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_DEMANDTRIBUTE_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_GOODBYE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_GOODBYE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_LETSHEARIT</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_LETSHEARIT%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_LOSEWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_LOSEWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_WINWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_WINWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRADE_NO_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRADE_NO_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRADE_NO_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRADE_NO_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRADE_NO_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRADE_NO_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRADE_YES_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRADE_YES_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRADE_YES_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRADE_YES_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRADE_YES_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRADE_YES_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRADEREQUEST_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRADEREQUEST_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRADEREQUEST_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRADEREQUEST_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRADEREQUEST_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRADEREQUEST_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRIBUTE_NO_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRIBUTE_NO_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRIBUTE_NO_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRIBUTE_NO_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRIBUTE_NO_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_TRIBUTE_NO_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_CAT">
+			<ResponseType>RESPONSE_TRIBUTE_WARBLUFF</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_CAT_WARBLUFF%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_FIRSTGREETING_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_FIRSTGREETING_2">
+			<Text>Meow Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_FIRSTGREETING_3">
+			<Text>Meow Meow Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_DEFEATED_1">
+			<Text>Meow. *Sleeps...*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_GREETING_POLITE_HELLO_1">
+			<Text>Meow. *Purs*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_GREETING_NEUTRAL_HELLO_1">
+			<Text>Meow *Looks*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_GREETING_HOSTILE_HELLO_1">
+			<Text>Meow *Hisses*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Meow *Hisses* *Hisses*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Meow *Hisses* *yawns*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_REQUEST">
+			<Text>Meow *Rubs Leg*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_LUXURY_TRADE">
+			<Text>Meow *Purrs* Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_OPEN_BORDERS_EXCHANGE">
+			<Text>Meow Meow Meow *Looks*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_ATTACKED_BETRAYED">
+			<Text>Meow *Hisses* *Scratches*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_ATTACKED_EXCITED">
+			<Text>Meow *Hisses* *Purs*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_ATTACKED_HOSTILE">
+			<Text>Meow *Scratches*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_DECLAREWAR_1">
+			<Text>Meow *Hisses* *Scratches* *Hisses*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRADE_NEEDMORE_ANGRY">
+			<Text>Meow *Purs* *Hisses*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRADE_NEEDMORE_HAPPY">
+			<Text>Meow *Purs* *Rubs Leg*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRADE_NEEDMORE_NEUTRAL">
+			<Text>Meow *Purs* *Looks*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_AGREE_SHORT_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_ATTACKED_1">
+			<Text>Meow *HISS*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_DEMANDTRIBUTE_ANGRY_1">
+			<Text>MEOW MEOW</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_DEMANDTRIBUTE_HAPPY_1">
+			<Text>Meow Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_DEMANDTRIBUTE_NEUTRAL_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_DISAGREE_SHORT_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_GOODBYE_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_LETSHEARIT_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_LOSEWAR_1">
+			<Text>Meow *Looks*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRADE_NO_ANGRY_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRADE_NO_HAPPY_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRADE_NO_NEUTRAL_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRADE_YES_ANGRY_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRADE_YES_HAPPY_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRADE_YES_NEUTRAL_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRADEREQUEST_ANGRY_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRADEREQUEST_HAPPY_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRADEREQUEST_NEUTRAL_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRIBUTE_NO_ANGRY_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRIBUTE_NO_HAPPY_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRIBUTE_NO_NEUTRAL_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRIBUTE_YES_ANGRY_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRIBUTE_YES_HAPPY_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_TRIBUTE_YES_NEUTRAL_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_WARBLUFF_1">
+			<Text>Meow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_CAT_WINWAR_1">
+			<Text>Meow *Purrs*</Text>
+		</Row>
+	</Language_en_US>
 </GameData>

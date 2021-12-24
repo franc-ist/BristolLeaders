@@ -118,7 +118,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_SK_ROBOT_TRAIT">
-      <Text>gets plus 1 prouction and 1 of each type from specalists . Note should be AI only.</Text>
+      <Text>Gets plus 1 prouction and 1 of each type from specalists.</Text>
     </Row>
     <Row Tag="TXT_KEY_SK_ROBOT_TRAIT_SHORT">
       <Text>0</Text>

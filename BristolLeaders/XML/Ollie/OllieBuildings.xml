@@ -5,15 +5,15 @@
 		  <Type>BUILDING_OT_OLLIE</Type>
 		  <BuildingClass>BUILDINGCLASS_UNIVERSITY</BuildingClass>
 		  <Cost>130</Cost>
-		  <GoldMaintenance>2</GoldMaintenance>
+		  <GoldMaintenance>1</GoldMaintenance>
 		  <PrereqTech>TECH_EDUCATION</PrereqTech>
 		  <Help>This Building generates Science on forests as well as jungles and is slightly cheaper then a normal university.Also provides a bonus 10% science</Help>
-		  <Description>Bristol University</Description>
+		  <Description>Placeholder</Description>
 		  <Civilopedia>This does something</Civilopedia>
 		  <Strategy>Good if you dont chop down forests</Strategy>
 		  <ArtDefineTag>ART_DEF_BUILDING_UNIVERSITY</ArtDefineTag>
 		  <SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
-		  <SpecialistCount>2</SpecialistCount>
+		  <SpecialistCount>3</SpecialistCount>
 		  <MinAreaSize>-1</MinAreaSize>
 		  <ConquestProb>0</ConquestProb>
 		  <HurryCostModifier>0</HurryCostModifier>
@@ -26,20 +26,14 @@
 			<BuildingType>BUILDING_OT_OLLIE</BuildingType>
 			<FeatureType>FEATURE_JUNGLE</FeatureType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>2</Yield>
-		</Row>
-		<Row>
-			<BuildingType>BUILDING_OT_OLLIE</BuildingType>
-			<FeatureType>FEATURE_FOREST</FeatureType>
-			<YieldType>YIELD_SCIENCE​</YieldType>
-			<Yield>2</Yield>
+			<Yield>3</Yield>
 		</Row>
 	</Building_FeatureYieldChanges>
 	<Building_YieldModifiers>
 	<Row>
 		<BuildingType>BUILDING_OT_OLLIE</BuildingType>
 		<YieldType>YIELD_SCIENCE</YieldType>
-		<Yield>38</Yield>
+		<Yield>18</Yield>
 	</Row>
 	</Building_YieldModifiers>
 

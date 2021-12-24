@@ -17,14 +17,14 @@
       <ArtStyleSuffix>_EURO</ArtStyleSuffix>
       <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
       <DerivativeCiv></DerivativeCiv>
-	  <PortraitIndex>7</PortraitIndex>
+	  <PortraitIndex>9</PortraitIndex>
 	  <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
       <MapImage>ollie-mapimage.dds</MapImage>
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_OT_OLLIE_TEXT</DawnOfManQuote>
       <DawnOfManImage>OllieScene.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_OT_OLLIE</DawnOfManAudio>
-      <SoundtrackTag></SoundtrackTag>
+      <SoundtrackTag>OLLIE</SoundtrackTag>
     </Row>
   </Civilizations>
   <Civilization_BuildingClassOverrides>
@@ -295,8 +295,8 @@
     <Row>
       <Type>COLOR_PLAYER_OT_OLLIE_ICON</Type>
       <Red>0.0</Red>
-      <Green>0.0</Green>
-      <Blue>0.0</Blue>
+      <Green>0.2</Green>
+      <Blue>0.2</Blue>
       <Alpha>1.0</Alpha>
     </Row>
   </Colors>
@@ -304,8 +304,8 @@
     <Row>
       <Type>COLOR_PLAYER_OT_OLLIE_BACKGROUND</Type>
       <Red>1.0</Red>
-      <Green>1.0</Green>
-      <Blue>1.0</Blue>
+      <Green>0.6</Green>
+      <Blue>0.6</Blue>
       <Alpha>1.0</Alpha>
     </Row>
   </Colors>
@@ -387,31 +387,31 @@
       <Text><!-- Add Civilopedia text here --></Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_OT_OLLIE_TITLE">
-      <Text>Keeley Empire</Text>
+      <Text>Thompson Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV_OT_OLLIE_SHORT_DESC">
-      <Text>Keeley Empire</Text>
+      <Text>Thompson Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV_OT_OLLIE_ADJECTIVE">
       <Text>Ollies</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_DAWN_OT_OLLIE_TEXT">
-      <Text>Rise Ollie Keeley for your knowledge of computers will be the worlds downfall. With your powerful new helicopter the world is the limit but be careful not to awake the sinsister force that could destroy all...</Text>
+      <Text>Rise Ollie Thompson for your lightning quick reaction times will overwhelem enemies with your speed. Found cities early and you will lead an empire that never crumbles...</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_0">
-      <Text>The Keeley Empire</Text>
+      <Text>The Thompson Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_1">
-      <Text>Crabs are not people</Text>
+      <Text>Zelta Ring</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_2">
-      <Text>Rush Samuel</Text>
+      <Text>Omega Halo</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_3">
-      <Text>Start now</Text>
+      <Text>Greater Ark</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_4">
-      <Text>The only Leader</Text>
+      <Text>The true speed</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_5">
       <Text>Join me</Text>
@@ -423,7 +423,7 @@
       <Text>No too Many</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_8">
-      <Text>Aberystwyth</Text>
+      <Text>Scarnsbough</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_OT_OLLIE_9">
       <Text>Penzance</Text>
@@ -510,13 +510,13 @@
       <Text>Ollie</Text>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_1">
-      <Text>Ethan</Text>
+      <Text>Will</Text>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_2">
-      <Text>General Grevious</Text>
+      <Text>SHHHH</Text>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_3">
-		<Text>Hello there</Text>
+		<Text>Secret even from you</Text>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_4">
       <Text>So many Spies</Text>
@@ -525,7 +525,7 @@
       <Text>Please Stop</Text>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_6">
-      <Text>Mr. Quinn</Text>
+      <Text>Who?</Text>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_OT_OLLIE_7">
       <Text>Éadaoin</Text>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_ATTACKED_HOSTILE</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_TRADE_NEEDMORE_ANGRY</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_TRADE_NEEDMORE_NEUTRAL</Response>
+		</Row>
+		<Row LeaderType="LEADER_WR_WILL">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_WR_WILL_TRADE_NEEDMORE_HAPPY</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_FIRSTGREETING_1">
+			<Text>Hello there. How are you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_FIRSTGREETING_2">
+			<Text>Hello there. I hope you are well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_FIRSTGREETING_3">
+			<Text>Hello there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_DEFEATED_1">
+			<Text>Why would you do this? Don't worry I will surley be avenged by everyone else and reseructed. You'll see</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_GREETING_POLITE_HELLO_1">
+			<Text>How are you doing? Would you like to read a comic?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_GREETING_NEUTRAL_HELLO_1">
+			<Text>How are you doing?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_GREETING_HOSTILE_HELLO_1">
+			<Text>Sorry I'm busy at the moment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Why? So much war! Please stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I'm sorry but do you mind setterling elsewhere please?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_REQUEST">
+			<Text>Please I really need your help.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_LUXURY_TRADE">
+			<Text>Do you want this in exchange for some comics?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_OPEN_BORDERS_EXCHANGE">
+			<Text>how would you like to visit my cities? I promise they're pretty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_ATTACKED_BETRAYED">
+			<Text>Why would you do this? :(</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_ATTACKED_EXCITED">
+			<Text>I'm sorry for what I'm about to do. Please don't make me do this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_ATTACKED_HOSTILE">
+			<Text>I'm sorry for what I'm about to do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_DECLAREWAR_1">
+			<Text>I'm sorry. I must have accidentlly clicked declear war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_TRADE_NEEDMORE_ANGRY">
+			<Text>This is not a good deal. Sorry.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_TRADE_NEEDMORE_HAPPY">
+			<Text>Good to see you. Can I have just a little bit more please.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_WR_WILL_TRADE_NEEDMORE_NEUTRAL">
+			<Text>Can I have just a little bit more.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

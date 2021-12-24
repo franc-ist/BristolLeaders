@@ -6,7 +6,7 @@
       <Description>Cat Annoyance Training</Description>
       <Civilopedia>TXT_KEY_CIV5_BUILDINGS_CEILIDH_HALL_TEXT</Civilopedia>
       <Strategy>Build this to help your conquest</Strategy>
-		<Help>This adds 10% military production boost and gives 30 xp instead of 15 xp to units.Has no maintance but requires extra prodiction</Help>
+		<Help>This adds 10% military production boost and gives 35 xp instead of 15 xp to units.Has no maintance but requires extra prodiction</Help>
 		<BuildingClass>BUILDINGCLASS_BARRACKS</BuildingClass>
 		<Cost>90</Cost>
 		<GoldMaintenance>1</GoldMaintenance>

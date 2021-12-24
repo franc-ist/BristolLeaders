@@ -118,7 +118,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_SK_FRANCIS_TRAIT">
-      <Text>Gets 1 more world congress vote from Chaos Rooms and gets 30% gold bonus across empire.Also starts with a free spy and free Watcher</Text>
+      <Text>Gets 2 more world congress vote from Chaos Rooms and 2% food and production. Also 1% science,gold and culture.Gets 30% gold bonus across empire.Also starts with a free spy and free Watcher</Text>
     </Row>
     <Row Tag="TXT_KEY_SK_FRANCIS_TRAIT_SHORT">
       <Text>Skilled Diplomat</Text>

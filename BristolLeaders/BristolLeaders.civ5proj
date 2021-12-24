@@ -5,26 +5,31 @@
     <ProjectGuid>{d7995a0d-e469-4d69-b606-44accd655e77}</ProjectGuid>
     <Name>Bristol Leaders</Name>
     <Guid>8658c295-99ad-41b4-9c98-d9ec6259216b</Guid>
-    <ModVersion>15</ModVersion>
-    <Stability>Beta</Stability>
-    <Teaser>Adds 8 civilizations based off our friend group in Bristol. Removes all others.</Teaser>
-    <Description>Adds 8 civilizations based off our friend group in Bristol. 
+    <ModVersion>21</ModVersion>
+    <Stability>Stable</Stability>
+    <Teaser>Adds 10 civilizations based off our friend group in Bristol. Removes all others.</Teaser>
+    <Description>Adds 10 civilizations based off our friend group in Bristol. 
+Each civ has one or two music tracks - 1 for peace and 1 for war.
+Each civ also has custom diplomacy responses that sometimes don't work.
+Balance is intresting. Against AI it's easy to win even on deity (apart from if Charlie attacks :( ). With human players all bets are off.
 
-Some known bugs - Some Pictures don't work. Some of art is weird. Stefan starts with a extra warrior as well please delete. Ai plays werid.
+Some known bugs - Some Pictures don't work. Some of art is weird. Ai plays werid. Francis chaos room is meant to be limited to 7 per player.
 
 Francis is meant to be geared to diplomatic victory.
 Stefan is meant to be geared towards science.
 Sam is meant to be geared towards any.
 Dan is geared towards domination and naval.
-Caleb is Geared towards Culture.
-Dave is a good happy boy.
+Caleb is geared towards Culture.
+Dave is a good happy boy and is geared towards any.
 Charlie is a mean boy and is geared towards domination.
-Robot is geared towards any.</Description>
+Robot is geared towards any.
+Will is geared towards any/diplomatic.
+Ollie is geared towards any.</Description>
     <Authors>Francis Taylor, Stefan Keeley</Authors>
     <SpecialThanks>
     </SpecialThanks>
     <AffectsSavedGames>true</AffectsSavedGames>
-    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <MinCompatibleSaveVersion>21</MinCompatibleSaveVersion>
     <SupportsSinglePlayer>true</SupportsSinglePlayer>
     <SupportsMultiplayer>true</SupportsMultiplayer>
     <SupportsHotSeat>true</SupportsHotSeat>
@@ -54,7 +59,22 @@ Robot is geared towards any.</Description>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
+        <FileName>XML/Promotions.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
         <FileName>SKExtraBuildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/NewTechs.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Will/WillSound.xml</FileName>
       </Action>
       <Action>
         <Set>OnModActivated</Set>
@@ -331,8 +351,99 @@ Robot is geared towards any.</Description>
         <Type>UpdateDatabase</Type>
         <FileName>QuickModEditor.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Will/WillBuildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Will/WillCivilization.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Will/WillDiplomacyResponses.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Will/WillLeader.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Will/WillScene.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Will/WillTrait.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Will/WillUnits.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Will/WillLeader.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Ollie/OllieBuildings.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Ollie/OllieCivilization.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Ollie/OllieDiplomacyResponses.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Ollie/OllieScene.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Ollie/OllieTrait.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Ollie/OllieUnits.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Ollie/OllieLeader.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Caleb/CalebDiplomacyResponses.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Dan/DanDiplomacyResponses.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/RemoveVenice.xml</FileName>
+      </Action>
     </ModActions>
     <ModProperties />
+    <ReloadAudioSystem>true</ReloadAudioSystem>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -347,6 +458,7 @@ Robot is geared towards any.</Description>
   </PropertyGroup>
   <ItemGroup>
     <Folder Include="Art" />
+    <Folder Include="Music" />
     <Folder Include="XML" />
     <Folder Include="XML\Caleb" />
     <Folder Include="XML\Francis" />
@@ -354,6 +466,8 @@ Robot is geared towards any.</Description>
     <Folder Include="XML\Dan" />
     <Folder Include="XML\Charlly" />
     <Folder Include="XML\GameInfo\" />
+    <Folder Include="XML\Ollie" />
+    <Folder Include="XML\Will" />
     <Folder Include="XML\Robot" />
     <Folder Include="XML\Samuel" />
     <Folder Include="XML\Stefan" />
@@ -380,6 +494,58 @@ Robot is geared towards any.</Description>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="Art\CivSymbolsColorLegends80.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_AI.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_CALEB.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_CHARLY_PEACE.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_CHARLY_WAR.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_DAN.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_DAVE.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_FRANCIS.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_OLLIE.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_SAM_PEACE.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_SAM_WAR.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_STEFAN_PEACE.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_STEFAN_WAR.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_WILL.mp3">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
@@ -423,6 +589,10 @@ Robot is geared towards any.</Description>
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
+    <Content Include="XML\Caleb\CalebDiplomacyResponses.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
     <Content Include="XML\Charlly\charlie-mapimage.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
@@ -456,6 +626,10 @@ Robot is geared towards any.</Description>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="XML\Charlly\CharlieUnits.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Dan\DanDiplomacyResponses.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
@@ -571,6 +745,54 @@ Robot is geared towards any.</Description>
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
+    <Content Include="XML\NewTechs.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Ollie\ollie-mapimage.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Ollie\OllieBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Ollie\OllieCivilization.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Ollie\OllieDiplomacyResponses.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Ollie\OllieLeader.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Ollie\OllieScene.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Ollie\OllieScene.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Ollie\OllieTrait.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Ollie\OllieUnits.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Promotions.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\RemoveVenice.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
     <Content Include="XML\Robot\robot-mapimage.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
@@ -676,6 +898,46 @@ Robot is geared towards any.</Description>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="XML\Stefan\StefanUnits.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Will\WillBuildings.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Will\WillCivilization.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Will\WillDiplomacyResponses.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Will\WillLeader.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Will\WillScene.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Will\WillTrait.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Will\WillUnits.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Will\will-mapimage.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Will\WillScene.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Will\WillSound.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/8/2021 9:01:29 AM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_WILL_FOREIGN_LANDS</Type>
+			<Description>-20 percent strength in foreign lands</Description>
+			<Help>-20 percent strength in foreign lands</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<OutsideFriendlyLandsModifier>-20</OutsideFriendlyLandsModifier>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>-20% strength in foreign lands</PediaEntry>
+		</Row>
+	</UnitPromotions>
+
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_OLLIE_SPEED</Type>
+			<Description>Good Reflexes. Plus 2 speed</Description>
+			<Help>Plus 3 speed</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<MovesChange>2</MovesChange>
+			<CannotBeChosen>true</CannotBeChosen>
+			<OutsideFriendlyLandsModifier>-20</OutsideFriendlyLandsModifier>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>Plus 1 speed to all combat units</PediaEntry>
+		</Row>
+	</UnitPromotions>
+
+	<UnitPromotions_UnitCombats>
+	<Row>
+		<PromotionType>PROMOTION_WILL_FOREIGN_LANDS</PromotionType>
+		<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+	</Row>
+	<Row>
+		<PromotionType>PROMOTION_WILL_FOREIGN_LANDS</PromotionType>
+		<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+	</Row>
+	<Row>
+		<PromotionType>PROMOTION_WILL_FOREIGN_LANDS</PromotionType>
+		<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+	</Row>
+	<Row>
+		<PromotionType>PROMOTION_WILL_FOREIGN_LANDS</PromotionType>
+		<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+	</Row>
+	<Row>
+		<PromotionType>PROMOTION_WILL_FOREIGN_LANDS</PromotionType>
+		<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+	</Row>
+	<Row>
+		<PromotionType>PROMOTION_WILL_FOREIGN_LANDS</PromotionType>
+		<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+	</Row>
+	<Row>
+		<PromotionType>PROMOTION_WILL_FOREIGN_LANDS</PromotionType>
+		<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+	</Row>
+	<Row>
+		<PromotionType>PROMOTION_WILL_FOREIGN_LANDS</PromotionType>
+		<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+	</Row>
+	<Row>
+		<PromotionType>PROMOTION_WILL_FOREIGN_LANDS</PromotionType>
+		<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
+	</Row>
+		<Row>
+			<PromotionType>PROMOTION_OLLIE_SPEED</PromotionType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_OLLIE_SPEED</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_OLLIE_SPEED</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_OLLIE_SPEED</PromotionType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_OLLIE_SPEED</PromotionType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_OLLIE_SPEED</PromotionType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_OLLIE_SPEED</PromotionType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_OLLIE_SPEED</PromotionType>
+			<UnitCombatType>UNITCOMBAT_HELICOPTER</UnitCombatType>
+		</Row>
+		<Row>
+			<PromotionType>PROMOTION_OLLIE_SPEED</PromotionType>
+			<UnitCombatType>UNITCOMBAT_NAVAL</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+</GameData>

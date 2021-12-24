@@ -1,3 +1,132 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_ATTACKED_HOSTILE</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_TRADE_NEEDMORE_ANGRY</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_TRADE_NEEDMORE_NEUTRAL</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_FRANCIS">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_FRANCIS_TRADE_NEEDMORE_HAPPY</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_FIRSTGREETING_1">
+			<Text>Hello would you like to join chaos?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_FIRSTGREETING_2">
+			<Text>Hello would you like to join chaos?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_FIRSTGREETING_3">
+			<Text>Hello would you like to join chaos?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_DEFEATED_1">
+			<Text>No how. I was the world congress. Your society will surly stop functioning!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_GREETING_POLITE_HELLO_1">
+			<Text>Hello. What is your opinion on this proposal?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hello. May I ask your opinion on this proposal?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_GREETING_HOSTILE_HELLO_1">
+			<Text>Hello. I do not like your proposals.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>There is no need for your military to be so close. Or must I embargo you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_EXPANSION_SERIOUS_WARNING_1">
+			<Text>There is no need for your people to be so close. Or must I embargo you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_REQUEST">
+			<Text>Please the next world congress meeting is too far for me to get aid.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_LUXURY_TRADE">
+			<Text>This will do nicely and I promise not to ban the luxury.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_OPEN_BORDERS_EXCHANGE">
+			<Text>Our people should mix more. This will let me find more people to vote for me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_ATTACKED_BETRAYED">
+			<Text>How could you do this! Prepare to be embargoed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_ATTACKED_EXCITED">
+			<Text>You have made your mistake!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_ATTACKED_HOSTILE">
+			<Text>Very well. Prepare to be embargoed</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_DECLAREWAR_1">
+			<Text>I'm sorry but I can't have you having so many votes. I think you will find that I am the world congress.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_TRADE_NEEDMORE_ANGRY">
+			<Text>No I need more. Vote for me too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_TRADE_NEEDMORE_HAPPY">
+			<Text>Just a bit more then the world congress will help you too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_FRANCIS_TRADE_NEEDMORE_NEUTRAL">
+			<Text>Just a bit more</Text>
+		</Row>
+	</Language_en_US>
 </GameData>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Buildings>
+	  <Row>
+		  <Type>BUILDING_WR_WILL</Type>
+		  <BuildingClass>BUILDINGCLASS_MARKET</BuildingClass>
+		  <FreeStartEra>ERA_INDUSTRIAL</FreeStartEra>
+		  <Cost>125</Cost>
+		  <PrereqTech>TECH_CURRENCY</PrereqTech>
+		  <Help>Provides 2 culture, 2 gold and +50% gold</Help>
+		  <Description>Forbidden Planet</Description>
+		  <Civilopedia>Provides 2 culture, 2 gold and +50% gold</Civilopedia>
+		  <Strategy>Use to overcome debufs.</Strategy>
+		  <ArtDefineTag>ART_DEF_BUILDING_MARKET</ArtDefineTag>
+		  <SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
+		  <SpecialistCount>1</SpecialistCount>
+		  <MinAreaSize>-1</MinAreaSize>
+		  <ConquestProb>5</ConquestProb>
+		  <TradeRouteRecipientBonus>1</TradeRouteRecipientBonus>
+		  <TradeRouteTargetBonus>1</TradeRouteTargetBonus>
+		  <HurryCostModifier>25</HurryCostModifier>
+		  <IconAtlas>BW_ATLAS_1</IconAtlas>
+		  <PortraitIndex>16</PortraitIndex>
+	  </Row>
+  </Buildings>
+	<Building_YieldChanges>
+	<Row>
+		<BuildingType>BUILDING_WR_WILL</BuildingType>
+		<YieldType>YIELD_CULTURE</YieldType>
+		<Yield>2</Yield>
+	</Row>
+	<Row>
+		<BuildingType>BUILDING_WR_WILL</BuildingType>
+		<YieldType>YIELD_GOLD</YieldType>
+		<Yield>2</Yield>
+	</Row>
+	</Building_YieldChanges>
+	<Building_YieldModifiers>
+		<Row>
+			<BuildingType>BUILDING_WR_WILL</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>50</Yield>
+		</Row>
+		</Building_YieldModifiers>
+
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_MARKET</BuildingType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MARKET</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+	</Building_Flavors>
+  <!-- Building_AreaYieldModifiers -->
+  <!-- Building_BuildingClassHappiness -->
+  <!-- Building_BuildingClassYieldChanges -->
+	<!-- Building_ClassesNeededInCity-->
+	<!--Building_ClassesNeededInCity-->
+  <!-- Building_FreeUnits -->
+  <!-- Building_DomainFreeExperiences -->
+  <!-- Building_DomainFreeExperiencePerGreatWork -->
+  <!-- Building_DomainProductionModifiers -->
+  <!-- Building_FreeSpecialistCounts -->
+  <!-- Building_GlobalYieldModifiers -->
+  <!-- Building_HurryModifiers -->
+  <!-- Building_LocalResourceAnds -->
+  <!-- Building_LocalResourceOrs -->
+  <!-- Building_LockedBuildingClasses -->
+  <!-- Building_PrereqBuildingClasses -->
+  <!-- Building_ResourceQuantity -->
+  <!-- Building_ResourceQuantityRequirements -->
+  <!-- Building_ResourceYieldModifiers -->
+  <!-- Building_ResourceCultureChanges -->
+  <!-- Building_ResourceFaithChanges -->
+  <!-- Building_RiverPlotYieldChanges -->
+  <!-- Building_SeaPlotYieldChanges -->
+  <!-- Building_LakePlotYieldChanges -->
+  <!-- Building_SeaResourceYieldChanges -->
+  <!-- Building_ResourceYieldChanges -->
+  <!-- Building_FeatureYieldChanges -->
+  <!-- Building_TerrainYieldChanges -->
+  <!-- Building_SpecialistYieldChanges -->
+  <!-- Building_UnitCombatFreeExperiences -->
+  <!-- Building_UnitCombatProductionModifiers -->
+  <!-- Building_TechAndPrereqs -->
+  <!-- Building_YieldChangesPerPop -->
+  <!-- Building_YieldChangesPerReligion -->
+  <!-- Building_TechEnhancedYieldChanges -->
+  <!-- Building_YieldModifiers -->
+  <!-- Building_ThemingBonuses -->
+</GameData>

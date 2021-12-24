@@ -4,36 +4,31 @@
 	  -<Row>
 		  <Class>UNITCLASS_SCOUT</Class>
 		  <Type>UNIT_WR_WILL</Type>
-		  <Combat>11</Combat>
-		  <Cost>20</Cost>
+		  <Combat>7</Combat>
+		  <Cost>40</Cost>
 		  <Moves>2</Moves>
 		  <CombatClass>UNITCOMBAT_MELEE</CombatClass>
 		  <Domain>DOMAIN_LAND</Domain>
 		  <DefaultUnitAI>UNITAI_EXPLORE</DefaultUnitAI>
-		  <Description>Tony</Description>
+		  <Description>Wills freind</Description>
 		  <Civilopedia>Hi</Civilopedia>
-		  <Strategy>Is quite fast with 3 movement and 2 sight also ignores terrain.Also a timetravalling car.</Strategy>
-		  <Help>Is quite fast with 3 movement and 2 sight also ignores terrain.Also a timetravalling car.</Help>
+		  <Strategy>Fairly normal scout unit but gains far more experience then usual</Strategy>
+		  <Help></Help>
+		  <HurryCostModifier>20</HurryCostModifier>
 		  <MilitarySupport>true</MilitarySupport>
 		  <MilitaryProduction>true</MilitaryProduction>
 		  <Pillage>true</Pillage>
 		  <IgnoreBuildingDefense>true</IgnoreBuildingDefense>
 		  <AdvancedStartCost>60</AdvancedStartCost>
-		  <XPValueAttack>3</XPValueAttack>
-		  <XPValueDefense>3</XPValueDefense>
+		  <XPValueAttack>10</XPValueAttack>
+		  <XPValueDefense>10</XPValueDefense>
 		  <UnitArtInfo>ART_DEF_UNIT_SCOUT</UnitArtInfo>
 		  <UnitFlagIconOffset>75</UnitFlagIconOffset>
-		  <IconAtlas>UNIT_ATLAS_2</IconAtlas>
-		  <PortraitIndex>28</PortraitIndex>
-		  <MoveRate>WHEELED</MoveRate>
+		  <IconAtlas>EXPANSION_UNIT_ATLAS_1</IconAtlas>
+		  <PortraitIndex>10</PortraitIndex>
+		  <MoveRate>BIPED</MoveRate>
 	  </Row>
   </Units>
-	<Unit_FreePromotions>
-	<Row>
-		<UnitType>UNIT_WR_WILL</UnitType>
-		<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
-	</Row>
-	</Unit_FreePromotions>
   <Unit_AITypes>
     <Row>
       <UnitType>UNIT_WR_WILL</UnitType>
@@ -88,7 +83,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_UNIT_WR_WILL">
-      <Text>Tony</Text>
+      <Text>Wills freind</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_WR_WILL_PICTISH_WARRIOR_TEXT">
       <Text><!-- Add Civilopedia text here --></Text>

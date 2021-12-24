@@ -9,17 +9,17 @@
       <ArtDefineTag>DanScene.xml</ArtDefineTag>
       <VictoryCompetitiveness>6</VictoryCompetitiveness>
       <WonderCompetitiveness>4</WonderCompetitiveness>
-      <MinorCivCompetitiveness>5</MinorCivCompetitiveness>
-      <Boldness>6</Boldness>
+      <MinorCivCompetitiveness>6</MinorCivCompetitiveness>
+      <Boldness>8</Boldness>
       <DiploBalance>4</DiploBalance>
-      <WarmongerHate>4</WarmongerHate>
-      <WorkAgainstWillingness>0</WorkAgainstWillingness>
-      <WorkWithWillingness>0</WorkWithWillingness>
+      <WarmongerHate>7</WarmongerHate>
+      <WorkAgainstWillingness>7</WorkAgainstWillingness>
+      <WorkWithWillingness>5</WorkWithWillingness>
       <DenounceWillingness>6</DenounceWillingness>
       <DoFWillingness>4</DoFWillingness>
-      <Loyalty>6</Loyalty>
-      <Neediness>5</Neediness>
-      <Forgiveness>3</Forgiveness>
+      <Loyalty>5</Loyalty>
+      <Neediness>2</Neediness>
+      <Forgiveness>5</Forgiveness>
       <Chattiness>5</Chattiness>
       <Meanness>7</Meanness>
       <PortraitIndex>10</PortraitIndex>
@@ -31,12 +31,12 @@
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
-      <Bias>6</Bias>
+      <Bias>7</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
-      <Bias>5</Bias>
+      <Bias>6</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
@@ -95,7 +95,7 @@
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
       <FlavorType>FLAVOR_OFFENSE</FlavorType>
-      <Flavor>7</Flavor>
+      <Flavor>8</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
@@ -105,12 +105,12 @@
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
       <FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
-      <Flavor>6</Flavor>
+      <Flavor>5</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
       <FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
-      <Flavor>6</Flavor>
+      <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
@@ -170,7 +170,7 @@
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
       <FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
-      <Flavor>3</Flavor>
+      <Flavor>4</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
@@ -225,22 +225,22 @@
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
       <FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
       <FlavorType>FLAVOR_NUKE</FlavorType>
-      <Flavor>4</Flavor>
+      <Flavor>9</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
       <FlavorType>FLAVOR_USE_NUKE</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>9</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
       <FlavorType>FLAVOR_ESPIONAGE</FlavorType>
-      <Flavor>4</Flavor>
+      <Flavor>6</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
@@ -260,12 +260,12 @@
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
       <FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>10</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>
       <FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
-      <Flavor>5</Flavor>
+      <Flavor>10</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_SK_DAN</LeaderType>

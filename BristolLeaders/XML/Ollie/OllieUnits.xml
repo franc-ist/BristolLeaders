@@ -4,16 +4,16 @@
 	  -<Row>
 		  <Class>UNITCLASS_SCOUT</Class>
 		  <Type>UNIT_OT_OLLIE</Type>
-		  <Combat>11</Combat>
-		  <Cost>20</Cost>
-		  <Moves>2</Moves>
+		  <Combat>5</Combat>
+		  <Cost>300</Cost>
+		  <Moves>1</Moves>
 		  <CombatClass>UNITCOMBAT_MELEE</CombatClass>
 		  <Domain>DOMAIN_LAND</Domain>
 		  <DefaultUnitAI>UNITAI_EXPLORE</DefaultUnitAI>
-		  <Description>Tony</Description>
+		  <Description>Rohan</Description>
 		  <Civilopedia>Hi</Civilopedia>
-		  <Strategy>Is quite fast with 3 movement and 2 sight also ignores terrain.Also a timetravalling car.</Strategy>
-		  <Help>Is quite fast with 3 movement and 2 sight also ignores terrain.Also a timetravalling car.</Help>
+		  <Strategy>Is quite slow. Can also found cities.</Strategy>
+		  <Help>Is quite slow but gets +2 movement speed. Can also found cities.</Help>
 		  <MilitarySupport>true</MilitarySupport>
 		  <MilitaryProduction>true</MilitaryProduction>
 		  <Pillage>true</Pillage>
@@ -26,14 +26,9 @@
 		  <IconAtlas>UNIT_ATLAS_2</IconAtlas>
 		  <PortraitIndex>28</PortraitIndex>
 		  <MoveRate>WHEELED</MoveRate>
+		  <Found>true</Found>
 	  </Row>
   </Units>
-	<Unit_FreePromotions>
-	<Row>
-		<UnitType>UNIT_OT_OLLIE</UnitType>
-		<PromotionType>PROMOTION_IGNORE_TERRAIN_COST</PromotionType>
-	</Row>
-	</Unit_FreePromotions>
   <Unit_AITypes>
     <Row>
       <UnitType>UNIT_OT_OLLIE</UnitType>
@@ -47,6 +42,10 @@
       <UnitType>UNIT_OT_OLLIE</UnitType>
       <UnitAIType>UNITAI_EXPLORE</UnitAIType>
     </Row>
+	  <Row>
+		  <UnitType>UNIT_OT_OLLIE</UnitType>
+		  <UnitAIType>UNITAI_SETTLE</UnitAIType>
+	  </Row>
   </Unit_AITypes>
   <!-- Unit_Buildings -->
   <!-- Unit_BuildingClassRequireds -->
@@ -64,6 +63,11 @@
       <FlavorType>FLAVOR_OFFENSE</FlavorType>
       <Flavor>2</Flavor>
     </Row>
+	  <Row>
+		  <UnitType>UNIT_OT_OLLIE</UnitType>
+		  <FlavorType>FLAVOR_SETTLE</FlavorType>
+		  <Flavor>3</Flavor>
+	  </Row>
     <Row>
       <UnitType>UNIT_OT_OLLIE</UnitType>
       <FlavorType>FLAVOR_DEFENSE</FlavorType>

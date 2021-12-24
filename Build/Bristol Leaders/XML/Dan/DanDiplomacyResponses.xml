@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_ATTACKED_HOSTILE</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_TRADE_NEEDMORE_ANGRY</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_TRADE_NEEDMORE_NEUTRAL</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAN">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAN_TRADE_NEEDMORE_HAPPY</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_FIRSTGREETING_1">
+			<Text>Hello. Fancy a swim?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_FIRSTGREETING_2">
+			<Text>Hello. Fancy a swim?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_FIRSTGREETING_3">
+			<Text>Hello. Fancy a swim?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_DEFEATED_1">
+			<Text>How could this be? You may have defeated me but a tsunami will come and wash over you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_GREETING_POLITE_HELLO_1">
+			<Text>How are you doing? Would you like to see my new boat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_GREETING_NEUTRAL_HELLO_1">
+			<Text>How are you doing? I have a new boat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_GREETING_HOSTILE_HELLO_1">
+			<Text>How are you doing? Why do you have so few boats?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You have too many land units near me. Get away.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You are claiming to much water. Stop it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_REQUEST">
+			<Text>Please I need a another boat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_LUXURY_TRADE">
+			<Text>I will send my best trade boat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_OPEN_BORDERS_EXCHANGE">
+			<Text>I would like to go for a swim in new waters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_ATTACKED_BETRAYED">
+			<Text>How could you! Prepare to be drowned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_ATTACKED_EXCITED">
+			<Text>Ah good. Time for my amarda to set sail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_ATTACKED_HOSTILE">
+			<Text>Why would you do this! Oh right you are just land scum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_DECLAREWAR_1">
+			<Text>Prepare to receive the wrath of my boats.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_TRADE_NEEDMORE_ANGRY">
+			<Text>I can't make boats with this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_TRADE_NEEDMORE_HAPPY">
+			<Text>I'll go sailing with you if you just give me a little more.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAN_TRADE_NEEDMORE_NEUTRAL">
+			<Text>Hmm. Let me have a bit more and you can see my boat.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

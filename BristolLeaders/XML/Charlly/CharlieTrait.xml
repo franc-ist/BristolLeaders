@@ -118,7 +118,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_SK_CAT_TRAIT">
-      <Text>Gets 100% bonus military production. note this should only be played by AI.</Text>
+      <Text>Gets 100% bonus military production. note this should generally only be played by AI.</Text>
     </Row>
     <Row Tag="TXT_KEY_SK_CAT_TRAIT_SHORT">
       <Text>Cats Vengance</Text>

@@ -1,3 +1,347 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_FIRSTGREETING%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_DEFEATED%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_POLITE_HELLO%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_NEUTRAL_HELLO%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_HOSTILE_HELLO%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_EXPANSION_SERIOUS_WARNING%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_RESPONSE_REQUEST%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_RESPONSE_LUXURY_TRADE%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_OPEN_BORDERS_EXCHANGE%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_ATTACKED_BETRAYED</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_ATTACKED_EXCITED</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_ATTACKED_HOSTILE</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_DECLAREWAR%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRADE_NEEDMORE_ANGRY</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRADE_NEEDMORE_NEUTRAL</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRADE_NEEDMORE_HAPPY</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_AGREE_SHORT</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_AGREE_SHORT%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_ATTACKED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_ATTACKED%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_DECLAREWAR%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_DEMANDTRIBUTE_ANGRY%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_DEMANDTRIBUTE_HAPPY%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_DISAGREE_SHORT</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_DISAGREE_SHORT%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_DEMANDTRIBUTE_NEUTRAL%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_GOODBYE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_GOODBYE%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_LETSHEARIT</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_LETSHEARIT%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_LOSEWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_LOSEWAR%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_WINWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_WINWAR%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRADE_NO_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRADE_NO_ANGRY%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRADE_NO_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRADE_NO_HAPPY%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRADE_NO_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRADE_NO_NEUTRAL%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRADE_YES_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRADE_YES_ANGRY%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRADE_YES_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRADE_YES_HAPPY%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRADE_YES_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRADE_YES_NEUTRAL%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRADEREQUEST_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRADEREQUEST_ANGRY%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRADEREQUEST_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRADEREQUEST_HAPPY%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRADEREQUEST_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRADEREQUEST_NEUTRAL%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRIBUTE_NO_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRIBUTE_NO_ANGRY%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRIBUTE_NO_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRIBUTE_NO_HAPPY%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRIBUTE_NO_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_TRIBUTE_NO_NEUTRAL%</Response>
+			<Bias>100</Bias>
+		</Row>
+		<Row LeaderType="LEADER_SK_DAVE">
+			<ResponseType>RESPONSE_TRIBUTE_WARBLUFF</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_DAVE_WARBLUFF%</Response>
+			<Bias>100</Bias>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_FIRSTGREETING_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_FIRSTGREETING_2">
+			<Text>Woof Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_FIRSTGREETING_3">
+			<Text>Woof Woof Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_DEFEATED_1">
+			<Text>Woof. *Sleeps...*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_GREETING_POLITE_HELLO_1">
+			<Text>Woof. *Licks*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_GREETING_NEUTRAL_HELLO_1">
+			<Text>Woof *Looks*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_GREETING_HOSTILE_HELLO_1">
+			<Text>Woof *Snarls*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Woof *Snarls* Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Woof *Looks* Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_REQUEST">
+			<Text>Woof *Shows belly*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_LUXURY_TRADE">
+			<Text>Woof *Pants*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_OPEN_BORDERS_EXCHANGE">
+			<Text>Woof Woof Woof *Looks*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_ATTACKED_BETRAYED">
+			<Text>Woof *Snarls* *Bites*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_ATTACKED_EXCITED">
+			<Text>Woof *Snarls* *Barks*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_ATTACKED_HOSTILE">
+			<Text>Woof *Bites*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_DECLAREWAR_1">
+			<Text>Woof *Snarls* *Bites* *Snarls*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRADE_NEEDMORE_ANGRY">
+			<Text>Woof *Barks*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRADE_NEEDMORE_HAPPY">
+			<Text>Woof *Shows belly* *Licks*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRADE_NEEDMORE_NEUTRAL">
+			<Text>Woof *Licks*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_AGREE_SHORT_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_ATTACKED_1">
+			<Text>Woof *HISS*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_DEMANDTRIBUTE_ANGRY_1">
+			<Text>Woof Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_DEMANDTRIBUTE_HAPPY_1">
+			<Text>Woof Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_DEMANDTRIBUTE_NEUTRAL_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_DISAGREE_SHORT_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_GOODBYE_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_LETSHEARIT_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_LOSEWAR_1">
+			<Text>Woof *Begs*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRADE_NO_ANGRY_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRADE_NO_HAPPY_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRADE_NO_NEUTRAL_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRADE_YES_ANGRY_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRADE_YES_HAPPY_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRADE_YES_NEUTRAL_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRADEREQUEST_ANGRY_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRADEREQUEST_HAPPY_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRADEREQUEST_NEUTRAL_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRIBUTE_NO_ANGRY_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRIBUTE_NO_HAPPY_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRIBUTE_NO_NEUTRAL_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRIBUTE_YES_ANGRY_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRIBUTE_YES_HAPPY_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_TRIBUTE_YES_NEUTRAL_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_WARBLUFF_1">
+			<Text>Woof</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_DAVE_WINWAR_1">
+			<Text>Woof *Howls*</Text>
+		</Row>
+	</Language_en_US>
 </GameData>

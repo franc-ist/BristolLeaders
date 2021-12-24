@@ -168,10 +168,6 @@
 		</Update>
 		<Update>
 			<Set AIPlayable="0" Playable="0" />
-			<Where Type="CIVILIZATION_VENICE" />
-		</Update>
-		<Update>
-			<Set AIPlayable="0" Playable="0" />
 			<Where Type="CIVILIZATION_ZULU" />
 		</Update>
 	</Civilizations>

@@ -19,11 +19,59 @@
 			<NeverCapture>true</NeverCapture>
 			<HurryCostModifier>-1</HurryCostModifier>
 			<UnhappinessModifier>-100</UnhappinessModifier>
-			<UnmoddedHappiness>30</UnmoddedHappiness>
+			<UnmoddedHappiness>40</UnmoddedHappiness>
 			<CityCountUnhappinessMod>-100</CityCountUnhappinessMod>
 			<NukeImmune>true</NukeImmune>
 			<IconAtlas>BW_ATLAS_1</IconAtlas>
 			<PortraitIndex>5</PortraitIndex>
+		</Row>
+		<Row>
+			<Type>OLLIEDUMMY</Type>
+			<MilitaryProductionModifier>5</MilitaryProductionModifier>
+			<BuildingClass>OLLIEBUILDINGS</BuildingClass>
+			<Cost>100000</Cost>
+			<Defense>4</Defense>
+			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
+			<Help>10% science but -1 happiness per city</Help>
+			<Description>Dummy</Description>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<AllowsRangeStrike>true</AllowsRangeStrike>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<CityCountUnhappinessMod>1</CityCountUnhappinessMod>
+			<EspionageModifier>-10</EspionageModifier>
+			<Espionage>true</Espionage>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+			<FreePromotion>PROMOTION_OLLIE_SPEED</FreePromotion>
+		</Row>
+		<Row>
+			<Type>WILLDUMMY</Type>
+			<MilitaryProductionModifier>5</MilitaryProductionModifier>
+			<BuildingClass>WILLBUILDINGS</BuildingClass>
+			<Cost>100000</Cost>
+			<Defense>3</Defense>
+			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
+			<Help>Free social policy, tech and trade route. 4 extra league votes. Minus 25% culture and 50% faith</Help>
+			<Description>Dummy</Description>
+			<ArtDefineTag>NONE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<AllowsRangeStrike>true</AllowsRangeStrike>
+			<NeverCapture>true</NeverCapture>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<EspionageModifier>-10</EspionageModifier>
+			<Espionage>true</Espionage>
+			<NukeImmune>true</NukeImmune>
+			<GlobalDefenseMod>25</GlobalDefenseMod>
+			<IconAtlas>BW_ATLAS_1</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+			<FreePolicies>1</FreePolicies>
+			<FreeTechs>1</FreeTechs>
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<ExtraLeagueVotes>4</ExtraLeagueVotes>
+			<FreePromotion>PROMOTION_WILL_FOREIGN_LANDS</FreePromotion>
 		</Row>
 		<Row>
 			<Type>FRANCISDUMMY</Type>
@@ -141,7 +189,7 @@
 			<Description>Dummy</Description>
 			<ArtDefineTag>NONE</ArtDefineTag>
 			<MinAreaSize>-1</MinAreaSize>
-			<GlobalGreatPeopleRateModifier>40</GlobalGreatPeopleRateModifier>
+			<GlobalGreatPeopleRateModifier>100</GlobalGreatPeopleRateModifier>
 			<AllowsRangeStrike>true</AllowsRangeStrike>
 			<NeverCapture>true</NeverCapture>
 			<HurryCostModifier>-1</HurryCostModifier>
@@ -182,6 +230,18 @@
 			<Row>
 				<Type>STEFANBUILDINGS</Type>
 				<DefaultBuilding>STEFANDUMMY</DefaultBuilding>
+				<Description>yes</Description>
+				<MaxGlobalInstances>1</MaxGlobalInstances>
+			</Row>
+			<Row>
+				<Type>WILLBUILDINGS</Type>
+				<DefaultBuilding>WILLDUMMY</DefaultBuilding>
+				<Description>yes</Description>
+				<MaxGlobalInstances>1</MaxGlobalInstances>
+			</Row>
+			<Row>
+				<Type>OLLIEBUILDINGS</Type>
+				<DefaultBuilding>OLLIEDUMMY</DefaultBuilding>
 				<Description>yes</Description>
 				<MaxGlobalInstances>1</MaxGlobalInstances>
 			</Row>
@@ -231,12 +291,12 @@
 			<Row>
 				<BuildingType>DAVEHAPPINESSDUMMY</BuildingType>
 				<YieldType>YIELD_FOOD</YieldType>
-				<Yield>-15</Yield>
+				<Yield>-14</Yield>
 			</Row>
 			<Row>
 				<BuildingType>DAVEHAPPINESSDUMMY</BuildingType>
 				<YieldType>YIELD_GOLD</YieldType>
-				<Yield>-5</Yield>
+				<Yield>-6</Yield>
 			</Row>
 			<Row>
 				<BuildingType>DAVEHAPPINESSDUMMY</BuildingType>
@@ -246,12 +306,12 @@
 			<Row>
 				<BuildingType>FRANCISDUMMY</BuildingType>
 				<YieldType>YIELD_PRODUCTION</YieldType>
-				<Yield>-6</Yield>
+				<Yield>-5</Yield>
 			</Row>
 			<Row>
 				<BuildingType>FRANCISDUMMY</BuildingType>
 				<YieldType>YIELD_FOOD</YieldType>
-				<Yield>-5</Yield>
+				<Yield>-4</Yield>
 			</Row>
 			<Row>
 				<BuildingType>DAVEHAPPINESSDUMMY</BuildingType>
@@ -261,12 +321,12 @@
 			<Row>
 				<BuildingType>STEFANDUMMY</BuildingType>
 				<YieldType>YIELD_PRODUCTION</YieldType>
-				<Yield>11</Yield>
+				<Yield>15</Yield>
 			</Row>
 			<Row>
 				<BuildingType>STEFANDUMMY</BuildingType>
 				<YieldType>YIELD_FOOD</YieldType>
-				<Yield>1</Yield>
+				<Yield>5</Yield>
 			</Row>
 			<Row>
 				<BuildingType>CATDUMMY</BuildingType>
@@ -281,66 +341,85 @@
 			<Row>
 				<BuildingType>STEFANDUMMY</BuildingType>
 				<YieldType>YIELD_SCIENCE</YieldType>
-				<Yield>1</Yield>
+				<Yield>5</Yield>
 			</Row>
 			<Row>
 				<BuildingType>CALEBDUMMY</BuildingType>
 				<YieldType>YIELD_CULTURE</YieldType>
-				<Yield>5</Yield>
+				<Yield>15</Yield>
 			</Row>
 			<Row>
 				<BuildingType>FRANCISDUMMY</BuildingType>
 				<YieldType>YIELD_GOLD</YieldType>
-				<Yield>25</Yield>
-			</Row>
-			<Row>
-				<BuildingType>SAMUELDUMMY</BuildingType>
-				<YieldType>YIELD_FAITH</YieldType>
-				<Yield>100</Yield>
+				<Yield>20</Yield>
 			</Row>
 		</Building_GlobalYieldModifiers>
 	<Building_YieldModifiers>
 		<Row>
 			<BuildingType>SAMUELDUMMY</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>10</Yield>
+			<Yield>20</Yield>
+		</Row>
+	</Building_YieldModifiers>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>DAVEHAPPINESSDUMMY</BuildingType>
+			<YieldType>YIELD_SCIENCE​</YieldType>
+			<Yield>-1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>WILLDUMMY</BuildingType>
+			<YieldType>YIELD_CULTURE​</YieldType>
+			<Yield>-2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>SAMUELDUMMY</BuildingType>
 			<YieldType>YIELD_FAITH</YieldType>
-			<Yield>100</Yield>
+			<Yield>10</Yield>
 		</Row>
-		</Building_YieldModifiers>
-		<Building_YieldChanges>
-			<Row>
-				<BuildingType>DAVEHAPPINESSDUMMY</BuildingType>
-				<YieldType>YIELD_SCIENCE​</YieldType>
-				<Yield>-1</Yield>
-			</Row>
-			<Row>
-				<BuildingType>SAMUELDUMMY</BuildingType>
-				<YieldType>YIELD_FAITH</YieldType>
-				<Yield>3</Yield>
-			</Row>
-			<Row>
-				<BuildingType>CATDUMMY</BuildingType>
-				<YieldType>YIELD_GOLD</YieldType>
-				<Yield>2</Yield>
-			</Row>
-		
-		</Building_YieldChanges>
-	<Building_YieldChangesPerPop>
+		<Row>
+			<BuildingType>SAMUELDUMMY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>5</Yield>
+		</Row>
 		<Row>
 			<BuildingType>SAMUELDUMMY</BuildingType>
 			<YieldType>YIELD_SCIENCE</YieldType>
 			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<BuildingType>SAMUELDUMMY</BuildingType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<BuildingType>SAMUELDUMMY</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<BuildingType>SAMUELDUMMY</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>5</Yield>
+		</Row>
+		<Row>
+			<BuildingType>CATDUMMY</BuildingType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<Building_YieldChangesPerPop>
+		<Row>
+			<BuildingType>SAMUELDUMMY</BuildingType>
+			<YieldType>YIELD_SCIENCE</YieldType>
+			<Yield>0</Yield>
 		</Row>
 	</Building_YieldChangesPerPop>
 	<Building_DomainFreeExperiences>
 		<Row>
 			<BuildingType>DANDUMMY</BuildingType>
 			<DomainType>DOMAIN_SEA</DomainType>
-			<Experience>50</Experience>
+			<Experience>90</Experience>
 		</Row>
 		<Row>
 			<BuildingType>DANDUMMY</BuildingType>
@@ -370,7 +449,7 @@
 			<BuildingType>ROBOTDUMMY</BuildingType>
 			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>ROBOTDUMMY</BuildingType>
@@ -382,25 +461,25 @@
 			<BuildingType>ROBOTDUMMY</BuildingType>
 			<SpecialistType>SPECIALIST_ENGINEER</SpecialistType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>ROBOTDUMMY</BuildingType>
 			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>ROBOTDUMMY</BuildingType>
 			<SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 		<Row>
 			<BuildingType>ROBOTDUMMY</BuildingType>
 			<SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
 			<YieldType>YIELD_PRODUCTION</YieldType>
-			<Yield>1</Yield>
+			<Yield>2</Yield>
 		</Row>
 	</Building_SpecialistYieldChanges>
 	

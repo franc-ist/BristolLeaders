@@ -1,3 +1,306 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_ATTACKED_HOSTILE</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRADE_NEEDMORE_ANGRY</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRADE_NEEDMORE_NEUTRAL</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRADE_NEEDMORE_HAPPY</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_AGREE_SHORT</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_AGREE_SHORT%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_ATTACKED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_ATTACKED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_DEMANDTRIBUTE_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_DEMANDTRIBUTE_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_DISAGREE_SHORT</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_DISAGREE_SHORT%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_DEMANDTRIBUTE_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_GOODBYE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_GOODBYE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_LETSHEARIT</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_LETSHEARIT%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_LOSEWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_LOSEWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_WINWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_WINWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRADE_NO_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRADE_NO_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRADE_NO_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRADE_NO_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRADE_NO_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRADE_NO_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRADE_YES_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRADE_YES_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRADE_YES_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRADE_YES_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRADE_YES_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRADE_YES_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRADEREQUEST_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRADEREQUEST_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRADEREQUEST_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRADEREQUEST_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRADEREQUEST_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRADEREQUEST_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRIBUTE_NO_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRIBUTE_NO_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRIBUTE_NO_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRIBUTE_NO_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRIBUTE_NO_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_TRIBUTE_NO_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_ROBOT">
+			<ResponseType>RESPONSE_TRIBUTE_WARBLUFF</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_ROBOT_WARBLUFF%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_FIRSTGREETING_1">
+			<Text>00000000</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_FIRSTGREETING_2">
+			<Text>11111111</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_FIRSTGREETING_3">
+			<Text>10101010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_DEFEATED_1">
+			<Text>00000000 00000000 00000000 00000000 00000000 00000000 00 end</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_GREETING_POLITE_HELLO_1">
+			<Text>11111111 11111111 11111111</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_GREETING_NEUTRAL_HELLO_1">
+			<Text>11111111 10101010 00000000</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_GREETING_HOSTILE_HELLO_1">
+			<Text>00000000 00000000 00000000</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>00000000 01111110 00000000</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_EXPANSION_SERIOUS_WARNING_1">
+			<Text>00000000 10000001 00000000</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_REQUEST">
+			<Text>00000000 11111111 11111111</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_LUXURY_TRADE">
+			<Text>11111111 00000000 11111111</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_OPEN_BORDERS_EXCHANGE">
+			<Text>11111111 00011000 11111111</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_ATTACKED_BETRAYED">
+			<Text>10000000 00000000 00000000</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_ATTACKED_EXCITED">
+			<Text>0111111 11111111 11111111</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_ATTACKED_HOSTILE">
+			<Text>01010101 10101010 00000000</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_DECLAREWAR_1">
+			<Text>10101010 01010101 11111111</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRADE_NEEDMORE_ANGRY">
+			<Text>10101010 01010101 00000000</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRADE_NEEDMORE_HAPPY">
+			<Text>11110000 11110000 11111111</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRADE_NEEDMORE_NEUTRAL">
+			<Text>11110000 11110000 11110000</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_AGREE_SHORT_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_ATTACKED_1">
+			<Text>10010010 *HISS*</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_DEMANDTRIBUTE_ANGRY_1">
+			<Text>10010010 10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_DEMANDTRIBUTE_HAPPY_1">
+			<Text>10010010 10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_DEMANDTRIBUTE_NEUTRAL_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_DISAGREE_SHORT_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_GOODBYE_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_LETSHEARIT_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_LOSEWAR_1">
+			<Text>10010010 10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRADE_NO_ANGRY_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRADE_NO_HAPPY_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRADE_NO_NEUTRAL_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRADE_YES_ANGRY_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRADE_YES_HAPPY_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRADE_YES_NEUTRAL_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRADEREQUEST_ANGRY_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRADEREQUEST_HAPPY_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRADEREQUEST_NEUTRAL_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRIBUTE_NO_ANGRY_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRIBUTE_NO_HAPPY_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRIBUTE_NO_NEUTRAL_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRIBUTE_YES_ANGRY_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRIBUTE_YES_HAPPY_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_TRIBUTE_YES_NEUTRAL_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_WARBLUFF_1">
+			<Text>10010010</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_ROBOT_WINWAR_1">
+			<Text>10010010 10010010 10010010 10010010</Text>
+		</Row>
+	</Language_en_US>
 </GameData>

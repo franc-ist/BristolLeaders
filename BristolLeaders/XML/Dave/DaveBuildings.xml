@@ -34,8 +34,13 @@
     <Row>
       <BuildingType>BUILDING_SK_DAVE</BuildingType>
       <FlavorType>FLAVOR_FOOD</FlavorType>
-      <Flavor>10</Flavor>
+      <Flavor>45</Flavor>
     </Row>
+	  <Row>
+		  <BuildingType>BUILDING_SK_DAVE</BuildingType>
+		  <FlavorType>FLAVOR_GROWTH</FlavorType>
+		  <Flavor>45</Flavor>
+	  </Row>
   </Building_Flavors>
   <!-- Building_GlobalYieldModifiers -->
   <!-- Building_HurryModifiers -->
@@ -63,7 +68,7 @@
     <Row>
       <BuildingType>BUILDING_SK_DAVE</BuildingType>
       <YieldType>YIELD_FOOD</YieldType>
-      <Yield>3</Yield>
+      <Yield>4</Yield>
     </Row>
   </Building_YieldChanges>
   <!-- Building_YieldChangesPerPop -->

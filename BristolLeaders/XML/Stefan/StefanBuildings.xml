@@ -4,7 +4,7 @@
 	  <Row>
 		  <Type>BUILDING_SK_STEFAN</Type>
 		  <BuildingClass>BUILDINGCLASS_UNIVERSITY</BuildingClass>
-		  <Cost>130</Cost>
+		  <Cost>120</Cost>
 		  <GoldMaintenance>2</GoldMaintenance>
 		  <PrereqTech>TECH_EDUCATION</PrereqTech>
 		  <Help>This Building generates Science on forests as well as jungles and is slightly cheaper then a normal university.Also provides a bonus 10% science</Help>
@@ -26,7 +26,7 @@
 			<BuildingType>BUILDING_SK_STEFAN</BuildingType>
 			<FeatureType>FEATURE_JUNGLE</FeatureType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>2</Yield>
+			<Yield>3</Yield>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_SK_STEFAN</BuildingType>
@@ -47,7 +47,7 @@
 		<Row>
 			<BuildingType>BUILDING_SK_STEFAN</BuildingType>
 			<FlavorType>FLAVOR_SCIENCE</FlavorType>
-			<Flavor>70</Flavor>
+			<Flavor>80</Flavor>
 		</Row>
 	</Building_Flavors>
   <!-- Building_AreaYieldModifiers -->

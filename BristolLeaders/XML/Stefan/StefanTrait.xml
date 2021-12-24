@@ -118,7 +118,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_SK_STEFAN_TRAIT">
-      <Text>Extra unhappiness per city but plus 10% production</Text>
+      <Text>Extra unhappiness per city but plus 13% production and 6% food</Text>
     </Row>
     <Row Tag="TXT_KEY_SK_STEFAN_TRAIT_SHORT">
       <Text>Logical Thinker</Text>

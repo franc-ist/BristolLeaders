@@ -118,10 +118,10 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_OT_OLLIE_TRAIT">
-      <Text>Extra unhappiness per city but plus 10% production</Text>
+      <Text>Plus 2 move speed for most units and starts with 2 settlers.</Text>
     </Row>
     <Row Tag="TXT_KEY_OT_OLLIE_TRAIT_SHORT">
-      <Text>Logical Thinker</Text>
+      <Text>Quick Reflexes</Text>
     </Row>
   </Language_en_US>
 </GameData>

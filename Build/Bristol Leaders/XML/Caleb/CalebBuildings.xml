@@ -6,7 +6,7 @@
       <Description>Caleb's Orchestra</Description>
       <Civilopedia>This is Caleb's orchestra</Civilopedia>
       <Strategy>Build this always</Strategy>
-      <Help>This building adds 2 great musician points, 2 happiness, 3 culture and doesn't require the ampitheater. Needs 2 maintance and slightly more production.</Help>
+      <Help>This building adds 2 great musician points, 2 happiness, 3 culture and doesn't require the ampitheater. Needs 2 maintance and slightly more production. Provides 10 defence.</Help>
       <ThemingBonusHelp></ThemingBonusHelp>
       <Quote></Quote>
       <GoldMaintenance>2</GoldMaintenance>
@@ -92,7 +92,7 @@
       <Espionage>0</Espionage>
       <AllowsFoodTradeRoutes>0</AllowsFoodTradeRoutes>
       <AllowsProductionTradeRoutes>0</AllowsProductionTradeRoutes>
-      <Defense>0</Defense>
+      <Defense>10</Defense>
       <ExtraCityHitPoints>0</ExtraCityHitPoints>
       <GlobalDefenseMod>0</GlobalDefenseMod>
       <MinorFriendshipChange>0</MinorFriendshipChange>
@@ -171,7 +171,7 @@
     <Row>
       <BuildingType>BUILDING_SK_CALEB</BuildingType>
       <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
-      <Flavor>4</Flavor>
+      <Flavor>50</Flavor>
     </Row>
   </Building_Flavors>
   <!-- Building_GlobalYieldModifiers -->

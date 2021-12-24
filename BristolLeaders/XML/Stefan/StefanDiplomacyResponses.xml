@@ -1,3 +1,132 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_ATTACKED_HOSTILE</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_TRADE_NEEDMORE_ANGRY</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_TRADE_NEEDMORE_NEUTRAL</Response>
+		</Row>
+		<Row LeaderType="LEADER_SK_STEFAN">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_SK_STEFAN_TRADE_NEEDMORE_HAPPY</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_FIRSTGREETING_1">
+			<Text>... Why are you here? Do you like my penguins?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_FIRSTGREETING_2">
+			<Text>... Why are you here? Do you like my penguins?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_FIRSTGREETING_3">
+			<Text>... Why are you here? Do you like my penguins?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_DEFEATED_1">
+			<Text>How could this be? This can't be happening. No wait I know I see everything. I know you're playing me well I'm going to come get you. Just wait and see...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_GREETING_POLITE_HELLO_1">
+			<Text>Are you a freind of penguins too?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_GREETING_NEUTRAL_HELLO_1">
+			<Text>You better be a freind of penguins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_GREETING_HOSTILE_HELLO_1">
+			<Text>I'm going to be honest. For some reason I hate you...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>You have commited too much war. Stop now. Or else...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You are too close. Be gone with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_REQUEST">
+			<Text>The penguins need help. You will help right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_LUXURY_TRADE">
+			<Text>The penguins need this. Please provide?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_OPEN_BORDERS_EXCHANGE">
+			<Text>How would you like to exchange open borders? All the penguins will visit!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_ATTACKED_BETRAYED">
+			<Text>How could you. Well no matter you will soon be crushed and the penguins will eat your corpse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_ATTACKED_EXCITED">
+			<Text>Oh good the penguins were getting bored.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_ATTACKED_HOSTILE">
+			<Text>Penguins        attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_DECLAREWAR_1">
+			<Text>I'm sorry. No wait that wasn't to you that was to the penguin I just bumped into. Prepare to die...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_TRADE_NEEDMORE_ANGRY">
+			<Text>My penguins require more. Much more yes. Even More. MORE MORE MORE.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_TRADE_NEEDMORE_HAPPY">
+			<Text>My penguins require more. Just a little bit.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SK_STEFAN_TRADE_NEEDMORE_NEUTRAL">
+			<Text>Hmm this is mostly fine. But the penguins will need more.</Text>
+		</Row>
+	</Language_en_US>
 </GameData>

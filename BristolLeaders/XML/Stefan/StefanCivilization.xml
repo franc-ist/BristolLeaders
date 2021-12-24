@@ -24,7 +24,7 @@
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_STEFAN_TEXT</DawnOfManQuote>
       <DawnOfManImage>StefanScene.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_SK_STEFAN</DawnOfManAudio>
-      <SoundtrackTag></SoundtrackTag>
+      <SoundtrackTag>STEFAN</SoundtrackTag>
     </Row>
   </Civilizations>
   <Civilization_BuildingClassOverrides>

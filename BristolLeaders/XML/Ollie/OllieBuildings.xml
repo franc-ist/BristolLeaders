@@ -7,10 +7,10 @@
 		  <Cost>130</Cost>
 		  <GoldMaintenance>1</GoldMaintenance>
 		  <PrereqTech>TECH_EDUCATION</PrereqTech>
-		  <Help>This Building generates Science on forests as well as jungles and is slightly cheaper then a normal university.Also provides a bonus 10% science</Help>
-		  <Description>Placeholder</Description>
-		  <Civilopedia>This does something</Civilopedia>
-		  <Strategy>Good if you dont chop down forests</Strategy>
+		  <Help>This building only gives 18% science to combat the early start boost.</Help>
+		  <Description>Bristol Universitys</Description>
+		  <Civilopedia>This does something lol</Civilopedia>
+		  <Strategy>Good to build regardless</Strategy>
 		  <ArtDefineTag>ART_DEF_BUILDING_UNIVERSITY</ArtDefineTag>
 		  <SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
 		  <SpecialistCount>3</SpecialistCount>

@@ -109,7 +109,7 @@ Ollie is geared towards any.</Description>
     <File md5="1DFD308786094F6A1EEC29DAF99E0FEF" import="0">XML/GameInfo/DeleteAllCivs.xml</File>
     <File md5="8FAED026C08A1F7B9F2B576B85B879EC" import="0">XML/NewTechs.xml</File>
     <File md5="A6C15A119C8F2CBB748A29C75DCA3658" import="1">XML/Ollie/ollie-mapimage.dds</File>
-    <File md5="70934F14070D467FC1EA0A3C3608D82E" import="0">XML/Ollie/OllieBuildings.xml</File>
+    <File md5="D633B9BC44A0B8AEA0586B8EE63C9E7B" import="0">XML/Ollie/OllieBuildings.xml</File>
     <File md5="7C132E06D2440120765D07FCB2F9875C" import="0">XML/Ollie/OllieCivilization.xml</File>
     <File md5="86FE94BD1F2F7A667F095EDC0FB29ED6" import="0">XML/Ollie/OllieDiplomacyResponses.xml</File>
     <File md5="CD711F565B24B282A5A3576BED996120" import="0">XML/Ollie/OllieLeader.xml</File>
@@ -129,7 +129,7 @@ Ollie is geared towards any.</Description>
     <File md5="C856A501E3C6CE7D852BE611F528B245" import="0">XML/Robot/RobotTrait.xml</File>
     <File md5="F7D9358E8BDE8633A52BA9469A0A1A78" import="0">XML/Robot/RobotUnits.xml</File>
     <File md5="C3FE9A09A22AED9F8C17BE4DC05AFB94" import="1">XML/Samuel/sam-mapimage.dds</File>
-    <File md5="3231A3B35C753242C13399F1F8EF6453" import="0">XML/Samuel/SamuelBuildings.xml</File>
+    <File md5="5CCA0794913780466A9E16F1A0C8C01C" import="0">XML/Samuel/SamuelBuildings.xml</File>
     <File md5="3E646CE1FE1DEF544365A4386AD4B6B1" import="0">XML/Samuel/SamuelCivilization.xml</File>
     <File md5="5D1C87467884D5A0105C73AE56E686E5" import="0">XML/Samuel/SamuelDiplomacyResponses.xml</File>
     <File md5="D1A4E322CD049E0E6C876063A0832A63" import="0">XML/Samuel/SamuelLeader.xml</File>

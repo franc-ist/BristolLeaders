@@ -155,10 +155,10 @@
       <Text><!-- Add Civilopedia text here --></Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_SK_ROBOT_STRATEGY">
-      <Text>This unit is weaker but can start a golden age</Text>
+      <Text>This unit is weaker but can start a golden age of 6 turns.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_SK_ROBOT_PICTISH_WARRIOR">
-      <Text>This unit is weaker but can start a golden age</Text>
+      <Text>This unit is weaker but can start a golden age of 6 turns.</Text>
     </Row>
   </Language_en_US>
 </GameData>

@@ -118,7 +118,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_WR_WILL_TRAIT">
-      <Text>Gain vision of the whole map at the start of the game. Gain 1 extra trade route, 1 free tech and 1 free policy. Gain +25% defence. Lose 20% unit strength in forigen lands. Lose 2 culture a turn.</Text>
+      <Text>Gain vision of the whole map at the start of the game. Gains 1 free tech, 1 free settler and 1 free policy. Gain +25% defence. Lose 25% unit strength in forign lands. Lose 2 culture a turn. Gain 4 free world congress votes.</Text>
     </Row>
     <Row Tag="TXT_KEY_WR_WILL_TRAIT_SHORT">
       <Text>High Ground</Text>

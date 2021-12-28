@@ -6,7 +6,7 @@
       <Description>TXT_KEY_LEADER_OT_OLLIE</Description>
       <Civilopedia>TXT_KEY_LEADER_OT_OLLIE_PEDIA</Civilopedia>
       <CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_OT_OLLIE</CivilopediaTag>
-      <ArtDefineTag>OllieScene.xml</ArtDefineTag>
+      <ArtDefineTag>Ollie_Scene.xml</ArtDefineTag>
       <VictoryCompetitiveness>6</VictoryCompetitiveness>
       <WonderCompetitiveness>4</WonderCompetitiveness>
       <MinorCivCompetitiveness>2</MinorCivCompetitiveness>
@@ -22,7 +22,7 @@
       <Forgiveness>6</Forgiveness>
       <Chattiness>6</Chattiness>
       <Meanness>4</Meanness>
-      <PortraitIndex>15</PortraitIndex>
+      <PortraitIndex>40</PortraitIndex>
       <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
     </Row>
   </Leaders>

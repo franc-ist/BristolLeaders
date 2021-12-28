@@ -17,7 +17,7 @@
       <ArtStyleSuffix>_EURO</ArtStyleSuffix>
       <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
       <DerivativeCiv></DerivativeCiv>
-	  <PortraitIndex>10</PortraitIndex>
+	  <PortraitIndex>33</PortraitIndex>
 	  <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
       <MapImage>will-mapimage.dds</MapImage>
@@ -206,14 +206,8 @@
       <CivilizationType>CIVILIZATION_WR_WILL</CivilizationType>
       <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
       <UnitAIType>UNITAI_SETTLE</UnitAIType>
-      <Count>1</Count>
+      <Count>2</Count>
     </Row>
-	 <Row>
-		  <CivilizationType>CIVILIZATION_WR_WILL</CivilizationType>
-		  <UnitClassType>UNITCLASS_SCOUT</UnitClassType>
-		  <UnitAIType>UNITAI_EXPLORE</UnitAIType>
-		  <Count>1</Count>
-	 </Row>
   </Civilization_FreeUnits>
   <Civilization_Leaders>
     <Row>
@@ -316,7 +310,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_CIV_WR_WILL_DESC">
-      <Text>Will</Text>
+      <Text>The Grand Galactic Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_WR_WILL_FACTOID_HEADING">
       <Text>Factoids</Text>

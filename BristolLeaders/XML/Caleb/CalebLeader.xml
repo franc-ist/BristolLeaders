@@ -6,7 +6,7 @@
       <Description>TXT_KEY_LEADER_SK_CALEB</Description>
       <Civilopedia>TXT_KEY_LEADER_SK_CALEB_PEDIA</Civilopedia>
       <CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_SK_CALEB</CivilopediaTag>
-      <ArtDefineTag>CalebScene.xml</ArtDefineTag>
+      <ArtDefineTag>Morwenna_Scene.xml</ArtDefineTag>
       <VictoryCompetitiveness>6</VictoryCompetitiveness>
       <WonderCompetitiveness>5</WonderCompetitiveness>
       <MinorCivCompetitiveness>5</MinorCivCompetitiveness>
@@ -22,7 +22,7 @@
       <Forgiveness>4</Forgiveness>
       <Chattiness>5</Chattiness>
       <Meanness>4</Meanness>
-      <PortraitIndex>8</PortraitIndex>
+      <PortraitIndex>18</PortraitIndex>
       <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
     </Row>
   </Leaders>
@@ -292,7 +292,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_LEADER_SK_CALEB">
-      <Text>Caleb Evans</Text>
+      <Text>Morwenna Evans</Text>
     </Row>
     <Row Tag="TXT_KEY_LEADER_SK_CALEB_PEDIA">
       <Text><!-- Add Civilopedia text here --></Text>
@@ -307,7 +307,7 @@
       <Text>2000 - AD</Text>
     </Row>
     <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SK_CALEB_NAME">
-      <Text>Caleb Evans</Text>
+      <Text>Morwenna Evans</Text>
     </Row>
     <Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SK_CALEB_SUBTITLE">
       <Text>Leader of the Calebs</Text>

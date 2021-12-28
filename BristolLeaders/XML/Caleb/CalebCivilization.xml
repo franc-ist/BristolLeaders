@@ -20,9 +20,9 @@
       <PortraitIndex>0</PortraitIndex> 
       <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
       <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
-      <MapImage>caleb-mapimage.dds</MapImage>
+      <MapImage>MorwennaLeader.dds</MapImage>
       <DawnOfManQuote>TXT_KEY_CIV5_DAWN_SK_CALEB_TEXT</DawnOfManQuote>
-      <DawnOfManImage>CalebScene.dds</DawnOfManImage>
+      <DawnOfManImage>MorwennaLeader.dds</DawnOfManImage>
       <DawnOfManAudio>AS2D_DOM_SPEECH_SK_CALEB</DawnOfManAudio>
       <SoundtrackTag>CALEB</SoundtrackTag>
     </Row>
@@ -302,7 +302,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_CIV_SK_CALEB_DESC">
-      <Text>The CALEB Empire</Text>
+      <Text>The Morwenna Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_SK_CALEB_FACTOID_HEADING">
       <Text>Factoids</Text>
@@ -377,19 +377,19 @@
       <Text><!-- Add Civilopedia text here --></Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_SK_CALEB_TITLE">
-      <Text>Caleb Evans</Text>
+      <Text>Morwenna Evans</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV_SK_CALEB_SHORT_DESC">
-      <Text>The Great Caleb Empire</Text>
+      <Text>The Great Morwenna Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV_SK_CALEB_ADJECTIVE">
-      <Text>Caleb's</Text>
+      <Text>Morwenna's</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_DAWN_SK_CALEB_TEXT">
-      <Text>Listen, listen, here approaches Lord Caleb Evans, the greatest musician the world has ever known. Use your music to attract more great people and let your civilization rise to artistic fame.</Text>
+      <Text>Listen, listen, here approaches Lady Morwenna Evans, the greatest musician the world has ever known. Use your music to attract more great people and let your civilization rise to artistic fame.</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_0">
-      <Text>Calebia</Text>
+      <Text>Morwennaia</Text>
     </Row>
     <Row Tag="TXT_KEY_CITY_NAME_SK_CALEB_1">
       <Text>Bujo</Text>
@@ -497,7 +497,7 @@
       <Text>St. John's</Text>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SK_CALEB_0">
-      <Text>CALEB</Text>
+      <Text>Morwenna</Text>
     </Row>
     <Row Tag="TXT_KEY_SPY_NAME_SK_CALEB_1">
       <Text>Ethan</Text>

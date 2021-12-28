@@ -3,8 +3,8 @@
   <Buildings>
     <Row>
       <Type>BUILDING_SK_CALEB</Type>
-      <Description>Caleb's Orchestra</Description>
-      <Civilopedia>This is Caleb's orchestra</Civilopedia>
+      <Description>Morwenna's Orchestra</Description>
+      <Civilopedia>This is Morwenna's orchestra</Civilopedia>
       <Strategy>Build this always</Strategy>
       <Help>This building adds 2 great musician points, 2 happiness, 3 culture and doesn't require the ampitheater. Needs 2 maintance and slightly more production. Provides 10 defence.</Help>
       <ThemingBonusHelp></ThemingBonusHelp>

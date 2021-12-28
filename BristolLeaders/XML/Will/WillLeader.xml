@@ -6,7 +6,7 @@
       <Description>Emperor Will</Description>
       <Civilopedia>Will</Civilopedia>
       <CivilopediaTag>Will</CivilopediaTag>
-      <ArtDefineTag>WillScene.xml</ArtDefineTag>
+      <ArtDefineTag>Will_Scene.xml</ArtDefineTag>
       <VictoryCompetitiveness>5</VictoryCompetitiveness>
       <WonderCompetitiveness>2</WonderCompetitiveness>
       <MinorCivCompetitiveness>2</MinorCivCompetitiveness>
@@ -22,7 +22,7 @@
       <Forgiveness>8</Forgiveness>
       <Chattiness>6</Chattiness>
       <Meanness>2</Meanness>
-      <PortraitIndex>15</PortraitIndex>
+      <PortraitIndex>41</PortraitIndex>
       <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
     </Row>
   </Leaders>
@@ -31,7 +31,7 @@
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
-      <Bias>3</Bias>
+      <Bias>4</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
@@ -51,7 +51,7 @@
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
-      <Bias>7</Bias>
+      <Bias>5</Bias>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
@@ -61,7 +61,7 @@
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
-      <Bias>5</Bias>
+      <Bias>4</Bias>
     </Row>
   </Leader_MajorCivApproachBiases>
   <Leader_MinorCivApproachBiases>
@@ -88,14 +88,14 @@
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
-      <Bias>4</Bias>
+      <Bias>5</Bias>
     </Row>
   </Leader_MinorCivApproachBiases>
   <Leader_Flavors>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <FlavorType>FLAVOR_OFFENSE</FlavorType>
-      <Flavor>2</Flavor>
+      <Flavor>3</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
@@ -155,7 +155,7 @@
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <FlavorType>FLAVOR_EXPANSION</FlavorType>
-      <Flavor>6</Flavor>
+      <Flavor>7</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
@@ -230,7 +230,7 @@
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>
       <FlavorType>FLAVOR_NUKE</FlavorType>
-      <Flavor>4</Flavor>
+      <Flavor>10</Flavor>
     </Row>
     <Row>
       <LeaderType>LEADER_WR_WILL</LeaderType>

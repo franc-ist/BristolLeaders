@@ -8,7 +8,7 @@
 		  <Cost>80</Cost>
 		  <GoldMaintenance>1</GoldMaintenance>
 		  <PrereqTech>TECH_SAILING</PrereqTech>
-		  <Help>Build this to get +2 food and + 1 gold and +1 production from coast tiles.+1 food and + 1 gold but 2 maintance. Also gives +10xp to every naval unit but your special one as I can`t fix that.</Help>
+		  <Help>Build this to get +2 food and +1 gold and +1 production from coast tiles. +1 food and + 1 gold but 2 extra maintance. Also gives +10xp to every naval unit but your special one as I can`t fix that.</Help>
 		  <Description>Dans Canoe Club</Description>
 		  <Civilopedia>civ</Civilopedia>
 		  <Strategy>Build this!</Strategy>

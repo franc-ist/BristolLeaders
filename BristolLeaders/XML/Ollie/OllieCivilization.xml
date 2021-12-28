@@ -17,7 +17,7 @@
       <ArtStyleSuffix>_EURO</ArtStyleSuffix>
       <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
       <DerivativeCiv></DerivativeCiv>
-	  <PortraitIndex>9</PortraitIndex>
+	  <PortraitIndex>32</PortraitIndex>
 	  <IconAtlas>CIV_COLOR_ATLAS_LEGENDS</IconAtlas>
 	  <AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
       <MapImage>ollie-mapimage.dds</MapImage>
@@ -312,7 +312,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_CIV_OT_OLLIE_DESC">
-      <Text>Ollie Keeley</Text>
+      <Text>The Ollie Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_OT_OLLIE_FACTOID_HEADING">
       <Text>Factoids</Text>

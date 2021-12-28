@@ -118,10 +118,10 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_SK_ROBOT_TRAIT">
-      <Text>Gets plus 1 prouction and 1 of each type from specalists.</Text>
+      <Text>Gets plus 2 prouction and 2 of each type from specalists.</Text>
     </Row>
     <Row Tag="TXT_KEY_SK_ROBOT_TRAIT_SHORT">
-      <Text>0</Text>
+      <Text>Optimiser</Text>
     </Row>
   </Language_en_US>
 </GameData>

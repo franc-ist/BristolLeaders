@@ -69,7 +69,6 @@
 			<PortraitIndex>5</PortraitIndex>
 			<FreePolicies>1</FreePolicies>
 			<FreeTechs>1</FreeTechs>
-			<NumTradeRouteBonus>1</NumTradeRouteBonus>
 			<ExtraLeagueVotes>4</ExtraLeagueVotes>
 			<FreePromotion>PROMOTION_WILL_FOREIGN_LANDS</FreePromotion>
 		</Row>
@@ -146,7 +145,7 @@
 			<Description>Dummy</Description>
 			<ArtDefineTag>NONE</ArtDefineTag>
 			<MinAreaSize>-1</MinAreaSize>
-			<MilitaryProductionModifier>100</MilitaryProductionModifier>
+			<MilitaryProductionModifier>90</MilitaryProductionModifier>
 			<AllowsRangeStrike>true</AllowsRangeStrike>
 			<NeverCapture>true</NeverCapture>
 			<HurryCostModifier>-1</HurryCostModifier>
@@ -185,7 +184,7 @@
 			<Cost>100000</Cost>
 			<Defense>5</Defense>
 			<PrereqTech>TECH_FUTURE_TECH</PrereqTech>
-			<Help>Production for Caleb Only</Help>
+			<Help>Production for Morwenna Only</Help>
 			<Description>Dummy</Description>
 			<ArtDefineTag>NONE</ArtDefineTag>
 			<MinAreaSize>-1</MinAreaSize>
@@ -224,66 +223,66 @@
 			<Row>
 				<Type>DUMMYBUILDINGS</Type>
 				<DefaultBuilding>DAVEHAPPINESSDUMMY</DefaultBuilding>
-				<Description>yes</Description>
+				<Description>Gives 50 happiness and you cant generate unhappiness. Applies penalities.</Description>
 				<MaxGlobalInstances>1</MaxGlobalInstances>
 			</Row>
 			<Row>
 				<Type>STEFANBUILDINGS</Type>
 				<DefaultBuilding>STEFANDUMMY</DefaultBuilding>
-				<Description>yes</Description>
+				<Description>Gives 15% production and 5% food. Lose 1 happiness per city.</Description>
 				<MaxGlobalInstances>1</MaxGlobalInstances>
 			</Row>
 			<Row>
 				<Type>WILLBUILDINGS</Type>
 				<DefaultBuilding>WILLDUMMY</DefaultBuilding>
-				<Description>yes</Description>
+				<Description>1 free tech and culture policy. Loses 2 culture a turn.</Description>
 				<MaxGlobalInstances>1</MaxGlobalInstances>
 			</Row>
 			<Row>
 				<Type>OLLIEBUILDINGS</Type>
 				<DefaultBuilding>OLLIEDUMMY</DefaultBuilding>
-				<Description>yes</Description>
+				<Description>Gives all units 2 more movement.</Description>
 				<MaxGlobalInstances>1</MaxGlobalInstances>
 			</Row>
 			<Row>
 				<Type>ROBOTBUILDINGS</Type>
 				<DefaultBuilding>ROBOTDUMMY</DefaultBuilding>
-				<Description>yes</Description>
+				<Description>Gives boosts to specailists.</Description>
 				<MaxGlobalInstances>1</MaxGlobalInstances>
 			</Row>
 			<Row>
 				<Type>DANBUILDINGS</Type>
 				<DefaultBuilding>DANDUMMY</DefaultBuilding>
-				<Description>yes</Description>
+				<Description>Gives bonus to coast tiles and more unit expereince.</Description>
 				<MaxGlobalInstances>1</MaxGlobalInstances>
 			</Row>
 			<Row>
 				<Type>DAVEBUILDINGS</Type>
 				<DefaultBuilding>BUILDING_SK_DAVE</DefaultBuilding>
-				<Description>yes</Description>
+				<Description>Gives 50 happiness and you cant generate unhappiness. Applies penalities.</Description>
 			</Row>
 			<Row>
 				<Type>CALEBBUILDINGS</Type>
 				<DefaultBuilding>CALEBDUMMY</DefaultBuilding>
-				<Description>yes</Description>
+				<Description>Gives 100% bonus great people points.</Description>
 				<MaxGlobalInstances>1</MaxGlobalInstances>
 			</Row>
 			<Row>
 				<Type>FRANCISBUILDINGS</Type>
 				<DefaultBuilding>FRANCISDUMMY</DefaultBuilding>
-				<Description>yes</Description>
+				<Description>Gives penalities. Gives 1 free spy.</Description>
 				<MaxGlobalInstances>1</MaxGlobalInstances>
 			</Row>
 			<Row>
 				<Type>SAMUELBUILDINGS</Type>
 				<DefaultBuilding>SAMUELDUMMY</DefaultBuilding>
-				<Description>yes</Description>
+				<Description>Gives 5 of all yeilds plus another 5 faith. Gives plus 20% gold.</Description>
 				<MaxGlobalInstances>1</MaxGlobalInstances>
 			</Row>
 			<Row>
 				<Type>CATBUILDINGS</Type>
 				<DefaultBuilding>CATDUMMY</DefaultBuilding>
-				<Description>yes</Description>
+				<Description>Gives 90% boost to military production.</Description>
 				<MaxGlobalInstances>1</MaxGlobalInstances>
 			</Row>
 		</BuildingClasses>

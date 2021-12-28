@@ -7,9 +7,9 @@
 		  <FreeStartEra>ERA_INDUSTRIAL</FreeStartEra>
 		  <Cost>125</Cost>
 		  <PrereqTech>TECH_CURRENCY</PrereqTech>
-		  <Help>Provides 2 culture, 2 gold and +50% gold</Help>
+		  <Help>Provides 2 culture, 1 gold and +40% gold.</Help>
 		  <Description>Forbidden Planet</Description>
-		  <Civilopedia>Provides 2 culture, 2 gold and +50% gold</Civilopedia>
+		  <Civilopedia>Provides 2 culture, 1 gold and +40% gold.</Civilopedia>
 		  <Strategy>Use to overcome debufs.</Strategy>
 		  <ArtDefineTag>ART_DEF_BUILDING_MARKET</ArtDefineTag>
 		  <SpecialistType>SPECIALIST_MERCHANT</SpecialistType>
@@ -32,14 +32,14 @@
 	<Row>
 		<BuildingType>BUILDING_WR_WILL</BuildingType>
 		<YieldType>YIELD_GOLD</YieldType>
-		<Yield>2</Yield>
+		<Yield>1</Yield>
 	</Row>
 	</Building_YieldChanges>
 	<Building_YieldModifiers>
 		<Row>
 			<BuildingType>BUILDING_WR_WILL</BuildingType>
 			<YieldType>YIELD_GOLD</YieldType>
-			<Yield>50</Yield>
+			<Yield>40</Yield>
 		</Row>
 		</Building_YieldModifiers>
 
@@ -47,7 +47,7 @@
 		<Row>
 			<BuildingType>BUILDING_MARKET</BuildingType>
 			<FlavorType>FLAVOR_GOLD</FlavorType>
-			<Flavor>50</Flavor>
+			<Flavor>40</Flavor>
 		</Row>
 		<Row>
 			<BuildingType>BUILDING_MARKET</BuildingType>

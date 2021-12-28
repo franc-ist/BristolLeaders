@@ -6,7 +6,7 @@
       <Description>TXT_KEY_LEADER_SK_DAN</Description>
       <Civilopedia>TXT_KEY_LEADER_SK_DAN_PEDIA</Civilopedia>
       <CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_SK_DAN</CivilopediaTag>
-      <ArtDefineTag>DanScene.xml</ArtDefineTag>
+      <ArtDefineTag>Dan_Scene.xml</ArtDefineTag>
       <VictoryCompetitiveness>6</VictoryCompetitiveness>
       <WonderCompetitiveness>4</WonderCompetitiveness>
       <MinorCivCompetitiveness>6</MinorCivCompetitiveness>

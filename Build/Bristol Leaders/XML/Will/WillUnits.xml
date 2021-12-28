@@ -10,9 +10,9 @@
 		  <CombatClass>UNITCOMBAT_MELEE</CombatClass>
 		  <Domain>DOMAIN_LAND</Domain>
 		  <DefaultUnitAI>UNITAI_EXPLORE</DefaultUnitAI>
-		  <Description>Wills freind</Description>
+		  <Description>Will's forbidden planet freind</Description>
 		  <Civilopedia>Hi</Civilopedia>
-		  <Strategy>Fairly normal scout unit but gains far more experience then usual</Strategy>
+		  <Strategy>Gains far more expereince then normal from combat. Mostly a normal scout.</Strategy>
 		  <Help></Help>
 		  <HurryCostModifier>20</HurryCostModifier>
 		  <MilitarySupport>true</MilitarySupport>

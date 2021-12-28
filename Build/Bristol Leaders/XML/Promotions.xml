@@ -4,15 +4,15 @@
 	<UnitPromotions>
 		<Row>
 			<Type>PROMOTION_WILL_FOREIGN_LANDS</Type>
-			<Description>-20 percent strength in foreign lands</Description>
-			<Help>-20 percent strength in foreign lands</Help>
+			<Description>Peaceful Will. -25 percent strength in foreign lands</Description>
+			<Help>-25 percent strength in foreign lands</Help>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<CannotBeChosen>true</CannotBeChosen>
-			<OutsideFriendlyLandsModifier>-20</OutsideFriendlyLandsModifier>
+			<OutsideFriendlyLandsModifier>-25</OutsideFriendlyLandsModifier>
 			<PortraitIndex>59</PortraitIndex>
 			<IconAtlas>ABILITY_ATLAS</IconAtlas>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
-			<PediaEntry>-20% strength in foreign lands</PediaEntry>
+			<PediaEntry>-25% strength in foreign lands</PediaEntry>
 		</Row>
 	</UnitPromotions>
 
@@ -20,7 +20,7 @@
 		<Row>
 			<Type>PROMOTION_OLLIE_SPEED</Type>
 			<Description>Good Reflexes. Plus 2 speed</Description>
-			<Help>Plus 3 speed</Help>
+			<Help>Plus 2 speed</Help>
 			<Sound>AS2D_IF_LEVELUP</Sound>
 			<MovesChange>2</MovesChange>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -28,7 +28,7 @@
 			<PortraitIndex>59</PortraitIndex>
 			<IconAtlas>ABILITY_ATLAS</IconAtlas>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
-			<PediaEntry>Plus 1 speed to all combat units</PediaEntry>
+			<PediaEntry>Plus 2 speed to all combat units</PediaEntry>
 		</Row>
 	</UnitPromotions>
 

@@ -12,10 +12,10 @@
 			<CombatClass>UNITCOMBAT_NAVAL</CombatClass>
 			<Domain>DOMAIN_SEA</Domain>
 			<DefaultUnitAI>UNITAI_ATTACK_SEA</DefaultUnitAI>
-			<Description>TXT_KEY_UNIT_SK_DAN</Description>
+			<Description>Dan's yellow submarine</Description>
 			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_TRIREME_TEXT</Civilopedia>
-			<Strategy>TXT_KEY_UNIT_SK_DAN_STRATEGY</Strategy>
-			<Help>TXT_KEY_UNIT_HELP_SK_DAN</Help>
+			<Strategy>Replaces the normal trireme. Has slightly reduced production cost has 2 more movement. Can cross ocean and is a lot stronger.</Strategy>
+			<Help>Use to meet new players early.</Help>
 			<MilitarySupport>true</MilitarySupport>
 			<MilitaryProduction>true</MilitaryProduction>
 			<Pillage>true</Pillage>
@@ -123,7 +123,7 @@
       <Text>Replaces the normal trireme.Has slightly reduced production cost has 2 more movement.Can cross ocean and is a lot stronger.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_SK_DAN_PICTISH_WARRIOR">
-      <Text>Replaces the normal trireme.Has slightly reduced production cost has 2 more movement.Can cross ocean and is a lot stronger.</Text>
+      <Text>Replaces the normal trireme. Has slightly reduced production cost has 2 more movement. Can cross ocean and is a lot stronger.</Text>
     </Row>
   </Language_en_US>
 </GameData>

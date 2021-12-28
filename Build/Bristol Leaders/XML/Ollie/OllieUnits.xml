@@ -9,7 +9,7 @@
 		  <Moves>1</Moves>
 		  <CombatClass>UNITCOMBAT_MELEE</CombatClass>
 		  <Domain>DOMAIN_LAND</Domain>
-		  <DefaultUnitAI>UNITAI_EXPLORE</DefaultUnitAI>
+		  <DefaultUnitAI>UNITAI_SETTLE</DefaultUnitAI>
 		  <Description>Rohan</Description>
 		  <Civilopedia>Hi</Civilopedia>
 		  <Strategy>Is quite slow. Can also found cities.</Strategy>
@@ -66,7 +66,7 @@
 	  <Row>
 		  <UnitType>UNIT_OT_OLLIE</UnitType>
 		  <FlavorType>FLAVOR_SETTLE</FlavorType>
-		  <Flavor>3</Flavor>
+		  <Flavor>8</Flavor>
 	  </Row>
     <Row>
       <UnitType>UNIT_OT_OLLIE</UnitType>

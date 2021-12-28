@@ -208,7 +208,7 @@
 		  <CivilizationType>CIVILIZATION_SK_STEFAN</CivilizationType>
 		  <UnitClassType>UNITCLASS_SCOUT</UnitClassType>
 		  <UnitAIType>UNITAI_EXPLORE</UnitAIType>
-		  <Count>1</Count>
+		  <Count>2</Count>
 	 </Row>
   </Civilization_FreeUnits>
   <Civilization_Leaders>
@@ -294,7 +294,7 @@
   <Colors>
     <Row>
       <Type>COLOR_PLAYER_SK_STEFAN_ICON</Type>
-      <Red>0.0</Red>
+      <Red>1.0</Red>
       <Green>0.0</Green>
       <Blue>0.0</Blue>
       <Alpha>1.0</Alpha>
@@ -303,7 +303,7 @@
   <Colors>
     <Row>
       <Type>COLOR_PLAYER_SK_STEFAN_BACKGROUND</Type>
-      <Red>1.0</Red>
+      <Red>0.0</Red>
       <Green>1.0</Green>
       <Blue>1.0</Blue>
       <Alpha>1.0</Alpha>
@@ -312,7 +312,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_CIV_SK_STEFAN_DESC">
-      <Text>Stefan Keeley</Text>
+      <Text>The Penguin Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_SK_STEFAN_FACTOID_HEADING">
       <Text>Factoids</Text>

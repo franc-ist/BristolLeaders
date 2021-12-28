@@ -6,14 +6,14 @@
 		  <Type>UNIT_SK_STEFAN</Type>
 		  <Combat>11</Combat>
 		  <Cost>20</Cost>
-		  <Moves>2</Moves>
+		  <Moves>3</Moves>
 		  <CombatClass>UNITCOMBAT_MELEE</CombatClass>
 		  <Domain>DOMAIN_LAND</Domain>
 		  <DefaultUnitAI>UNITAI_EXPLORE</DefaultUnitAI>
 		  <Description>Tony</Description>
 		  <Civilopedia>Hi</Civilopedia>
-		  <Strategy>Is quite fast with 3 movement and 2 sight also ignores terrain.Also a timetravalling car.</Strategy>
-		  <Help>Is quite fast with 3 movement and 2 sight also ignores terrain.Also a timetravalling car.</Help>
+		  <Strategy>Is quite fast with 3 movement and 2 sight also ignores terrain. Also a timetravalling car.</Strategy>
+		  <Help>Is quite fast with 3 movement and 2 sight also ignores terrain. Also a timetravalling car.</Help>
 		  <MilitarySupport>true</MilitarySupport>
 		  <MilitaryProduction>true</MilitaryProduction>
 		  <Pillage>true</Pillage>
@@ -97,7 +97,7 @@
       <Text>Use to explore</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_SK_STEFAN_PICTISH_WARRIOR">
-      <Text>Is quite fast with 3 movement and 2 sight also ignores terrain.Also a timetravalling car.</Text>
+      <Text>Is quite fast with 3 movement and 2 sight also ignores terrain. Also a timetravalling car.</Text>
     </Row>
   </Language_en_US>
 </GameData>

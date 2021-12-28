@@ -6,7 +6,7 @@
       <Description>Charlie the Cat</Description>
       <Civilopedia>TXT_KEY_LEADER_SK_CAT_PEDIA</Civilopedia>
       <CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_SK_CAT</CivilopediaTag>
-      <ArtDefineTag>CharlieScene.xml</ArtDefineTag>
+      <ArtDefineTag>Charlie_Scene.xml</ArtDefineTag>
       <VictoryCompetitiveness>8</VictoryCompetitiveness>
       <WonderCompetitiveness>4</WonderCompetitiveness>
       <MinorCivCompetitiveness>10</MinorCivCompetitiveness>
@@ -16,7 +16,7 @@
       <WorkAgainstWillingness>10</WorkAgainstWillingness>
       <WorkWithWillingness>5</WorkWithWillingness>
       <DenounceWillingness>10</DenounceWillingness>
-      <DoFWillingness>8</DoFWillingness>
+      <DoFWillingness>6</DoFWillingness>
       <Loyalty>0</Loyalty>
       <Neediness>1</Neediness>
       <Forgiveness>0</Forgiveness>

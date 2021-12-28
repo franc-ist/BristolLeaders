@@ -190,6 +190,10 @@
 		  <CivilizationType>CIVILIZATION_SK_DAN</CivilizationType>
 		  <BuildingClassType>DANBUILDINGS</BuildingClassType>
 	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_SK_DAN</CivilizationType>
+		  <BuildingClassType>BUILDINGCLASS_LIGHTHOUSE</BuildingClassType>
+	  </Row>
   </Civilization_FreeBuildingClasses>
   <Civilization_FreeTechs>
     <Row>
@@ -310,7 +314,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_CIV_SK_DAN_DESC">
-      <Text>The DAN Empire</Text>
+      <Text>The Dan Empire</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_SK_DAN_FACTOID_HEADING">
       <Text>Factoids</Text>

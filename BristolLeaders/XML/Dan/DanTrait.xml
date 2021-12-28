@@ -118,7 +118,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_SK_DAN_TRAIT">
-      <Text>Starts with sailing.Also all units get 20xp.Can build lighthouse with sailing.Your unique unit can cross the ocean without the tech requirment</Text>
+      <Text>Starts with sailing. Also all naval units get 70 exp with other units getting 30 exp. Your unique unit can cross the ocean without the tech requirment. Starts with free lighthouse in capital.</Text>
     </Row>
     <Row Tag="TXT_KEY_SK_DAN_TRAIT_SHORT">
       <Text>Canoe Traveler</Text>

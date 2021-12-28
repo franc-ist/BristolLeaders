@@ -5,26 +5,27 @@
     <ProjectGuid>{d7995a0d-e469-4d69-b606-44accd655e77}</ProjectGuid>
     <Name>Bristol Leaders</Name>
     <Guid>8658c295-99ad-41b4-9c98-d9ec6259216b</Guid>
-    <ModVersion>21</ModVersion>
+    <ModVersion>25</ModVersion>
     <Stability>Stable</Stability>
     <Teaser>Adds 10 civilizations based off our friend group in Bristol. Removes all others.</Teaser>
     <Description>Adds 10 civilizations based off our friend group in Bristol. 
+Please enjoy :)
 Each civ has one or two music tracks - 1 for peace and 1 for war.
 Each civ also has custom diplomacy responses that sometimes don't work.
-Balance is intresting. Against AI it's easy to win even on deity (apart from if Charlie attacks :( ). With human players all bets are off.
+Balance is intresting. Against AI it's possible to win even on deity (apart from if Charlie attacks :( ). With human players all bets are off.
 
-Some known bugs - Some Pictures don't work. Some of art is weird. Ai plays werid. Francis chaos room is meant to be limited to 7 per player.
+Some known bugs - Ai plays werid. Francis chaos room is meant to be limited to 7 per player. Morwennas photo will just not work!
 
-Francis is meant to be geared to diplomatic victory.
-Stefan is meant to be geared towards science.
-Sam is meant to be geared towards any.
-Dan is geared towards domination and naval.
-Caleb is geared towards Culture.
-Dave is a good happy boy and is geared towards any.
-Charlie is a mean boy and is geared towards domination.
-Robot is geared towards any.
-Will is geared towards any/diplomatic.
-Ollie is geared towards any.</Description>
+Francis is geared towards diplomatic victory.
+Stefan is geared towards science victory.
+Dan is geared towards domination victory and naval.
+Morwenna is geared towards Culture victory.
+Charlie is a mean boy and is geared towards domination victory.
+Dave is a good happy boy and is geared towards any victory.
+Sam is geared towards any victory.
+Robot is geared towards any victory.
+Will is geared towards any victory.
+Ollie is geared towards any victory.</Description>
     <Authors>Francis Taylor, Stefan Keeley</Authors>
     <SpecialThanks>
     </SpecialThanks>
@@ -90,6 +91,11 @@ Ollie is geared towards any.</Description>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
         <FileName>XML/Caleb/CalebLeader.xml</FileName>
+      </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Caleb/Morwenna_Scene.xml</FileName>
       </Action>
       <Action>
         <Set>OnModActivated</Set>
@@ -194,7 +200,7 @@ Ollie is geared towards any.</Description>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
-        <FileName>XML/Dan/DanScene.xml</FileName>
+        <FileName>XML/Dan/Dan_Scene.xml</FileName>
       </Action>
       <Action>
         <Set>OnModActivated</Set>
@@ -229,7 +235,7 @@ Ollie is geared towards any.</Description>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
-        <FileName>XML/Charlly/CharlieScene.xml</FileName>
+        <FileName>XML/Charlly/Charlie_Scene.xml</FileName>
       </Action>
       <Action>
         <Set>OnModActivated</Set>
@@ -369,12 +375,7 @@ Ollie is geared towards any.</Description>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
-        <FileName>XML/Will/WillLeader.xml</FileName>
-      </Action>
-      <Action>
-        <Set>OnModActivated</Set>
-        <Type>UpdateDatabase</Type>
-        <FileName>XML/Will/WillScene.xml</FileName>
+        <FileName>XML/Will/Will_Scene.xml</FileName>
       </Action>
       <Action>
         <Set>OnModActivated</Set>
@@ -409,7 +410,7 @@ Ollie is geared towards any.</Description>
       <Action>
         <Set>OnModActivated</Set>
         <Type>UpdateDatabase</Type>
-        <FileName>XML/Ollie/OllieScene.xml</FileName>
+        <FileName>XML/Ollie/Ollie_Scene.xml</FileName>
       </Action>
       <Action>
         <Set>OnModActivated</Set>
@@ -460,7 +461,8 @@ Ollie is geared towards any.</Description>
     <Folder Include="Art" />
     <Folder Include="Music" />
     <Folder Include="XML" />
-    <Folder Include="XML\Caleb" />
+    <Folder Include="XML\Caleb\" />
+    <Folder Include="XML\Morwenna" />
     <Folder Include="XML\Francis" />
     <Folder Include="XML\Dave" />
     <Folder Include="XML\Dan" />
@@ -525,7 +527,11 @@ Ollie is geared towards any.</Description>
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="Music\SONG_OLLIE.mp3">
+    <Content Include="Music\SONG_OLLIE_PEACE.mp3">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="Music\SONG_OLLIE_WAR.mp3">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
@@ -557,7 +563,15 @@ Ollie is geared towards any.</Description>
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
-    <Content Include="XML\Caleb\caleb-mapimage.dds">
+    <Content Include="XML\Caleb\MorwennaLeader.dds">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Caleb\Morwenna_Scene.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>True</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Morwenna\caleb-mapimage.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
@@ -573,7 +587,7 @@ Ollie is geared towards any.</Description>
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
-    <Content Include="XML\Caleb\CalebScene.dds">
+    <Content Include="XML\Morwenna\CalebScene.dds">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
@@ -617,7 +631,7 @@ Ollie is geared towards any.</Description>
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="XML\Charlly\CharlieScene.xml">
+    <Content Include="XML\Charlly\Charlie_Scene.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
@@ -653,7 +667,7 @@ Ollie is geared towards any.</Description>
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="XML\Dan\DanScene.xml">
+    <Content Include="XML\Dan\Dan_Scene.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
@@ -773,9 +787,9 @@ Ollie is geared towards any.</Description>
       <SubType>Lua</SubType>
       <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
-    <Content Include="XML\Ollie\OllieScene.xml">
+    <Content Include="XML\Ollie\Ollie_Scene.xml">
       <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Ollie\OllieTrait.xml">
       <SubType>Lua</SubType>
@@ -917,9 +931,9 @@ Ollie is geared towards any.</Description>
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
-    <Content Include="XML\Will\WillScene.xml">
+    <Content Include="XML\Will\Will_Scene.xml">
       <SubType>Lua</SubType>
-      <ImportIntoVFS>False</ImportIntoVFS>
+      <ImportIntoVFS>True</ImportIntoVFS>
     </Content>
     <Content Include="XML\Will\WillTrait.xml">
       <SubType>Lua</SubType>

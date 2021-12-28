@@ -7,9 +7,9 @@
 		  <Cost>130</Cost>
 		  <GoldMaintenance>1</GoldMaintenance>
 		  <PrereqTech>TECH_EDUCATION</PrereqTech>
-		  <Help>This building only gives 18% science to combat the early start boost.</Help>
-		  <Description>Bristol Universitys</Description>
-		  <Civilopedia>This does something lol</Civilopedia>
+		  <Help>This building only gives 20% science to combat the early start boost. Gives an extra science to jungle tiles.</Help>
+		  <Description>All Bristol University's</Description>
+		  <Civilopedia>This building only gives 20% science to combat the early start boost. Gives an extra science to jungle tiles.</Civilopedia>
 		  <Strategy>Good to build regardless</Strategy>
 		  <ArtDefineTag>ART_DEF_BUILDING_UNIVERSITY</ArtDefineTag>
 		  <SpecialistType>SPECIALIST_SCIENTIST</SpecialistType>
@@ -33,7 +33,7 @@
 	<Row>
 		<BuildingType>BUILDING_OT_OLLIE</BuildingType>
 		<YieldType>YIELD_SCIENCE</YieldType>
-		<Yield>18</Yield>
+		<Yield>20</Yield>
 	</Row>
 	</Building_YieldModifiers>
 

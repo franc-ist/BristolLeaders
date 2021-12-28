@@ -3,10 +3,10 @@
   <Units>
     <Row>
       <Type>UNIT_SK_CALEB</Type>
-      <Description>Calebs Musician</Description>
+      <Description>Morwennas Musician</Description>
       <Civilopedia>TXT_KEY_CIV5_SK_CALEB_PICTISH_WARRIOR_TEXT</Civilopedia>
       <Strategy>Please do not abuse and win before atomic era using these</Strategy>
-      <Help>Can enter other players teretories without open borders</Help>
+      <Help>Can enter other players territories without open borders. Can spread tourism.</Help>
       <Requirements></Requirements>
       <Combat>10</Combat>
       <RangedCombat>0</RangedCombat>
@@ -156,10 +156,10 @@
       <Text><!-- Add Civilopedia text here --></Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_SK_CALEB_STRATEGY">
-      <Text>The brain washer is CALEBs unique unit it can capture other units from other civilisations</Text>
+      <Text>The brain washer is Morwenna unique unit it can capture other units from other civilisations</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_SK_CALEB_PICTISH_WARRIOR">
-      <Text>Only the CALEB may build this unit. It has a combat bonus outside of friendly territory and can pillage enemy improvements at no additional movement cost. Earns 50% of opponents' strength as [ICON_PEACE] Faith for kills.</Text>
+      <Text>Only the Morwenna may build this unit. It has a combat bonus outside of friendly territory and can pillage enemy improvements at no additional movement cost. Earns 50% of opponents' strength as [ICON_PEACE] Faith for kills.</Text>
     </Row>
   </Language_en_US>
 </GameData>

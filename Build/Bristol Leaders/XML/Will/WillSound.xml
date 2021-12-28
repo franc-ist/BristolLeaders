@@ -43,8 +43,13 @@
 			<LoadType>DynamicResident</LoadType>
 		</Row>
 		<Row>
-			<SoundID>SND_OLLIE_EITHER_01</SoundID>
-			<Filename>SONG_OLLIE</Filename>
+			<SoundID>SND_OLLIE_PEACE_01</SoundID>
+			<Filename>SONG_OLLIE_PEACE</Filename>
+			<LoadType>DynamicResident</LoadType>
+		</Row>
+		<Row>
+			<SoundID>SND_OLLIE_WAR_01</SoundID>
+			<Filename>SONG_OLLIE_WAR</Filename>
 			<LoadType>DynamicResident</LoadType>
 		</Row>
 		<Row>
@@ -197,7 +202,7 @@
 		</Row>
 		<Row>
 			<ScriptID>SONG_OLLIE_PEACE_1</ScriptID>
-			<SoundID>SND_OLLIE_EITHER_01</SoundID>
+			<SoundID>SND_OLLIE_PEACE_01</SoundID>
 			<SoundType>GAME_MUSIC</SoundType>
 			<MinVolume>40</MinVolume>
 			<MaxVolume>40</MaxVolume>
@@ -206,7 +211,7 @@
 		</Row>
 		<Row>
 			<ScriptID>SONG_OLLIE_WAR_1</ScriptID>
-			<SoundID>SND_OLLIE_EITHER_01</SoundID>
+			<SoundID>SND_OLLIE_WAR_01</SoundID>
 			<SoundType>GAME_MUSIC</SoundType>
 			<MinVolume>40</MinVolume>
 			<MaxVolume>40</MaxVolume>

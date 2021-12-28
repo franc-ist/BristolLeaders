@@ -284,17 +284,17 @@
     <Row>
       <Type>COLOR_PLAYER_SK_CAT_ICON</Type>
       <Red>0.0</Red>
-      <Green>1.0</Green>
-      <Blue>1.0</Blue>
+      <Green>0.0</Green>
+      <Blue>0.0</Blue>
       <Alpha>1.0</Alpha>
     </Row>
   </Colors>
   <Colors>
     <Row>
       <Type>COLOR_PLAYER_SK_CAT_BACKGROUND</Type>
-      <Red>0.6</Red>
-      <Green>0.0</Green>
-      <Blue>0.94</Blue>
+      <Red>1.0</Red>
+      <Green>1.0</Green>
+      <Blue>1.0</Blue>
       <Alpha>1.0</Alpha>
     </Row>
   </Colors>

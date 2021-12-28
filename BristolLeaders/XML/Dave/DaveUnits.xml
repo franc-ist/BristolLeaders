@@ -164,10 +164,10 @@
       <Text><!-- Add Civilopedia text here --></Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_SK_DAVE_STRATEGY">
-      <Text>Dave`s son is the fastest scout in the game and is very fast with 5 movement before promotion and 1 sight</Text>
+      <Text>Dave`s son is the fastest scout in the game and is very fast with 5 movement before promotions and has 1 sight</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_SK_DAVE_PICTISH_WARRIOR">
-      <Text>Dave`s son is the fastest scout in the game and is very fast with 5 movement before promotion and 1 sight</Text>
+      <Text>Dave`s son is the fastest scout in the game and is very fast with 5 movement before promotions and has 1 sight.</Text>
     </Row>
   </Language_en_US>
 </GameData>

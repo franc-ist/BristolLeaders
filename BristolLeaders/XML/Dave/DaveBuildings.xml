@@ -6,7 +6,7 @@
 		<BuildingClass>BUILDINGCLASS_GRANARY</BuildingClass>
 		<Cost>50</Cost>
 		<PrereqTech>TECH_POTTERY</PrereqTech>
-		<Help>Gives 3 food and a pop increase to dave</Help>
+		<Help>Gives 3 food and a pop increase to Dave.</Help>
 		<Description>Daves dog farm</Description>
 		<ArtDefineTag>NONE</ArtDefineTag>
 		<MinAreaSize>-1</MinAreaSize>
@@ -31,11 +31,6 @@
   <!-- Building_DomainProductionModifiers -->
   <!-- Building_FreeSpecialistCounts -->
   <Building_Flavors>
-    <Row>
-      <BuildingType>BUILDING_SK_DAVE</BuildingType>
-      <FlavorType>FLAVOR_FOOD</FlavorType>
-      <Flavor>45</Flavor>
-    </Row>
 	  <Row>
 		  <BuildingType>BUILDING_SK_DAVE</BuildingType>
 		  <FlavorType>FLAVOR_GROWTH</FlavorType>

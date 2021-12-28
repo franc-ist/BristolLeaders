@@ -167,13 +167,13 @@
       <Text>Francis`s Watcher</Text>
     </Row>
     <Row Tag="TXT_KEY_CIV5_SK_FRANCIS_PICTISH_WARRIOR_TEXT">
-      <Text>This is meant to be from the top of the physics building</Text>
+      <Text>This is meant to be from the top of the physics building.</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_SK_FRANCIS_STRATEGY">
 		<Text>Allows early warning of attack and other benifits</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_SK_FRANCIS_PICTISH_WARRIOR">
-      <Text>This unique unit can`t move but can see for 20 tiles around.Can attack any units 1 tile away </Text>
+      <Text>This unique unit can`t move but can see for 20 tiles around. Can attack any units 1 tile away.</Text>
     </Row>
   </Language_en_US>
 </GameData>

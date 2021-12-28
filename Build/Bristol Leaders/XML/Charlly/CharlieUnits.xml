@@ -166,7 +166,7 @@
       <Text>Charlies Cat Warrior is Charlie the cats unique unit. Slightly stronger costs more and gets +50% attack against cities</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_SK_CAT_PICTISH_WARRIOR">
-      <Text>Only the Charlie may build this unit. It get +50% strength against cities</Text>
+      <Text>Only the Charlie may build this unit. It get +50% strength against cities.</Text>
     </Row>
   </Language_en_US>
 </GameData>

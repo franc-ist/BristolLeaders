@@ -118,7 +118,7 @@
 
   <Language_en_US>
     <Row Tag="TXT_KEY_OT_OLLIE_TRAIT">
-      <Text>Plus 2 move speed for most units and starts with 2 settlers.</Text>
+      <Text>Plus 2 move speed for most units and starts with 2 extra settlers.</Text>
     </Row>
     <Row Tag="TXT_KEY_OT_OLLIE_TRAIT_SHORT">
       <Text>Quick Reflexes</Text>

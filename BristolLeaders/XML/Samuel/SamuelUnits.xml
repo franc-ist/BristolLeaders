@@ -11,7 +11,7 @@
       <Combat>11</Combat>
       <RangedCombat>0</RangedCombat>
       <Cost>40</Cost>
-      <FaithCost>40</FaithCost>
+      <FaithCost>200</FaithCost>
       <Moves>1</Moves>
       <Immobile>0</Immobile>
       <Range>0</Range>
@@ -182,7 +182,7 @@
       <Text>Use this to get to hidden ruins to collect good bonuses</Text>
     </Row>
     <Row Tag="TXT_KEY_UNIT_HELP_SK_SAMUEL_PICTISH_WARRIOR">
-      <Text>Only the Samuel may build this unit. =Very weak but can go across coast already.It is a flying type unit ignores terrain has up to 6 view but can only move 1 tile per turn.</Text>
+      <Text>Very weak but can go across ocean from the start. It is a flying type unit. It ignores terrain and has up to 6 view but can only move 1 tile per turn.</Text>
     </Row>
   </Language_en_US>
 </GameData>
